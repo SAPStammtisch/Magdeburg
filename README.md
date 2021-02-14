@@ -38,6 +38,7 @@ Anmeldeinformationen: (folgt hier)
 - 27.07.2020 - #13 - virtuell: Wiedersehen mit Gästen
 - 25.05.2020 - #12 - virtuell: Neustart
 - 27.01.2020 - #11 - Stammtisch Spezial "Digitalisierung" mit Gästen
+
 ### 2019
 - 25.11.2019 - #10 - Analytics Ausbildung am SAP UCC, S/4 HANA Key User Tools
 - 30.09.2019 -  #9 - Analytics: Business Grafiken in der "alten Welt", Überblick CDS
@@ -56,8 +57,11 @@ Anmeldeinformationen: (folgt hier)
 ## Freunde und Sponsoren
 
 ![SAP UCC Logo](res\sap_ucc_logo_264x346.jpg)
+
 [SAP University Competence Center Magdeburg (UCC)](http://www.sap-ucc.com)
 
+
 ![BA Business Advice Logo](res\ba_logo_512x150.jpg)
+
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
