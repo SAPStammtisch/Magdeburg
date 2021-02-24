@@ -10,9 +10,12 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 Nächstes Treffen: 29.03.2021 ab 19:00 Uhr (virtuell)
 
+Agenda/Themen (geplant):
+- SAP Industry Cloud
+
 Anmeldung: [Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-marz-2021-3306975)
 
-Anmeldeinformationen: (folgt hier)
+Anmeldeinformationen: (folgen hier)
 
 ## Der SAP Stammtisch Magdeburg im Internet
 - [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
@@ -22,7 +25,7 @@ Anmeldeinformationen: (folgt hier)
 
 
 ## Sonstige Informationen im Internet
-- [SAP Stammtische auf Github](https://sapstammtisch.github.io/Welcome/)
+- [SAP Stammtische auf Github](https://sapstammtisch.github.io/welcome/)
 - [SAP Stammtisch Bern und virtuell Schweiz](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)
 
 
@@ -54,7 +57,7 @@ Anmeldeinformationen: (folgt hier)
 - 28.05.2018 -  #1 - Kickoff und Kennenlernen 
 
 
-## Freunde und Sponsoren
+## Freunde, Partner und Sponsoren
 
 ![SAP UCC Logo](res\sap_ucc_logo_264x346.jpg)
 
@@ -65,3 +68,5 @@ Anmeldeinformationen: (folgt hier)
 
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
+
+last modified: 24.02.2021 mdjoerg
