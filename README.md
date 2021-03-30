@@ -8,11 +8,11 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 ## Aktuelles - Nächstes Treffen
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit nur virtuell statt.
 
-Nächstes Treffen: 29.03.2021 ab 19:00 Uhr (virtuell)
-Fokusthema "Industry Cloud"
+Nächstes Treffen: 31.05.2021 ab 19:00 Uhr (virtuell)
+Fokusthema "Open Data" (geplant)
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-marz-2021-3306975)
-- [Link zum Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmZmYjkyYTQtMjU1Ni00ZjYyLWE3N2ItMTdjYjliNjRlYjEx%40thread.v2/0?context=%7b%22Tid%22%3a%22fc33cc84-99da-4f67-8e67-b05697355a4b%22%2c%22Oid%22%3a%2258e7b84d-07bf-4c4e-955a-54a15b479147%22%7d)
+- Anmeldung Xing Event
+- [Link zum Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmYxMzNmOTktNDUxMS00ZmQyLThlZGEtODA5ODQ4N2M4MzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22fc33cc84-99da-4f67-8e67-b05697355a4b%22%2c%22Oid%22%3a%2258e7b84d-07bf-4c4e-955a-54a15b479147%22%7d)
 - [Weitere Infos zu Microsoft Teams](https://aka.ms/JoinTeamsMeeting)
 
 
@@ -32,6 +32,7 @@ Fokusthema "Industry Cloud"
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2021
+- 29.03.2021 - #17 - virtuell: [SAP Industry Cloud](archiv\20210329)
 - 25.01.2021 - #16 - virtuell: Chatbots, Business Simulation und Gamification
 
 ### 2020
