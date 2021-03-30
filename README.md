@@ -32,7 +32,7 @@ Fokusthema "Open Data" (geplant)
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2021
-- 29.03.2021 - #17 - virtuell: [SAP Industry Cloud](archiv\20210329)
+- 29.03.2021 - #17 - virtuell: SAP Industry Cloud - [Überblick](archiv\20210329\20210329 SAP Industry Cloud - SAP Stammtisch.pdf), [ETM.Next](archiv\20210329\20210329 ETM-next by BearingPoint_SAP_Stammtisch.pdf)
 - 25.01.2021 - #16 - virtuell: Chatbots, Business Simulation und Gamification
 
 ### 2020
@@ -69,4 +69,4 @@ Fokusthema "Open Data" (geplant)
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 24.02.2021 mdjoerg
+last modified: 30.03.2021 mdjoerg
