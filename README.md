@@ -9,11 +9,11 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit nur virtuell statt.
 
 Nächstes Treffen: 31.05.2021 ab 19:00 Uhr (virtuell)
-Fokusthema "Open Data" (geplant)
+Fokusthema "Daten" - wieder mit Gastvorträgen 
 
 - Anmeldung Xing Event
-- [Link zum Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmYxMzNmOTktNDUxMS00ZmQyLThlZGEtODA5ODQ4N2M4MzQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22fc33cc84-99da-4f67-8e67-b05697355a4b%22%2c%22Oid%22%3a%2258e7b84d-07bf-4c4e-955a-54a15b479147%22%7d)
-- [Weitere Infos zu Microsoft Teams](https://aka.ms/JoinTeamsMeeting)
+- Link zum Zoom Meeting (kommt rechtzeitig)
+- [Download der Zoom Client Software](https://zoom.us/download)
 
 
 ## Der SAP Stammtisch Magdeburg im Internet
@@ -69,4 +69,4 @@ Fokusthema "Open Data" (geplant)
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 30.03.2021 mdjoerg
+last modified: 11.05.2021 mdjoerg
