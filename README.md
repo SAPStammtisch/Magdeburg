@@ -11,7 +11,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 Nächstes Treffen: 31.05.2021 ab 19:00 Uhr (virtuell)
 Fokusthema "Daten" - wieder mit Gastvorträgen 
 
-- [Anmeldung Xing Event]https://www.xing.com/events/sap-stammtisch-magdeburg-mai-2021-3452627/)
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-mai-2021-3452627/)
 - Link zum Zoom Meeting (kommt rechtzeitig)
 - [Download der Zoom Client Software](https://zoom.us/download)
 
@@ -69,4 +69,4 @@ Fokusthema "Daten" - wieder mit Gastvorträgen
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 11.05.2021 mdjoerg
+last modified: 13.05.2021 mdjoerg
