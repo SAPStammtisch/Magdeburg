@@ -12,7 +12,7 @@ Nächstes Treffen: 31.05.2021 ab 19:00 Uhr (virtuell)
 Fokusthema "Daten" - wieder mit Gastvorträgen 
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-mai-2021-3452627/)
-- Link zum Zoom Meeting (kommt rechtzeitig)
+- [Link zum Zoom Meeting](https://zoom.us/j/95984972426?pwd=YTJhY2RzYU1jb2tnVFJvSHJYM1NQQT09)
 - [Download der Zoom Client Software](https://zoom.us/download)
 
 
@@ -69,4 +69,4 @@ Fokusthema "Daten" - wieder mit Gastvorträgen
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.05.2021 mdjoerg
+last modified: 31.05.2021 mdjoerg
