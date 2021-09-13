@@ -12,7 +12,7 @@ Nächstes Treffen: 27.09.2021 ab 19:00 Uhr (virtuell)
 
 Unser Fokusthema ist dieses mal "Datenhoheit, Interoperabilität und Nachhaltigkeit". Wir veranstalten dieses Treffen zusammen mit anderen regionalen Communities als “Data-TechUP”. Dazu haben wir uns wieder Gäste eingeladen, die uns Anregungen für eine sicherlich interessante Diskussion mit unterschiedlichen Perspektiven liefern. Nach kurzen Eröffnungsvorträgen wird es eine moderierte (virtuelle) Podiumsdiskussion geben. Danach freuen wir uns über weitere Meinungen und Perspektiven der SAP Stammtisch Besucher. 
  
-Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die sich aus der Blickrichtung Digitalisierung, SAP, … diskutiueren lassen?!
+Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die sich aus der Blickrichtung Digitalisierung, SAP, … diskutieren lassen?!
 
 Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
