@@ -10,10 +10,14 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 Nächstes Treffen: 27.09.2021 ab 19:00 Uhr (virtuell)
 
-Zusammen mit anderen regionalen Communities beteiligen wir uns als Gastgeber an einem "Data-TechUP". Das Treffen steht unter dem Fokus-Thema "Datenhoheit, Interoperabilität und Nachhaltigkeit". Gäste aus dem Non-SAP-Bereich werden uns hierzu einen Einstieg und Impulse liefern. Danach freuen wir uns auf eine lebhafte moderierte Diskussion und die verschiedenen Perspektiven auf dieses interessante Thema.   
+Unser Fokusthema ist dieses mal "Datenhoheit, Interoperabilität und Nachhaltigkeit". Wir veranstalten dieses Treffen zusammen mit anderen regionalen Communities als “Data-TechUP”. Dazu haben wir uns wieder Gäste eingeladen, die uns Anregungen für eine sicherlich interessante Diskussion mit unterschiedlichen Perspektiven liefern. Nach kurzen Eröffnungsvorträgen wird es eine moderierte (virtuelle) Podiumsdiskussion geben. Danach freuen wir uns über weitere Meinungen und Perspektiven der SAP Stammtisch Besucher. 
+ 
+Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die sich aus der Blickrichtung Digitalisierung, SAP, … diskutiueren lassen?!
 
-- Anmeldung Xing Event (kommt noch)
-- Link zum Zoom Meeting (kommt rechtzeitig)
+Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
+
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2021-data-techup-3602517)
+- [Link zum Zoom Meeting](https://zoom.us/j/99244464744?pwd=NGtheVFVT3Ryamk4M0dWK0p5bXQ4QT09)
 - [Download der Zoom Client Software](https://zoom.us/download)
 
 
