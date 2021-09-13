@@ -8,10 +8,9 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 ## Aktuelles - Nächstes Treffen
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit nur virtuell statt.
 
-Achtung: 
-Wir machen im Juli eine Sommerpause. Daher fällt das geplante Treffen am 26.07.2021 aus. Alternativ empfehlen wir am 20.07.2021 ab 19:00 Uhr den gemeinsamen Stammtisch vSchweiz und Dortmund. Die Anmeldeinformationen sind [hier](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz) zu finden.  
-
 Nächstes Treffen: 27.09.2021 ab 19:00 Uhr (virtuell)
+
+Zusammen mit anderen regionalen Communities beteiligen wir uns als Gastgeber an einem "Data-TechUP". Das Treffen steht unter dem Fokus-Thema "Datenhoheit, Interoperabilität und Nachhaltigkeit". Gäste aus dem Non-SAP-Bereich werden uns hierzu einen Einstieg und Impulse liefern. Danach freuen wir uns auf eine lebhafte moderierte Diskussion und die verschiedenen Perspektiven auf dieses interessante Thema.   
 
 - Anmeldung Xing Event (kommt noch)
 - Link zum Zoom Meeting (kommt rechtzeitig)
@@ -72,4 +71,4 @@ Nächstes Treffen: 27.09.2021 ab 19:00 Uhr (virtuell)
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 16.07.2021 mdjoerg
+last modified: 13.09.2021 mdjoerg
