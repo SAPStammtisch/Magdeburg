@@ -17,8 +17,8 @@ Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die
 Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2021-data-techup-3602517)
-- [Link zum Zoom Meeting](https://zoom.us/j/99244464744?pwd=NGtheVFVT3Ryamk4M0dWK0p5bXQ4QT09)
-- [Download der Zoom Client Software](https://zoom.us/download)
+- [Link zum virtuellen Meeting](https://app.bbbserver.de/de/join/6d2a1b01-609b-48a4-aa29-78d8709228df)
+- [Link zur externen Data-TechUP Homepage](https://it-tech-up.de/data-techup)
 
 
 ## Der SAP Stammtisch Magdeburg im Internet
@@ -75,4 +75,4 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.09.2021 mdjoerg
+last modified: 17.09.2021 mdjoerg
