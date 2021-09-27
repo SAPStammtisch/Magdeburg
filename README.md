@@ -17,7 +17,7 @@ Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die
 Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2021-data-techup-3602517)
-- [Link zum virtuellen Meeting](https://app.bbbserver.de/de/join/6d2a1b01-609b-48a4-aa29-78d8709228df)
+- [Link zum virtuellen Meeting](https://app.bbbserver.de/de/join/161ae04a-9326-4885-a3ff-a0292ec0a0b1)
 - [Link zur externen Data-TechUP Homepage](https://it-tech-up.de/data-techup)
 
 
