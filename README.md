@@ -8,11 +8,11 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 ## Aktuelles - Nächstes Treffen
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit nur virtuell statt.
 
-Nächstes Treffen: 27.09.2021 ab 19:00 Uhr (virtuell)
+Wir haben uns entschlossen, dass für den 29.11.2021 geplante Treffen abzusagen. Grund ist mangelnde Zeit und absehbare Teilnahmebereitschaft, da die meisten im Jahresendstress sind.  
 
-Unser Fokusthema ist dieses mal "Datenhoheit, Interoperabilität und Nachhaltigkeit". Wir veranstalten dieses Treffen zusammen mit anderen regionalen Communities als “Data-TechUP”. Dazu haben wir uns wieder Gäste eingeladen, die uns Anregungen für eine sicherlich interessante Diskussion mit unterschiedlichen Perspektiven liefern. Nach kurzen Eröffnungsvorträgen wird es eine moderierte (virtuelle) Podiumsdiskussion geben. Danach freuen wir uns über weitere Meinungen und Perspektiven der SAP Stammtisch Besucher. 
- 
-Einen Tag nach der Bundestagswahl gibt es bestimmt auch noch weitere Themen, die sich aus der Blickrichtung Digitalisierung, SAP, … diskutieren lassen?!
+Nächstes Treffen: 31.01.2022 ab 19:00 Uhr (virtuell)
+
+Wir haben bisher noch keine konkrete Themen. Sobald etwas feststeht, wird es hier veröffentlicht.
 
 Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
@@ -75,4 +75,4 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 27.09.2021 mdjoerg
+last modified: 29.11.2021 mdjoerg
