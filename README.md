@@ -12,13 +12,14 @@ Wir haben uns entschlossen, dass für den 29.11.2021 geplante Treffen abzusagen.
 
 Nächstes Treffen: 31.01.2022 ab 19:00 Uhr (virtuell)
 
-Wir haben bisher noch keine konkrete Themen. Sobald etwas feststeht, wird es hier veröffentlicht.
+Wir haben bisher noch kein konkretes Programm. Einfach zusammen finden und über die jeweiligen Lessons Learned aus 2021 und Vorsätzen für 2022 austauschen… 
+Die aktuellsten Informationen werden immer hier auf der SAP Stammtisch Github Seite veröffentlicht. 
 
 Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2021-data-techup-3602517)
-- [Link zum virtuellen Meeting](https://app.bbbserver.de/de/join/161ae04a-9326-4885-a3ff-a0292ec0a0b1)
-- [Link zur externen Data-TechUP Homepage](https://it-tech-up.de/data-techup)
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-januar-2022-3771913)
+- [Link zum virtuellen Meeting](https://zoom.us/j/93353686004?pwd=dUdpM3BxZXZTMmJ0ckVtOTV3WEdCZz09)
+- [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
 ## Der SAP Stammtisch Magdeburg im Internet
@@ -37,6 +38,7 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2021
+- 27.09.2021 - #19 - virtuell: Data-TechUP mit anderen regionalen Communities 
 - 31.05.2021 - #18 - virtuell: Daten (sind das neue Öl?!) - Vortrag [Daten](archiv\20210531\20210531 SAP Stammtisch Magdeburg - Daten sind das neue Öl V02.pdf), Vortrag [Datahub-Baubranche](archiv\20210531\20210531 COMAN_Presentation_SAP-Stammtisch MD.pdf)
 - 29.03.2021 - #17 - virtuell: SAP Industry Cloud - [Überblick](archiv\20210329\20210329 SAP Industry Cloud - SAP Stammtisch.pdf), [ETM.Next](archiv\20210329\20210329 ETM-next by BearingPoint_SAP_Stammtisch.pdf)
 - 25.01.2021 - #16 - virtuell: Chatbots, Business Simulation und Gamification
@@ -75,4 +77,4 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 29.11.2021 mdjoerg
+last modified: 17.01.2022 mdjoerg
