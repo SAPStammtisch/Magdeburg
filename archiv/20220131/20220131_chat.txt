@@ -1,0 +1,43 @@
+	für die Basis Kollegen: https://e-3.de/home-cloud/
+
+	https://discovery-center.cloud.sap/viewServices?provider=all&category=freetierservices
+
+	https://www.heise.de/news/Krawall-Influencerin-Lilith-Wittmann-Baut-intern-Kompetenz-auf-6335264.html
+
+	https://news.sap.com/germany/2019/01/blockchain-gefaelschte-arzneimittel/
+
+	Kommentar von Linus Neumann (CCC) zum Thema digitaler Impfpass mit #blockchain
+	Zitate: 	
+	"Blockchains lösen genau ein Problem sehr gut."
+	"Man kann vieles mit einer Blockchain machen. Aber in den meisten Fällen ist es einfach nur Unsinn, das zu tun."
+	https://www.youtube.com/watch?v=YKI8mf05K4A&feature=youtu.be
+
+	https://www.mdr.de/mdr-sachsen-anhalt/podcast/digitanhalt-102.html
+
+	https://media.ccc.de/v/rc3-2021-chaoszone-295-rebuilding-landkr#t=1
+
+	https://www.amazon.de/Moved-Cheese-Amazing-Deal-Change/dp/0091816971/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=5QFPNYNS2067&keywords=who+moved+my+cheese&qid=1643657422&sprefix=who+moved+my+chee%2Caps%2C601&sr=8-1
+
+	https://www.amazon.de/Das-M%C3%A4rchenbuch-f%C3%BCr-Manager-Gute-Nacht-Geschichten/dp/3423344172/ref=sr_1_1?adgrpid=73793154200&gclid=Cj0KCQiArt6PBhCoARIsAMF5waiBjHC7xbUgkT5MOANp1mW0gzeHlm2jC4rlo1Qd2TSTKomaf76HhlQaAhSlEALw_wcB&hvadid=391551724971&hvdev=c&hvlocphy=9043720&hvnetw=g&hvqmt=e&hvrand=15160322245018494135&hvtargid=kwd-300705523104&hydadcr=27959_1978106&keywords=m%C3%A4rchenbuch+f%C3%BCr+manager&qid=1643657507&sr=8-1
+
+	https://scilogs.spektrum.de/wild-dueck-blog/who-morphed-my-cheese-ber-leute-die-nur-k-se-machen/
+
+	Mein Lieblingsvideo zum Thema Bildung: https://www.youtube.com/watch?v=Hflsr52iX7g
+	Vorspulen nach Minute 30
+
+	Hier mal was ganz anderes zum Thema Schulung: https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2020/eigensinn/alemannenschule-wutoeschingen-schule-machen
+
+	https://www.akvb-unterricht.bkd.be.ch/content/dam/akvb-unterricht_bkd/dokumente/de/startseite/regelunterricht/beurteilung-uebertritte/beurteilungsformulare/beurteilung-lpl21-uebertrittsbericht-d.pdf
+
+	https://www.akvb-unterricht.bkd.be.ch/content/dam/akvb-unterricht_bkd/dokumente/de/startseite/regelunterricht/beurteilung-uebertritte/beurteilungsformulare/beurteilung-lp21-portfolio-d.pdf
+
+	Agile Organisationen: Organisation in Zellen/Waben:
+	https://www.cio.de/a/absage-an-abteilungen-und-hierarchien,3552281
+
+	https://developers.sap.com/tutorials/hana-graph-overview-setup.html#
+
+	https://help.sap.com/viewer/adf64e13e91b4e56b6cd44a2a8776338/2020.1/de-DE/1eef4a77c6464930993dde7ddd375671.html
+
+	https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
+
+	https://www.kaggle.com/c/titanic/data

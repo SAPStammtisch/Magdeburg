@@ -10,15 +10,14 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 Wir haben uns entschlossen, dass für den 29.11.2021 geplante Treffen abzusagen. Grund ist mangelnde Zeit und absehbare Teilnahmebereitschaft, da die meisten im Jahresendstress sind.  
 
-Nächstes Treffen: 31.01.2022 ab 19:00 Uhr (virtuell)
+Nächstes Treffen: 28.03.2022 (Achtung Hybrid)
 
-Wir haben bisher noch kein konkretes Programm. Einfach zusammen finden und über die jeweiligen Lessons Learned aus 2021 und Vorsätzen für 2022 austauschen… 
-Die aktuellsten Informationen werden immer hier auf der SAP Stammtisch Github Seite veröffentlicht. 
+Falls es Corona zulässt, wollen wir uns mal wieder vor Ort treffen. Wir haben ein Angebot von den Stadtwerken Magdeburg (SWM) bekommen, die neuen Geschäftsräume am Breiten Weg "einzuweihen". Das nutzen wir doch gern! Eine Agenda folgt noch. Für unsere überregionalen Teilnehmer suchen wir nach einem Weg, an diesem Event auch virtuell teilnehmen zu können.
+Neuigkeiten kommen hier zuerst. Also schau mal wieder vorbei.
 
-Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregionale Gäste offen! 
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-januar-2022-3771913)
-- [Link zum virtuellen Meeting](https://zoom.us/j/93353686004?pwd=dUdpM3BxZXZTMmJ0ckVtOTV3WEdCZz09)
+- [Anmeldung Xing Event]()
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -37,6 +36,10 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
 ## Archiv - bisherige Treffen und Dokumente
+
+### 2022
+- 31.01.2022 - #20 - virtuell: Diverse Themen rund um Bildung, Gesellschaft usw. - [Chat Protokoll|(archiv\20220131\20220131_chat.txt)
+
 ### 2021
 - 27.09.2021 - #19 - virtuell: Data-TechUP mit anderen regionalen Communities 
 - 31.05.2021 - #18 - virtuell: Daten (sind das neue Öl?!) - Vortrag [Daten](archiv\20210531\20210531 SAP Stammtisch Magdeburg - Daten sind das neue Öl V02.pdf), Vortrag [Datahub-Baubranche](archiv\20210531\20210531 COMAN_Presentation_SAP-Stammtisch MD.pdf)
@@ -77,4 +80,4 @@ Durch den virtuellen Modus stehen unsere Türen natürlich wieder für überregi
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 17.01.2022 mdjoerg
+last modified: 13.02.2022 mdjoerg
