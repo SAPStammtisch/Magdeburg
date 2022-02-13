@@ -38,7 +38,7 @@ Neuigkeiten kommen hier zuerst. Also schau mal wieder vorbei.
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
-- 31.01.2022 - #20 - virtuell: Diverse Themen rund um Bildung, Gesellschaft usw. - [Chat Protokoll|(archiv\20220131\20220131_chat.txt)
+- 31.01.2022 - #20 - virtuell: Diverse Themen rund um Bildung, Gesellschaft usw. - [Chat Protokoll](archiv\20220131\20220131_chat.txt)
 
 ### 2021
 - 27.09.2021 - #19 - virtuell: Data-TechUP mit anderen regionalen Communities 
