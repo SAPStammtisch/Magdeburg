@@ -6,14 +6,12 @@
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
 ## Aktuelles - Nächstes Treffen
-Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit nur virtuell statt.
+Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit oft nur virtuell statt.
 
-Wir haben uns entschlossen, dass für den 29.11.2021 geplante Treffen abzusagen. Grund ist mangelnde Zeit und absehbare Teilnahmebereitschaft, da die meisten im Jahresendstress sind.  
-
-Nächstes Treffen: 28.03.2022 (Achtung Hybrid)
+Nächstes Treffen: 28.03.2022 (Achtung Hybrid geplant)
 
 Falls es Corona zulässt, wollen wir uns mal wieder vor Ort treffen. Wir haben ein Angebot von den Stadtwerken Magdeburg (SWM) bekommen, die neuen Geschäftsräume am Breiten Weg "einzuweihen". Das nutzen wir doch gern! Eine Agenda folgt noch. Für unsere überregionalen Teilnehmer suchen wir nach einem Weg, an diesem Event auch virtuell teilnehmen zu können.
-Neuigkeiten kommen hier zuerst. Also schau mal wieder vorbei.
+Neuigkeiten kommen hier zuerst. Also schaut mal wieder vorbei.
 
 
 - [Anmeldung Xing Event]()
@@ -80,4 +78,4 @@ Neuigkeiten kommen hier zuerst. Also schau mal wieder vorbei.
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.02.2022 mdjoerg
+last modified: 26.02.2022 mdjoerg
