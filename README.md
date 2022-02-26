@@ -14,8 +14,8 @@ Falls es Corona zulässt, wollen wir uns mal wieder vor Ort treffen. Wir haben e
 Neuigkeiten kommen hier zuerst. Also schaut mal wieder vorbei.
 
 
-- [Anmeldung Xing Event]()
-- [Link zum virtuellen Meeting]()
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-marz-2022-3831321)
+- [Link zum virtuellen Meeting](https://zoom.us/j/95000344271?pwd=TGY0WCs3UnhFd08zS3h6OVRveldsQT09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
