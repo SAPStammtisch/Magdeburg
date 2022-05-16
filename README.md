@@ -5,36 +5,30 @@
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
-Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit oft nur virtuell statt.
+Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit oft teilweise virtuell statt.
 
 ## Aktuelles - Nächstes Treffen
 
 Nächstes Treffen: 
-- 28.03.2022 (Vor Ort bei den Stadtwerken Magdeburg - Achtung Hybrid geplant)
-- Adresse: SWM Magdeburg - Städtische Werke Magdeburg GmbH & Co. KG, Am Blauen Bock 1, 39104 Magdeburg 
+- 30.05.2022 (SAP UCC)
 - Start 19:00 Uhr 
-- Einlass ab 18:45 Uhr
-- Der Eingang befindet sich an der Seite zum italienischen Restaurant Ciao Ciao [Skizze](archiv/20220328/swm_anreise.pdf)
-- Die Teilnehmer werden an der Tür (in Stößen) abgeholt
-- Für Notfälle wird an der Eingangstür eine Telefonnummer für "Notfälle" aushängen
+- Einlass ab 18:30 Uhr
 
 Programm:
 Dieser SAP Stammtisch steht unter dem Motto “S/4 HANA - zwischen Vision und Wirklichkeit”. 
 
-Wir sind zu Gast bei den Stadtwerken Magdeburg (SWM) und ihren neuen Geschäftsräumen. Aufgrund von Corona werden wir Masken tragen und Abstände einhalten. Näheres dann vor Ort.
-SWM hat dazu mehrere Vorträge vorbereitet, die uns Einblicke in das SWM SAP S/4 Projekt gewähren. In diesem Projekt wurden 10 Unternehmen von SAP ECC auf S/4 HANA umgestellt. 
-
-Nicht alles läuft in einem Transformationsprojekt nach Plan. Auf dem Weg in die “neue Welt” gibt es einige Herausforderungen und Überraschungen, auf die man vorbereitet sein sollte. 
-
-Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Gerade diesen Austausch vermissen wir alle und hoffen, es mit dieser Veranstaltung wieder aufleben zu lassen. 
+Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. 
+Gerade diesen Austausch vermissen wir alle und hoffen, es mit dieser Veranstaltung wieder aufleben zu lassen. 
 
 Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns an einem hybriden Modus. Ob uns das gelingt und wie wir gerade das Netzwerken vor Ort unter einen Hut bekommen, wird sich zeigen müssen.
 
-Wir freuen uns auf Euren Besuch und einen Neustart! 
+Die Vor-Ort-Teilnehmer bitte per Xing anmelden (für die Planung).
+
+Wir freuen uns auf Euren Besuch! 
 
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-marz-2022-3831321)
-- [Link zum virtuellen Meeting](https://zoom.us/j/95000344271?pwd=TGY0WCs3UnhFd08zS3h6OVRveldsQT09)
+- [Anmeldung Xing Event (kommt noch)]()
+- [Link zum virtuellen Meeting (kommt noch)]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -55,6 +49,7 @@ Wir freuen uns auf Euren Besuch und einen Neustart!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
+- 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit”
 - 31.01.2022 - #20 - virtuell: Diverse Themen rund um Bildung, Gesellschaft usw. - [Chat Protokoll](archiv\20220131\20220131_chat.txt)
 
 ### 2021
@@ -97,4 +92,4 @@ Wir freuen uns auf Euren Besuch und einen Neustart!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 23.03.2022 mdjoerg
+last modified: 16.05.2022 mdjoerg
