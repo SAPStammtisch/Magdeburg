@@ -10,25 +10,24 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ## Aktuelles - Nächstes Treffen
 
 Nächstes Treffen: 
-- 30.05.2022 (SAP UCC)
-- Start 19:00 Uhr 
+- Mo, 30.05.2022 
+- Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
+- Start Online ab ca. 19:00 Uhr 
+
 
 Programm:
-Dieser SAP Stammtisch steht unter dem Motto “S/4 HANA - zwischen Vision und Wirklichkeit”. 
+(wird derzeit noch geplant - auf jeden Fall kleine Vorträge und Ideen zum Netzwerken) 
 
-Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. 
-Gerade diesen Austausch vermissen wir alle und hoffen, es mit dieser Veranstaltung wieder aufleben zu lassen. 
+Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
 
-Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns an einem hybriden Modus. Ob uns das gelingt und wie wir gerade das Netzwerken vor Ort unter einen Hut bekommen, wird sich zeigen müssen.
-
-Die Vor-Ort-Teilnehmer bitte per Xing anmelden (für die Planung).
+Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten.
 
 Wir freuen uns auf Euren Besuch! 
 
 
-- [Anmeldung Xing Event (kommt noch)]()
-- [Link zum virtuellen Meeting (kommt noch)]()
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-mai-2022-3967245)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88976064109?pwd=bXJ3THV1czFxcDhnVEE0SW1GeFdkZz09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
