@@ -15,9 +15,7 @@ Nächstes Treffen:
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
-
-Programm:
-(wird derzeit noch geplant - auf jeden Fall kleine Vorträge und Ideen zum Netzwerken) 
+Programm (haben wir - lasst Euch überraschen)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
 
