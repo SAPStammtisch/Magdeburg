@@ -1,0 +1,8 @@
+	https://blogs.sap.com/2021/10/15/download-sap-training-material-from-sap-learning-hub/
+
+	Schon angesehen: https://exercism.org/tracks/abap?
+
+	SICF Services sind aus Sicherheitsgründen immer inaktiv und müssen in jedem System aktiviert werden.
+
+	Die Strategie der SAP ist hier das BTP Launchpad.
+	Das neue Portal ist der SAP Launchpad Service

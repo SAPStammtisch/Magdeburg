@@ -9,13 +9,15 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+ACHTUNG: Das nächste Treffen ist ausnahmsweise nicht nach der Regel "letzter Montag im ungeraden Monat" terminiert. 
+
 Nächstes Treffen: 
-- Mo, 30.05.2022 
+- Mo, 11.07.2022 
 - Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
-Programm (haben wir - lasst Euch überraschen)
+Programm (wird noch vorbereitet)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
 
@@ -24,8 +26,8 @@ Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, ve
 Wir freuen uns auf Euren Besuch! 
 
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-mai-2022-3967245)
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88976064109?pwd=bXJ3THV1czFxcDhnVEE0SW1GeFdkZz09)
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-juli-2022-3982261)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/84487287704?pwd=K1FIMXFHTWFtWTdsWUh0blpwMWJjUT09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -46,7 +48,8 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
-- 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit”
+- 30.05.2022 - #22 - Hybrid: UCC - [Nationale Bildungsplattform BIRD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_BIRD_Lab.pdf), [Python/SAP](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_Python_SAP.pdf), [GuSBaD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_GuSBaD.pdf) - [Chat Protokoll](archiv\20220530\20220530_chat.txt)
+- 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit” - [Chat Protokoll](archiv\20220328\20220328_chat.txt)
 - 31.01.2022 - #20 - virtuell: Diverse Themen rund um Bildung, Gesellschaft usw. - [Chat Protokoll](archiv\20220131\20220131_chat.txt)
 
 ### 2021
@@ -89,4 +92,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 16.05.2022 mdjoerg
+last modified: 31.05.2022 mdjoerg

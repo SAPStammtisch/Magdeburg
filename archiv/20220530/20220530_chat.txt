@@ -1,0 +1,32 @@
+	https://blogs.sap.com/2021/06/04/saps-badges-in-apple-wallet/
+
+	Ist ID Wallet nicht vielleicht eine alternative? Ist Device Übergreifend und wird zur Zeit für Führerschein bzw. für Personalausweis entwickelt… Thema Sicherheit bzw. Akzeptanz…
+	bzw. ausweisapp2
+
+	https://www.heise.de/news/Bundes-CIO-ueber-ID-Wallet-Desaster-Hausaufgaben-nicht-gemacht-7068237.html
+
+	https://digital-enabling.eu/
+
+	https://www.kba.de/DE/Themen/ZentraleRegister/ZFER/Digitaler_Fuehrerschein/digitaler_fuehrerschein_node.html
+
+	War mir nicht bewusst das es schon einen digitalen Führerschein (Kopie) gibt.
+
+	Hintergrund ist bei großen Unternehmen (BP/Shell), dass die Soziale Verantwortung übernehmen wollen. Es kann sein das Du evtl. jemanden mal erklären musst wie ein Elektroroller richtig zu führen ist auch wenn Du selber kein Roller fährst… Thema Aussenwirksamkeit des Unternehmens…
+
+	Zinal
+	Swisspeak Resort
+	Am Kronberg
+	https://kronberg.ch/de/
+
+	https://www.desy.de
+
+	Data Intelligence
+	Wir haben im SAP Bereich keinen Data Scientisten. Allerdings eine eigene Abteilung mit ca 10 Leuten
+
+	Ich habe Interesse an dem Vortrag.
+
+	https://developers.sap.com/tutorial-navigator.html?tag=programming-tool%3Apython
+	Vitaly hat eine CodeJam gemacht mit SAP ML und Phyton. Mittlerweile 2 Jahre her. Evtl. ein Thema das er gerne aufgreift in Richtung Youn Thinkers
+
+	https://github.com/MDJoerg/mdd22_python
+	https://github.com/MDJoerg/mdd22_abap
