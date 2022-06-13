@@ -7,34 +7,45 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Durch Corona finden unsere Treffen derzeit oft teilweise virtuell statt.
 
+
 ## Aktuelles - Nächstes Treffen
 
 ACHTUNG: Das nächste Treffen ist ausnahmsweise nicht nach der Regel "letzter Montag im ungeraden Monat" terminiert. 
 
-Nächstes Treffen: 
+### Nächstes Treffen: 
 - Mo, 11.07.2022 
 - Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
-Programm (wird noch vorbereitet)
+### Programm
+#### 1. Sneak Preview „Einführung in S/4HANA – Rechnungswesen“, Stefan, SAP UCC Magdeburg
+Der Autor des bisher noch nicht veröffentlichten SAP Press Buchs stellt das Kapitel „Rechnungswesen“ mit umfangreichen Neuerungen in SAP S/4HANA Finance vor und plaudert ein wenig aus dem Nähkästchen."
+#### 2. "Produktion mit SAP und WIP-Chargen", Maria und Kim, BA 
+An einem praktischen Beispiel wird die Abbildung von Produktionsprozessen mit Zwischenprodukten und WIP-Chargen erklärt. WIP-Chargen sind eine Besonderheit im SAP, mit der Chargen- und Materialflussverfolgung realisiert werden kann. Im Fokus steht der Mitarbeiter in der Produktion und wie er seinen Prozess wahrnimmt. 
+#### 3. "Bildung im SAP Bereich", Babett, SAP UCC
+Best Practices aus der Mitarbeiterausbildung und der SAP UCC Lehre
 
-Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
 
-Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten.
-
-Wir freuen uns auf Euren Besuch! 
-
+### Anmeldung und Sonstige Informationen
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-juli-2022-3982261)
 - [Link zum virtuellen Meeting](https://us06web.zoom.us/j/84487287704?pwd=K1FIMXFHTWFtWTdsWUh0blpwMWJjUT09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
+Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
+
+Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten.
+
+
+Wir freuen uns auf Euren Besuch! 
+
+
 
 ## Der SAP Stammtisch Magdeburg im Internet
 - [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
 - [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
-- [SAP Inside Track Event Überblick](https://wiki.scn.sap.com/wiki/display/events)
+- [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
 - [Tech Events Magdeburg](https://tech-events-magdeburg.de/)
 
 
@@ -92,4 +103,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 31.05.2022 mdjoerg
+last modified: 13.06.2022 mdjoerg
