@@ -19,13 +19,17 @@ ACHTUNG: Das nächste Treffen ist ausnahmsweise nicht nach der Regel "letzter Mo
 - Start Online ab ca. 19:00 Uhr 
 
 ### Programm
-#### 1. Sneak Preview „Einführung in S/4HANA – Rechnungswesen“, Stefan, SAP UCC Magdeburg
-Der Autor des bisher noch nicht veröffentlichten SAP Press Buchs stellt das Kapitel „Rechnungswesen“ mit umfangreichen Neuerungen in SAP S/4HANA Finance vor und plaudert ein wenig aus dem Nähkästchen."
+
+#### 1. "Bildung im SAP Bereich", Babett, SAP UCC
+Best Practices aus der Mitarbeiterausbildung und der SAP UCC Lehre
 #### 2. "Produktion mit SAP und WIP-Chargen", Maria und Kim, BA 
 An einem praktischen Beispiel wird die Abbildung von Produktionsprozessen mit Zwischenprodukten und WIP-Chargen erklärt. WIP-Chargen sind eine Besonderheit im SAP, mit der Chargen- und Materialflussverfolgung realisiert werden kann. Im Fokus steht der Mitarbeiter in der Produktion und wie er seinen Prozess wahrnimmt. 
-#### 3. "Bildung im SAP Bereich", Babett, SAP UCC
-Best Practices aus der Mitarbeiterausbildung und der SAP UCC Lehre
 
+(Pause)
+#### 3. Sneak Preview „Einführung in S/4HANA – Rechnungswesen“, Stefan, SAP UCC Magdeburg
+Der Autor des bisher noch nicht veröffentlichten SAP Press Buchs stellt das Kapitel „Rechnungswesen“ mit umfangreichen Neuerungen in SAP S/4HANA Finance vor und plaudert ein wenig aus dem Nähkästchen."
+
+(Sonstiges, Freier Austausch)
 
 ### Anmeldung und Sonstige Informationen
 
@@ -103,4 +107,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.06.2022 mdjoerg
+last modified: 08.07.2022 mdjoerg
