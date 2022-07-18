@@ -17,8 +17,8 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Anmeldung und Sonstige Informationen
 
-- [Anmeldung Xing Event](https://us06web.zoom.us/j/84232413049?pwd=UjhnK3M3WmxtRUZHcGNuZ2pLUFAyUT09)
-- [Link zum virtuellen Meeting](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2022-4140913)
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2022-4140913)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/84232413049?pwd=UjhnK3M3WmxtRUZHcGNuZ2pLUFAyUT09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
