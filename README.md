@@ -15,6 +15,11 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
+Agenda (geplant):
+- Rückblick auf die SAP Academic Community Conference 2022
+- Data Science mit SAP ABAP
+- Buchvorstellung "Produktion" aus dem neuen Buch "Einstieg in SAP S/4HANA" (SAP Press) mit Co-Autor Christian Drumm
+
 ### Anmeldung und Sonstige Informationen
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2022-4140913)
@@ -92,4 +97,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 18.07.2022 mdjoerg
+last modified: 15.09.2022 mdjoerg
