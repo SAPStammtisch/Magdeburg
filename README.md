@@ -16,9 +16,11 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - Start Online ab ca. 19:00 Uhr 
 
 Agenda (geplant):
-- Rückblick auf die SAP Academic Community Conference 2022
-- Data Science mit SAP ABAP
+- Buchvorstellung "Product Ownership meistern" mit den Autoren und anschließender Diskussion zu „Sollten wir unsere IT/SAP Großprojekte wie ein Produkt führen? Was hindert uns?“
 - Buchvorstellung "Produktion" aus dem neuen Buch "Einstieg in SAP S/4HANA" (SAP Press) mit Co-Autor Christian Drumm
+- Organisatorisches: Wie geht es weiter ohne Xing?
+- optional: Rückblick auf die SAP Academic Community Conference 2022
+- optional: Ausblick Data Science mit SAP ABAP
 
 ### Anmeldung und Sonstige Informationen
 
@@ -97,4 +99,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 15.09.2022 mdjoerg
+last modified: 19.09.2022 mdjoerg
