@@ -54,7 +54,7 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
-- 26.09.2022 - #24 - Hybrid: UCC - [Agenda und Infos](archiv\20220926\20220926 vSAP Stammtisch Magdeburg #24 Agenda und Infos.pdf), Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8), Buchvorstellung ["Einführung in S/4 HANA"](https://youtu.be/khrVCIt9a3Y) mit Christian Drumm
+- 26.09.2022 - #24 - Hybrid: UCC - [Agenda und Infos](archiv\20220926\20220926_vSAP_Stammtisch_Magdeburg_24_Agenda_und_Infos.pdf), Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8), Buchvorstellung ["Einführung in S/4 HANA"](https://youtu.be/khrVCIt9a3Y) mit Christian Drumm
 - 11.07.2022 - #23 - Hybrid: UCC - Ausbildung im SAP Umfeld, SAP Produktion mit WIP-Chargen, Sneak Preview kommendes SAP Press Buch "Einführung in S/4 - Rechnungswesen"  
 - 30.05.2022 - #22 - Hybrid: UCC - [Nationale Bildungsplattform BIRD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_BIRD_Lab.pdf), [Python/SAP](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_Python_SAP.pdf), [GuSBaD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_GuSBaD.pdf) - [Chat Protokoll](archiv\20220530\20220530_chat.txt)
 - 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit” - [Chat Protokoll](archiv\20220328\20220328_chat.txt)
