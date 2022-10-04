@@ -9,23 +9,22 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unser neues Zuhause wird voraussichtlich die [SAP Community](https://groups.community.sap.com)
+
 ### Nächstes Treffen: 
-- Mo, 26.09.2022 
+- Mo, 28.11.2022 
 - Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
 Agenda (geplant):
-- Buchvorstellung "Product Ownership meistern" mit den Autoren und anschließender Diskussion zu „Sollten wir unsere IT/SAP Großprojekte wie ein Produkt führen? Was hindert uns?“
-- Buchvorstellung "Produktion" aus dem neuen Buch "Einstieg in SAP S/4HANA" (SAP Press) mit Co-Autor Christian Drumm
-- Organisatorisches: Wie geht es weiter ohne Xing?
-- optional: Rückblick auf die SAP Academic Community Conference 2022
-- optional: Ausblick Data Science mit SAP ABAP
+- Überblick Zusammarbeit Academia mit Business 
+- Data Science mit SAP ABAP
 
 ### Anmeldung und Sonstige Informationen
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-september-2022-4140913)
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/84232413049?pwd=UjhnK3M3WmxtRUZHcGNuZ2pLUFAyUT09)
+- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-november-2022-4269997)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82504920705?pwd=V1YxclZidnc3Nk5FekhCM3YyRXlkUT09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
@@ -38,6 +37,7 @@ Wir freuen uns auf Euren Besuch!
 
 
 ## Der SAP Stammtisch Magdeburg im Internet
+
 - [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
 - [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
@@ -54,6 +54,7 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
+- 26.09.2022 - #24 - Hybrid: UCC - [Agenda und Infos](archiv\20220926\20220926 vSAP Stammtisch Magdeburg #24 Agenda und Infos.pdf), Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8), Buchvorstellung ["Einführung in S/4 HANA"](https://youtu.be/khrVCIt9a3Y) mit Christian Drumm
 - 11.07.2022 - #23 - Hybrid: UCC - Ausbildung im SAP Umfeld, SAP Produktion mit WIP-Chargen, Sneak Preview kommendes SAP Press Buch "Einführung in S/4 - Rechnungswesen"  
 - 30.05.2022 - #22 - Hybrid: UCC - [Nationale Bildungsplattform BIRD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_BIRD_Lab.pdf), [Python/SAP](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_Python_SAP.pdf), [GuSBaD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_GuSBaD.pdf) - [Chat Protokoll](archiv\20220530\20220530_chat.txt)
 - 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit” - [Chat Protokoll](archiv\20220328\20220328_chat.txt)
@@ -99,4 +100,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 19.09.2022 mdjoerg
+last modified: 04.10.2022 mdjoerg
