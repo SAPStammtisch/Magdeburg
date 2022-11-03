@@ -39,9 +39,11 @@ Wir freuen uns auf Euren Besuch!
 ## Der SAP Stammtisch Magdeburg im Internet
 
 - [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
-- [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
+- [Mastodon: #SAPStammtischMD](https://machteburch.social/@SAPStammtisch)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
 - [Tech Events Magdeburg](https://tech-events-magdeburg.de/)
+
+- demnächst nicht mehr: [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
 
 
 ## Sonstige Informationen im Internet
@@ -100,4 +102,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 04.10.2022 mdjoerg
+last modified: 03.11.2022 mdjoerg
