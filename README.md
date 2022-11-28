@@ -22,7 +22,7 @@ Agenda:
 - SAP Stammtisch Information: "Wie geht es ohne Xing weiter"
 - Vortrag: "Der 'Business Hackathon' oder wie wir uns dem Thema Data Science im SAP Umfeld genähert haben" (Jörg Müller, Alexander Kramer)
 
-### Anmeldung un'd Sonstige Informationen
+### Anmeldung und sonstige Informationen
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-november-2022-4269997)
 - [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82504920705?pwd=V1YxclZidnc3Nk5FekhCM3YyRXlkUT09)
