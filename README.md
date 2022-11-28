@@ -17,11 +17,12 @@ ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir mü
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
-Agenda (geplant):
-- Überblick Zusammarbeit Academia mit Business 
-- Data Science mit SAP ABAP
+Agenda:
+- Vortrag: Vortrag: "Kooperationen zwischen Wissenschaft und Wirtschaft" (Stefan Weidner, Christian Drumm) - mit Fragen/Diskussion
+- SAP Stammtisch Information: "Wie geht es ohne Xing weiter"
+- Vortrag: "Der 'Business Hackathon' oder wie wir uns dem Thema Data Science im SAP Umfeld genähert haben" (Jörg Müller, Alexander Kramer)
 
-### Anmeldung und Sonstige Informationen
+### Anmeldung un'd Sonstige Informationen
 
 - [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-november-2022-4269997)
 - [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82504920705?pwd=V1YxclZidnc3Nk5FekhCM3YyRXlkUT09)
@@ -38,9 +39,11 @@ Wir freuen uns auf Euren Besuch!
 
 ## Der SAP Stammtisch Magdeburg im Internet
 
-- [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
 - [Mastodon: #SAPStammtischMD](https://machteburch.social/@SAPStammtisch)
+- [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
+- [SAP Community Gruppe Magdeburg](https://groups.community.sap.com/t5/magdeburg/gh-p/magdeburg)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
+- [SAP Community Event Kalender](https://groups.community.sap.com/t5/events/ct-p/events)
 - [Tech Events Magdeburg](https://tech-events-magdeburg.de/)
 
 - demnächst nicht mehr: [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
@@ -49,7 +52,7 @@ Wir freuen uns auf Euren Besuch!
 ## Sonstige Informationen im Internet
 - [SAP Stammtische auf Github](https://sapstammtisch.github.io/welcome/)
 - [SAP Stammtisch Bern und virtuell Schweiz](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)
-
+- [SAP Stammtisch Projekt GUSBAD "Gute und schlechte Beispiele aus Digitalisierungsprojekten"](https://sapstammtisch.github.io/gusbad/)
 
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
@@ -102,4 +105,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 03.11.2022 mdjoerg
+last modified: 28.11.2022 mdjoerg
