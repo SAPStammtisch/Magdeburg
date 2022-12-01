@@ -9,23 +9,18 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unser neues Zuhause wird voraussichtlich die [SAP Community](https://groups.community.sap.com)
-
+ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unsere neuen Anlaufstellen im Internet findet Ihr etwas weiter unten.
 ### Nächstes Treffen: 
-- Mo, 28.11.2022 
+- Mo, 30.01.2022 
 - Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
 - Start Online ab ca. 19:00 Uhr 
 
-Agenda:
-- Vortrag: Vortrag: "Kooperationen zwischen Wissenschaft und Wirtschaft" (Stefan Weidner, Christian Drumm) - mit Fragen/Diskussion
-- SAP Stammtisch Information: "Wie geht es ohne Xing weiter"
-- Vortrag: "Der 'Business Hackathon' oder wie wir uns dem Thema Data Science im SAP Umfeld genähert haben" (Jörg Müller, Alexander Kramer)
+Agenda (irgendetwas zum Hype Thema Low Code)
 
 ### Anmeldung und sonstige Informationen
 
-- [Anmeldung Xing Event](https://www.xing.com/events/sap-stammtisch-magdeburg-november-2022-4269997)
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82504920705?pwd=V1YxclZidnc3Nk5FekhCM3YyRXlkUT09)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
@@ -59,7 +54,14 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
-- 26.09.2022 - #24 - Hybrid: UCC - [Agenda und Infos](archiv\20220926\20220926_vSAP_Stammtisch_Magdeburg_24_Agenda_und_Infos.pdf), Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8), Buchvorstellung ["Einführung in S/4 HANA"](https://youtu.be/khrVCIt9a3Y) mit Christian Drumm
+- 28.11.2022 - #25 - Hybrid: UCC 
+    - [Agenda und Infos](archiv\20221128\Agenda_und_Infos.pdf)
+    - Vortrag Kooperationen zwischen Wissenschaft und Wirtschaft ([Folien](archiv\20221128\SAP_NextGen.pdf), [Aufzeichnung](https://youtu.be/lySmE0KPjRg))
+    - Vortrag Business Hackathon und Data Science ([Folien](archiv\20221128\Business_Hackathon_und_Data_Science.pdf), [Aufzeichnung]
+- 26.09.2022 - #24 - Hybrid: UCC 
+    - [Agenda und Infos](archiv\20220926\20220926_vSAP_Stammtisch_Magdeburg_24_Agenda_und_Infos.pdf)
+    - Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8)
+    - Buchvorstellung ["Einführung in S/4 HANA"](https://youtu.be/khrVCIt9a3Y) mit Christian Drumm
 - 11.07.2022 - #23 - Hybrid: UCC - Ausbildung im SAP Umfeld, SAP Produktion mit WIP-Chargen, Sneak Preview kommendes SAP Press Buch "Einführung in S/4 - Rechnungswesen"  
 - 30.05.2022 - #22 - Hybrid: UCC - [Nationale Bildungsplattform BIRD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_BIRD_Lab.pdf), [Python/SAP](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_Python_SAP.pdf), [GuSBaD](archiv\20220530\20220530_SAP_Stammtisch_Magdeburg_GuSBaD.pdf) - [Chat Protokoll](archiv\20220530\20220530_chat.txt)
 - 28.03.2022 - #21 - Hybrid: Vor Ort bei Städtische Werke Magdeburg - “S/4 HANA - zwischen Vision und Wirklichkeit” - [Chat Protokoll](archiv\20220328\20220328_chat.txt)
@@ -105,4 +107,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 28.11.2022 mdjoerg
+last modified: 01.12.2022 mdjoerg
