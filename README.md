@@ -57,7 +57,7 @@ Wir freuen uns auf Euren Besuch!
 - 28.11.2022 - #25 - Hybrid: UCC 
     - [Agenda und Infos](archiv\20221128\Agenda_und_Infos.pdf)
     - Vortrag Kooperationen zwischen Wissenschaft und Wirtschaft ([Folien](archiv\20221128\SAP_NextGen.pdf), [Aufzeichnung](https://youtu.be/lySmE0KPjRg))
-    - Vortrag Business Hackathon und Data Science ([Folien](archiv\20221128\Business_Hackathon_und_Data_Science.pdf), [Aufzeichnung]
+    - Vortrag Business Hackathon und Data Science ([Folien](archiv\20221128\Business_Hackathon_und_Data_Science.pdf))
 - 26.09.2022 - #24 - Hybrid: UCC 
     - [Agenda und Infos](archiv\20220926\20220926_vSAP_Stammtisch_Magdeburg_24_Agenda_und_Infos.pdf)
     - Buchvorstellung ["Product Ownership meistern"](https://youtu.be/tw1zV20Mha8) mit den Autoren Ina Einemann und Frank Düsterbeck (https://youtu.be/tw1zV20Mha8)
