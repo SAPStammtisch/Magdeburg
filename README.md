@@ -42,8 +42,6 @@ Wir freuen uns auf Euren Besuch!
 - [SAP Community Event Kalender](https://groups.community.sap.com/t5/events/ct-p/events)
 - [Tech Events Magdeburg](https://tech-events-magdeburg.de/)
 
-- demnächst nicht mehr: [Xing: Gruppe SAP Stammtisch Magdeburg](https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-bb89-1104912)
-
 
 ## Sonstige Informationen im Internet
 - [SAP Stammtische auf Github](https://sapstammtisch.github.io/welcome/)
@@ -108,4 +106,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 01.12.2022 mdjoerg
+last modified: 16.01.2023 mdjoerg
