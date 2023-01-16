@@ -24,13 +24,12 @@ ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir mü
 - [Link zum virtuellen Meeting](https://us06web.zoom.us/j/81081146082?pwd=ME5zYjl3bG96RzkvdjJaL2RYU3hBZz09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
-Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
 
-Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten.
+Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten. Die Vor-Ort-Veranstaltung beginnt etwas eher (Einlass ab 18:30 Uhr).
 
+Es besteht keine Anmeldepflicht. Allerdings könntet Ihr Euch freiwillig auf der SAP Community Event Seite im [Kalendereintrag zum Event](https://groups.community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg/ec-p/129259#M56) anmelden und damit zeigen, dass unser SAP Stammtisch "Community lebt". Vielen Dank!
 
 Wir freuen uns auf Euren Besuch! 
-
 
 
 ## Der SAP Stammtisch Magdeburg im Internet
