@@ -5,22 +5,23 @@
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
-Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Seit 2022 sind wir dazu übergegangen, hybride Meetings durchzuführen. 
+Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Seit 2022 sind wir dazu übergegangen, hybride Meetings durchzuführen.
 
 ## Aktuelles - Nächstes Treffen
 
 ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unsere neuen Anlaufstellen im Internet findet Ihr etwas weiter unten.
 ### Nächstes Treffen: 
-- Mo, 30.01.2022 
-- Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
+- Mo, 30.01.2022 - Hybrid - Schwerpunktthema "Citizen Developer - Vision oder Fiktion?"
+- Start Online ab ca. 19:00 Uhr (Zoom Link siehe unten)
+- Vor Ort Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
 - Einlass ab 18:30 Uhr
-- Start Online ab ca. 19:00 Uhr 
 
-Agenda (irgendetwas zum Hype Thema Low Code)
+
+![Infos SAP Stammtisch #26](archiv\20230130\sst26_teaser.jpg)
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/81081146082?pwd=ME5zYjl3bG96RzkvdjJaL2RYU3hBZz09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 Wir planen wieder ein Catering und den damit verbundenen Austausch zwischen den Besuchern. Vor-Ort-Teilnehmer bitte per Xing registrieren. Danke.
