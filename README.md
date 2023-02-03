@@ -11,17 +11,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unsere neuen Anlaufstellen im Internet findet Ihr etwas weiter unten.
 ### Nächstes Treffen: 
-- Mo, 30.01.2022 - Hybrid - Schwerpunktthema "Citizen Developer - Vision oder Fiktion?"
-- Start Online ab ca. 19:00 Uhr (Zoom Link siehe unten)
-- Vor Ort Adresse: SAP University Competence Center Magdeburg, Universitätspl. 12, 39104 Magdeburg
-- Einlass ab 18:30 Uhr
+- Mo, 27.03.2022 - Hybrid - Vor Ort bei SWM - Thema noch nicht fix
+- Details folgen...
 
-
-![Infos SAP Stammtisch #26](archiv\20230130\sst26_teaser.jpg)
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/81081146082?pwd=ME5zYjl3bG96RzkvdjJaL2RYU3hBZz09)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -47,11 +43,20 @@ Wir freuen uns auf Euren Besuch!
 - [SAP Stammtisch Bern und virtuell Schweiz](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz)
 - [SAP Stammtisch Projekt GUSBAD "Gute und schlechte Beispiele aus Digitalisierungsprojekten"](https://sapstammtisch.github.io/gusbad/)
 
+![Die SAP Stammtische im Internet](res\sstmd_internet.jpg)
+
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2022
+- 28.11.2022 - #26 - Hybrid: UCC - Schwerpunktthema "Citizen Developer - Vision oder Fiktion"
+    - [Agenda und Infos](archiv\20230130\20230130 vSAP Stammtisch Magdeburg #26 Agenda und Infos.pdf)
+    - Vortrag Low Code mit SAP: [Video](https://youtu.be/oWl1BHiRHFc)
+    - Vortrag Low Code mit Neptune: [Video](https://youtu.be/PcTZ2J0NoGo), [Vortrag](archiv\20230130\20230130 SAP Stammtisch MD - What convinced me as an SAP developer that Low-code is a good thing.pdf)
+    - Vortrag Low Code mit Microsoft: [Video](https://youtu.be/9CURuOHpg7s)
+    - Vortrag Low Code mit Odoo: [Video](https://youtu.be/ocZLwBzpyjA)
+
 - 28.11.2022 - #25 - Hybrid: UCC 
     - [Agenda und Infos](archiv\20221128\Agenda_und_Infos.pdf)
     - Vortrag Kooperationen zwischen Wissenschaft und Wirtschaft ([Folien](archiv\20221128\SAP_NextGen.pdf), [Aufzeichnung](https://youtu.be/lySmE0KPjRg))
@@ -105,4 +110,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 16.01.2023 mdjoerg
+last modified: 03.02.2023 mdjoerg
