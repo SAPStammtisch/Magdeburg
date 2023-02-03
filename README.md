@@ -49,14 +49,16 @@ Wir freuen uns auf Euren Besuch!
 
 ## Archiv - bisherige Treffen und Dokumente
 
-### 2022
-- 28.11.2022 - #26 - Hybrid: UCC - Schwerpunktthema "Citizen Developer - Vision oder Fiktion"
+
+### 2023
+- 30.01.2023 - #26 - Hybrid: UCC - Schwerpunktthema "Citizen Developer - Vision oder Fiktion"
     - [Agenda und Infos](archiv\20230130\20230130 vSAP Stammtisch Magdeburg #26 Agenda und Infos.pdf)
     - Vortrag Low Code mit SAP: [Video](https://youtu.be/oWl1BHiRHFc)
     - Vortrag Low Code mit Neptune: [Video](https://youtu.be/PcTZ2J0NoGo), [Vortrag](archiv\20230130\20230130 SAP Stammtisch MD - What convinced me as an SAP developer that Low-code is a good thing.pdf)
     - Vortrag Low Code mit Microsoft: [Video](https://youtu.be/9CURuOHpg7s)
     - Vortrag Low Code mit Odoo: [Video](https://youtu.be/ocZLwBzpyjA)
 
+### 2022
 - 28.11.2022 - #25 - Hybrid: UCC 
     - [Agenda und Infos](archiv\20221128\Agenda_und_Infos.pdf)
     - Vortrag Kooperationen zwischen Wissenschaft und Wirtschaft ([Folien](archiv\20221128\SAP_NextGen.pdf), [Aufzeichnung](https://youtu.be/lySmE0KPjRg))
