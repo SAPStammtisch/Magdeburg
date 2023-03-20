@@ -11,19 +11,21 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ACHTUNG: Xing stellt zum Jahresende 2022 die Guppen und Events ein. D.h. wir müssen unsere Xing Aktivitäten einstellen und umziehen. Unsere neuen Anlaufstellen im Internet findet Ihr etwas weiter unten.
 ### Nächstes Treffen: 
-- Mo, 27.03.2022 - Hybrid - Vor Ort bei SWM - Thema noch nicht fix
-- Details folgen...
+- Mo, 27.03.2022 - Hybrid - Vor Ort bei SWM - Schwerpunktthema SAP Analytics Cloud (SAC)
+- Anmeldung für Vor-Ort-Gäste erwünscht: [SAP Community Event Kalender](https://groups.community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg/ev-p/219373) oder per Email an magdeburg@sapstammtisch.org
+
+![Teaser März 2023](archiv\20230327\20230327_teaser_swm.jpg)
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/84411115998?pwd=YXF0UmM5dkNiTk1CY05OTWNXZXl0dz09)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
 Da wir unsere virtuellen überregionalen Gäste nicht ausschließen möchten, versuchen wir uns wieder an einem hybriden Modus. Bitte beachten, dass wir hier erst ab ca. 19:00 Uhr mit der Übertragung starten. Die Vor-Ort-Veranstaltung beginnt etwas eher (Einlass ab 18:30 Uhr).
 
-Es besteht keine Anmeldepflicht. Allerdings könntet Ihr Euch freiwillig auf der SAP Community Event Seite im [Kalendereintrag zum Event](https://groups.community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg/ec-p/129259#M56) anmelden und damit zeigen, dass unser SAP Stammtisch "Community lebt". Vielen Dank!
+Es besteht keine Anmeldepflicht. Allerdings könntet Ihr Euch freiwillig auf der [SAP Community Event Kalender Seite](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch) anmelden und damit zeigen, dass unser SAP Stammtisch "Community lebt". Vielen Dank!
 
 Wir freuen uns auf Euren Besuch! 
 
@@ -112,4 +114,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 03.02.2023 mdjoerg
+last modified: 20.03.2023 mdjoerg
