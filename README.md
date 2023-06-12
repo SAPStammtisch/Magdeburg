@@ -15,7 +15,7 @@ ACHTUNG: Unser nächstes Meeting folgt ausnahmsweise nicht unserer Regel "Letzte
 - Mo, 12.06.2022 - Hybrid - UCC - Schwerpunktthema "Wo geht es lang ... für IT Betrieb und Service?"
 - Anmeldung für Vor-Ort-Gäste erwünscht: [SAP Community Event Kalender](https://groups.community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg-28/ec-p/258763#M103) oder per Email an [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
 
-![Teaser Juni 2023](archiv/20230612/20230612_teaser_it.jpg)
+![Teaser Juni 2023](archiv/20230612/20230612_teaser_it_v2.jpg)
 
 
 ### Anmeldung und sonstige Informationen
@@ -117,4 +117,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 08.05.2023 mdjoerg
+last modified: 12.06.2023 mdjoerg
