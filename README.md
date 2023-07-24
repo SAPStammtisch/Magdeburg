@@ -9,22 +9,23 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-ACHTUNG: Unser nächstes Meeting folgt ausnahmsweise nicht unserer Regel "Letzter Montag im ungeraden Monat". Im Mai kommt uns dieses Jahr der Pfingstmontag als deutschlandweiter Feiertag in die Quere. Wir haben uns deshalb auf eine Verschiebung um zwei Wochen in den Juni entschieden.
-
 ### Nächstes Treffen: 
-- Mo, 12.06.2022 - Hybrid - UCC - Schwerpunktthema "Wo geht es lang ... für IT Betrieb und Service?"
-- Anmeldung für Vor-Ort-Gäste erwünscht: [SAP Community Event Kalender](https://groups.community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg-28/ec-p/258763#M103) oder per Email an [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
+- Mo, 31.07.2022 - ACHTUNG - nur Vor Ort 
+    - Milchkuranstalt Magdeburg, Schleinufer 8, Magdeburg  
+    - Anmeldung erwünscht per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
+    - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-treffen-magdeburg-am-31-07-2023/td-p/272510)
 
-![Teaser Juni 2023](archiv/20230612/20230612_teaser_it_v2.jpg)
-
+Weiterhin geplant:
+- Mo, 25.09.2023 - Fraunhofer Magdeburg (noch nicht bestätigt)
+- Mo, 27.11.2023 - SAP UCC
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/83396396367?pwd=Q3ZBUEh1enZPNytsNmFvS2dMQnAyZz09)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
-Mit unseren hybriden Events versuchen wir unsere gern gesehenen überregionalen Gäste virtuell zu integrieren. Bitte beachten, dass wir virtuell erst ab ca. 19:00 Uhr mit der Übertragung starten. Die Vor-Ort-Veranstaltung beginnt etwas eher (Einlass ab 18:30 Uhr).
+Mit unseren hybriden Events versuchen wir unsere gern gesehenen überregionalen Gäste virtuell zu integrieren. Bitte beachten, dass wir virtuell erst ab ca. 19:00 Uhr mit der Übertragung starten. Die Vor-Ort-Veranstaltung beginnen etwas eher (Einlass ab 18:30 Uhr).
 
 Es besteht keine Anmeldepflicht. Allerdings könntet Ihr Euch freiwillig auf der [SAP Community Event Kalender Seite](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch) anmelden und damit zeigen, dass unser SAP Stammtisch "Community lebt". Vielen Dank!
 
@@ -52,6 +53,10 @@ Wir freuen uns auf Euren Besuch!
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2023
+- 12.06.2023 - #28 - Hybrid: UCC - Schwerpunkt Unsere Zukunft in IT Service und Betrieb
+    - Vortrag UCC/IN4MD: Die FocusedRUN Strategie und Status Quo Solution Manager
+    - Vortrag T-Systenms: Multi-Cloud-Management
+
 - 27.03.2023 - #27 - Hybrid: Zu Gast bei SWM (Städtische Werke Magdeburg)
     - Vortrag SWM: Einsatz der SAC als Grundlage für die Analyse von Netzstörungen
     - Vortrag UCC: Bereitstellung einer SAC Mehrmandantenlandschaft für die Ausbildung - Erfahrungen
@@ -117,4 +122,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 12.06.2023 mdjoerg
+last modified: 24.07.2023 mdjoerg
