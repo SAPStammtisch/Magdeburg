@@ -11,7 +11,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Nächstes Treffen: 
 - Mo, 31.07.2022 - ACHTUNG - nur Vor Ort 
-    - Milchkuranstalt Magdeburg, Schleinufer 8, Magdeburg  
+    - Achtung Planänderung: aufgrund des Wetters nicht in der Milchkuranstalt sondern ab 19:00 Uhr im [Hyde, Sternstraße 29](https://goo.gl/maps/LZwwCdVSdDSq4bUc6) (~~Milchkuranstalt Magdeburg, Schleinufer 8, Magdeburg~~)  
     - Anmeldung erwünscht per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
     - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-treffen-magdeburg-am-31-07-2023/td-p/272510)
 
@@ -122,4 +122,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 24.07.2023 mdjoerg
+last modified: 31.07.2023 mdjoerg
