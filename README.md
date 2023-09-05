@@ -14,6 +14,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
     - Der SAP Stammtisch vor Ort beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
     - Neben 2 Vorträgen (Details folgen) ist auch eine Besichtigung für die Vor Ort Teilnehmer geplant - Start ca. 17:30 Uhr
     - Einlass für sonstige Vor Ort Gäste ab 18:30 Uhr
+    - Adresse: [Joseph-von-Fraunhofer-Straße 1, Magdeburg](https://goo.gl/maps/2AyJgTH4kg7FMNRv7)
     - Start des Programmes (hybrid) 19:00 Uhr
     - Anmeldung erwünscht für Vor Ort Gäste erwünscht (mit Infos, ob Besichtigung erwpünscht ist) per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
     - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-magdeburg-25-09-im-fraunhofer-iff/m-p/277719)
