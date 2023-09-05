@@ -10,13 +10,15 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ## Aktuelles - Nächstes Treffen
 
 ### Nächstes Treffen: 
-- Mo, 31.07.2022 - ACHTUNG - nur Vor Ort 
-    - Achtung Planänderung: aufgrund des Wetters nicht in der Milchkuranstalt sondern ab 19:00 Uhr im [Hyde, Sternstraße 29](https://goo.gl/maps/LZwwCdVSdDSq4bUc6) (~~Milchkuranstalt Magdeburg, Schleinufer 8, Magdeburg~~)  
-    - Anmeldung erwünscht per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
-    - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-treffen-magdeburg-am-31-07-2023/td-p/272510)
+- Mo, 25.09.2023 (hybrid)
+    - Der SAP Stammtisch vor Ort beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
+    - Neben 2 Vorträgen (Details folgen) ist auch eine Besichtigung für die Vor Ort Teilnehmer geplant - Start ca. 17:30 Uhr
+    - Einlass für sonstige Vor Ort Gäste ab 18:30 Uhr
+    - Start des Programmes (hybrid) 19:00 Uhr
+    - Anmeldung erwünscht für Vor Ort Gäste erwünscht (mit Infos, ob Besichtigung erwpünscht ist) per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
+    - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-magdeburg-25-09-im-fraunhofer-iff/m-p/277719)
 
 Weiterhin geplant:
-- Mo, 25.09.2023 - Fraunhofer Magdeburg (noch nicht bestätigt)
 - Mo, 27.11.2023 - SAP UCC
 
 ### Anmeldung und sonstige Informationen
@@ -53,6 +55,7 @@ Wir freuen uns auf Euren Besuch!
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2023
+- 31.07.2023 - #29 - Vor Ort Treffen Hyde
 - 12.06.2023 - #28 - Hybrid: UCC - Schwerpunkt Unsere Zukunft in IT Service und Betrieb
     - Vortrag UCC/IN4MD: Die FocusedRUN Strategie und Status Quo Solution Manager
     - Vortrag T-Systenms: Multi-Cloud-Management
@@ -122,4 +125,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 31.07.2023 mdjoerg
+last modified: 05.09.2023 mdjoerg
