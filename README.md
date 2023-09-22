@@ -10,21 +10,21 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ## Aktuelles - Nächstes Treffen
 
 ### Nächstes Treffen: 
-- Mo, 25.09.2023 (hybrid)
-    - Der SAP Stammtisch vor Ort beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
-    - Neben 2 Vorträgen (Details folgen) ist auch eine Besichtigung für die Vor Ort Teilnehmer geplant - Start ca. 17:30 Uhr
-    - Einlass für sonstige Vor Ort Gäste ab 18:30 Uhr
-    - Adresse: [Joseph-von-Fraunhofer-Straße 1, Magdeburg](https://goo.gl/maps/2AyJgTH4kg7FMNRv7)
+
+![Teaser IFF](archiv\20230925\20230925_teaser.jpg)
+
+- Mo, 25.09.2023 (hybrid) - Schwerpunkt "Digitale Fabrik"
+    - Der SAP Stammtisch Magdeburg zu Gast beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
+    - Eine Besichtigung der neuen [Elbfabrik](https://www.elbfabrik-magdeburg.de) ist optional möglich und startet ab 17:30 Uhr
+    - Einlass für sonstige Vor-Ort-Gäste ab 18:30 Uhr: Adresse: [Joseph-von-Fraunhofer-Straße 1, Magdeburg](https://goo.gl/maps/2AyJgTH4kg7FMNRv7)
     - Start des Programmes (hybrid) 19:00 Uhr
-    - Anmeldung erwünscht für Vor Ort Gäste erwünscht (mit Infos, ob Besichtigung erwpünscht ist) per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
+    - Anmeldung für Vor-Ort-Gäste erwünscht (mit Infos, ob an der Besichtigung teilgenommen wird) per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
     - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-magdeburg-25-09-im-fraunhofer-iff/m-p/277719)
 
-Weiterhin geplant:
-- Mo, 27.11.2023 - SAP UCC
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88066246111?pwd=Cm8Ra3e3MXD31bJkn6zbiaY32rzIBC.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -126,4 +126,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 05.09.2023 mdjoerg
+last modified: 22.09.2023 mdjoerg
