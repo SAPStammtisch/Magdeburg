@@ -11,7 +11,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Nächstes Treffen: 
 
-![Teaser IFF](archiv\20230925\20230925_teaser.jpg)
+
 
 - Mo, 25.09.2023 (hybrid) - Schwerpunkt "Digitale Fabrik"
     - Der SAP Stammtisch Magdeburg zu Gast beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
