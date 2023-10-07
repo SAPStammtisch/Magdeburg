@@ -5,26 +5,21 @@
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
-Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Seit 2022 sind wir dazu übergegangen, hybride Meetings durchzuführen.
+Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg. Manchmal sind wir auch zu Gast bei regionalen Unternehmen und Organisationen. Seit 2022 sind wir dazu übergegangen, hybride Meetings durchzuführen. 
 
 ## Aktuelles - Nächstes Treffen
 
 ### Nächstes Treffen: 
 
-![Teaser IFF](archiv\20230925\20230925_teaser.jpg)
-
-- Mo, 25.09.2023 (hybrid) - Schwerpunkt "Digitale Fabrik"
-    - Der SAP Stammtisch Magdeburg zu Gast beim Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)  
-    - Eine Besichtigung der neuen [Elbfabrik](https://www.elbfabrik-magdeburg.de) ist optional möglich und startet ab 17:30 Uhr
-    - Einlass für sonstige Vor-Ort-Gäste ab 18:30 Uhr: Adresse: [Joseph-von-Fraunhofer-Straße 1, Magdeburg](https://goo.gl/maps/2AyJgTH4kg7FMNRv7)
-    - Start des Programmes (hybrid) 19:00 Uhr
-    - Anmeldung für Vor-Ort-Gäste erwünscht (mit Infos, ob an der Besichtigung teilgenommen wird) per Email: [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org)
-    - weitere Infos auf der [SAP Community Seite](https://groups.community.sap.com/t5/magdeburg-discussions/sap-stammtisch-magdeburg-25-09-im-fraunhofer-iff/m-p/277719)
+- Mo, 27.11.2023 (hybrid) 
+    - Wir treffen uns wieder im SAP UCC
+    - Derzeit haben wir noch keine konkreten Themen
+    - Wünsche und Vorschläge können an [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org) gerichtet werden
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88066246111?pwd=Cm8Ra3e3MXD31bJkn6zbiaY32rzIBC.1)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/89302975830?pwd=o1UoDFfF1WHYopjxL3WUDasFnnHLpp.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -56,7 +51,13 @@ Wir freuen uns auf Euren Besuch!
 
 ## Archiv - bisherige Treffen und Dokumente
 ### 2023
-- 31.07.2023 - #29 - Vor Ort Treffen Hyde
+- 25.09.2023 - #30 - Hybrid: Zu Gast im Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)
+    - Vortrag IFF: Vorstellung der Elbfabrik: [Homepage](https://www.elbfabrik-magdeburg.de/) und [Demonstratoren](https://www.elbfabrik-magdeburg.de/demonstratoren/)
+    - Vortrag BA: Digitale Produktion - Praxiserfahrungen: [Vortrag](archiv/20230925/20230925_Digitale_Produktion_BA.pdf)
+    - Vortrag Regiocom: MLOps in der Produktion: [Vortrag](archiv/20230925/20230925_MLOps_SAP_Stammtisch.pdf)
+
+- 31.07.2023 - #29 - Vor Ort Treffen im Hyde
+
 - 12.06.2023 - #28 - Hybrid: UCC - Schwerpunkt Unsere Zukunft in IT Service und Betrieb
     - Vortrag UCC/IN4MD: Die FocusedRUN Strategie und Status Quo Solution Manager
     - Vortrag T-Systenms: Multi-Cloud-Management
@@ -126,4 +127,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.09.2023 mdjoerg
+last modified: 07.10.2023 mdjoerg
