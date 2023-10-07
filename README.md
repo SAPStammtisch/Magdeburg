@@ -60,7 +60,7 @@ Wir freuen uns auf Euren Besuch!
 
 - 12.06.2023 - #28 - Hybrid: UCC - Schwerpunkt Unsere Zukunft in IT Service und Betrieb
     - Vortrag UCC/IN4MD: Die FocusedRUN Strategie und Status Quo Solution Manager
-    - Vortrag T-Systenms: Multi-Cloud-Management
+    - Vortrag T-Systems: Multi-Cloud-Management: [Vortrag](archiv/20230612/20230612_T-Systems_MultiCloudManagement_SAP_Stammtisch.pdf)
 
 - 27.03.2023 - #27 - Hybrid: Zu Gast bei SWM (Städtische Werke Magdeburg)
     - Vortrag SWM: Einsatz der SAC als Grundlage für die Analyse von Netzstörungen
