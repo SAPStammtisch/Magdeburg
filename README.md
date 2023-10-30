@@ -2,6 +2,12 @@
 
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
+
+## HAPPY HALLOWEEN!
+
+![SAP Stammtisch Halloween Grüße](res\halloween.jpg)
+
+
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
@@ -127,4 +133,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 07.10.2023 mdjoerg
+last modified: 30.10.2023 mdjoerg
