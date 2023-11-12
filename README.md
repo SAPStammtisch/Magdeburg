@@ -3,10 +3,6 @@
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
 
-## HAPPY HALLOWEEN!
-
-![SAP Stammtisch Halloween Grüße](res\halloween.jpg)
-
 
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
@@ -15,12 +11,18 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![SAP Stammtisch 27.11.2023](archiv/20231127/20231127_teaser.jpg)
+
 ### Nächstes Treffen: 
 
-- Mo, 27.11.2023 (hybrid) 
-    - Wir treffen uns wieder im SAP UCC
-    - Derzeit haben wir noch keine konkreten Themen
-    - Wünsche und Vorschläge können an [magdeburg@sapstammtisch.org](mailto:magdeburg@sapstammtisch.org) gerichtet werden
+- Mo, 27.11.2023 (hybrid) - Schwerpunkt "Mixed Reality"
+    - Wir treffen uns wieder im SAP UCC, Universitätspl. 12, 39104 Magdeburg
+    - Einlass ab 18:30 Uhr
+    - Start der Vorträge und Einlass der virtuellen Gäste 19:00 Uhr
+    - Agenda:
+        - Praxisbericht SAP Datenmigration, BA
+        - Argumented Reality, 3DQR
+        - geplant: Vortrag zu Anforderungen im Mixed Reality Umfeld und Diskussion
 
 
 ### Anmeldung und sonstige Informationen
@@ -133,4 +135,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 30.10.2023 mdjoerg
+last modified: 12.11.2023 mdjoerg
