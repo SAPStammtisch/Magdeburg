@@ -22,6 +22,12 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
     - Agenda:
         - Praxisbericht SAP Datenmigration, BA
         - Argumented Reality, 3DQR
+            - Demos für die Anwendungsmöglichkeiten von Augmented Reality im Produktions- und Logistikumfeld an Beispielen
+            - Maschinenzustand
+            - Einlernen von Mitarbeitern, Sicherheitsunterweisungen und Möglichkeiten zu Reduzierung von Ausfallzeiten und Fehlern in der Produktion
+            - diverse Lernsachverhalte für Lehrlinge und erste Hilfe
+            - Aufzeigen der Möglichkeiten, Potentiale aber auch die Grenzen der Technologie
+            - Möglichkeit, für die Vor-Ort-Gäste verschiedene Szenarien selbst auszuprobieren 
         - geplant: Vortrag zu Anforderungen im Mixed Reality Umfeld und Diskussion
 
 
@@ -135,4 +141,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 12.11.2023 mdjoerg
+last modified: 13.11.2023 mdjoerg
