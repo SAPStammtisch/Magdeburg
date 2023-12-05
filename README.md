@@ -11,29 +11,21 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![SAP Stammtisch 27.11.2023](archiv/20231127/20231127_teaser.jpg)
 
 ### Nächstes Treffen: 
 
-- Mo, 27.11.2023 (hybrid) - Schwerpunkt "Mixed Reality"
+- Mo, 29.11.2023 (hybrid) - Frohes Neues!
     - Wir treffen uns wieder im SAP UCC, Universitätspl. 12, 39104 Magdeburg
     - Einlass ab 18:30 Uhr
     - Start der Vorträge und Einlass der virtuellen Gäste 19:00 Uhr
     - Agenda:
-        - Praxisbericht SAP Datenmigration, BA
-        - Argumented Reality, 3DQR
-            - Demos für die Anwendungsmöglichkeiten von Augmented Reality im Produktions- und Logistikumfeld an Beispielen
-            - Maschinenzustand
-            - Einlernen von Mitarbeitern, Sicherheitsunterweisungen und Möglichkeiten zu Reduzierung von Ausfallzeiten und Fehlern in der Produktion
-            - diverse Lernsachverhalte für Lehrlinge und erste Hilfe
-            - Aufzeigen der Möglichkeiten, Potentiale aber auch die Grenzen der Technologie
-            - Möglichkeit, für die Vor-Ort-Gäste verschiedene Szenarien selbst auszuprobieren 
-        - geplant: Vortrag zu Anforderungen im Mixed Reality Umfeld und Diskussion
-
+        - Multidimensional Corporate Analysis of SAP-FI with 3rd Party Providers (Lucanet, etc.) - IFA
+        - Interne SAP Ausbildung: Warum, Was und Wie - SAP UCC
+        - optional: Erfahrungsbericht Business Partner Migration in Brown Field Szenarien, T-Systems 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/89302975830?pwd=o1UoDFfF1WHYopjxL3WUDasFnnHLpp.1)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/89552428049?pwd=haM3Z8rgvLELda1MelBOdBCb6iOwOP.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -64,7 +56,16 @@ Wir freuen uns auf Euren Besuch!
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
 ## Archiv - bisherige Treffen und Dokumente
+
 ### 2023
+- 27.11.2023 - #31 - Hybrid im SAP UCC: Schwerpunkt "Mixed Reality"
+    - [Agenda und Infos](archiv/20231127/Agenda_und_Infos_#31.pdf)
+    - [Vortrag Datenmigration](archiv/20231127/BA_Datenmigration.pdf)
+    - Vortrag 3DQR:
+        - [Trainingsunterlagen Deutsch](archiv/20231127/3DQR_Training.pdf)
+        - [3D QRCode für SAP Stammtisch](archiv/20231127/3DQR_Code.pdf)
+        - Use Cases für die Diskussion siehe Agenda
+
 - 25.09.2023 - #30 - Hybrid: Zu Gast im Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)
     - Vortrag IFF: Vorstellung der Elbfabrik: [Homepage](https://www.elbfabrik-magdeburg.de/) und [Demonstratoren](https://www.elbfabrik-magdeburg.de/demonstratoren/)
     - Vortrag BA: Digitale Produktion - Praxiserfahrungen: [Vortrag](archiv/20230925/20230925_Digitale_Produktion_BA.pdf)
