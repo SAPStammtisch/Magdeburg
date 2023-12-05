@@ -14,7 +14,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Nächstes Treffen: 
 
-- Mo, 29.11.2023 (hybrid) - Frohes Neues!
+- Mo, 29.01.2024 (hybrid) - Frohes Neues!
     - Wir treffen uns wieder im SAP UCC, Universitätspl. 12, 39104 Magdeburg
     - Einlass ab 18:30 Uhr
     - Start der Vorträge und Einlass der virtuellen Gäste 19:00 Uhr
