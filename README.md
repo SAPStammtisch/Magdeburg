@@ -59,12 +59,12 @@ Wir freuen uns auf Euren Besuch!
 
 ### 2023
 - 27.11.2023 - #31 - Hybrid im SAP UCC: Schwerpunkt "Mixed Reality"
-    - [Agenda und Infos](archiv/20231127/Agenda_und_Infos_#31.pdf)
+    - [Agenda und Infos](archiv/20231127/Agenda_und_Infos.pdf)
     - [Vortrag Datenmigration](archiv/20231127/BA_Datenmigration.pdf)
     - Vortrag 3DQR:
         - [Trainingsunterlagen Deutsch](archiv/20231127/3DQR_Training.pdf)
         - [3D QRCode für SAP Stammtisch](archiv/20231127/3DQR_Code.pdf)
-        - Use Cases für die Diskussion siehe Agenda
+        - Use Cases für die Diskussion siehe [Agenda und Infos](archiv/20231127/Agenda_und_Infos.pdf)
 
 - 25.09.2023 - #30 - Hybrid: Zu Gast im Fraunhofer Institut für Fabrikbetrieb und -automatisierung (IFF)
     - Vortrag IFF: Vorstellung der Elbfabrik: [Homepage](https://www.elbfabrik-magdeburg.de/) und [Demonstratoren](https://www.elbfabrik-magdeburg.de/demonstratoren/)
