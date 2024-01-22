@@ -11,6 +11,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![Teaser](archiv/20240129/teaser.gif)
 
 ### Nächstes Treffen: 
 
@@ -142,4 +143,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.11.2023 mdjoerg
+last modified: 22.01.2024 mdjoerg
