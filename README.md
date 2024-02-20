@@ -11,22 +11,17 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser](archiv/20240129/teaser.gif)
-
 ### Nächstes Treffen: 
 
-- Mo, 29.01.2024 (hybrid) - Frohes Neues!
+- Mo, 25.03.2024 (hybrid) - Schwerpunkt "Vertriebsunterstützung"
     - Wir treffen uns wieder im SAP UCC, Universitätspl. 12, 39104 Magdeburg
     - Einlass ab 18:30 Uhr
     - Start der Vorträge und Einlass der virtuellen Gäste 19:00 Uhr
-    - Agenda:
-        - Multidimensional Corporate Analysis of SAP-FI with 3rd Party Providers (Lucanet, etc.) - IFA
-        - Interne SAP Ausbildung: Warum, Was und Wie - SAP UCC
-        - optional: Erfahrungsbericht Business Partner Migration in Brown Field Szenarien, T-Systems 
+    - Agenda: noch in Arbeit
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/89552428049?pwd=haM3Z8rgvLELda1MelBOdBCb6iOwOP.1)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82724645232?pwd=bbMiMamF0F25ONeaj6aIJoT46PX7q3.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -59,6 +54,9 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2023
+- 29.01.2024 - #32 - Hybrid im SAP UCC: Schwerpunkt "SAP Fachkräfte"
+    - [Teaser](archiv/20240129/teaser.gif)
+
 - 27.11.2023 - #31 - Hybrid im SAP UCC: Schwerpunkt "Mixed Reality"
     - [Agenda und Infos](archiv/20231127/Agenda_und_Infos.pdf)
     - [Vortrag Datenmigration](archiv/20231127/BA_Datenmigration.pdf)
