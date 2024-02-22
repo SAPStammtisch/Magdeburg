@@ -11,6 +11,8 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![Teaser](archiv/20240325/teaser.png)
+
 ### Nächstes Treffen: 
 
 - Mo, 25.03.2024 (hybrid) - Schwerpunkt "Vertriebsunterstützung"
