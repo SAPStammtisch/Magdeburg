@@ -3,7 +3,6 @@
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
 
-
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
@@ -11,19 +10,14 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser](archiv/20240325/teaser.png)
-
 ### Nächstes Treffen: 
 
-- Mo, 25.03.2024 (hybrid) - Schwerpunkt "Vertriebsunterstützung"
-    - Wir treffen uns wieder im SAP UCC, Universitätspl. 12, 39104 Magdeburg
-    - Einlass ab 18:30 Uhr
-    - Start der Vorträge und Einlass der virtuellen Gäste 19:00 Uhr
+- Mo, 27.05.2024 (Hybrid bei Regiocom) - Schwerpunkt "Energiewirtschaft"
     - Agenda: noch in Arbeit
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82724645232?pwd=bbMiMamF0F25ONeaj6aIJoT46PX7q3.1)
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/85288283908?pwd=iEY8pu8pmw0PfePTvUr6eApckKq6DC.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -55,9 +49,16 @@ Wir freuen uns auf Euren Besuch!
 
 ## Archiv - bisherige Treffen und Dokumente
 
-### 2023
+### 2024
+
+- 25.03.2024 - #33 - Hybrid im SAP UCC: Schwerpunkt "Vertriebsunterstützung"
+    - [Teaser](archiv/20240325/teaser.png)
+    - [Vortrag CRM Theorie](archiv/20240325/20240325_vSAP_Stammtisch_Magdeburg_CRM.pdf)
+    - [Vortrag Trumpf](archiv/20240325/20240325_SAP_Stammtisch_Magdeburg_Trumpf.pdf)
 - 29.01.2024 - #32 - Hybrid im SAP UCC: Schwerpunkt "SAP Fachkräfte"
     - [Teaser](archiv/20240129/teaser.gif)
+
+### 2023
 
 - 27.11.2023 - #31 - Hybrid im SAP UCC: Schwerpunkt "Mixed Reality"
     - [Agenda und Infos](archiv/20231127/Agenda_und_Infos.pdf)
@@ -143,4 +144,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.01.2024 mdjoerg
+last modified: 28.03.2024 mdjoerg
