@@ -57,6 +57,8 @@ Wir freuen uns auf Euren Besuch!
     - [Vortrag Trumpf](archiv/20240325/20240325_SAP_Stammtisch_Magdeburg_Trumpf.pdf)
 - 29.01.2024 - #32 - Hybrid im SAP UCC: Schwerpunkt "SAP Fachkräfte"
     - [Teaser](archiv/20240129/teaser.gif)
+    - [Vortrag IN4MD - BA Ausbildungsakademie](archiv/20240129/Ausbildungsakademie_BR.pdf)
+    - [Vortrag IFA - Multidimensional Corporate Analysis](archiv/20240129/LucaNet_Success_Roadmap.pdf)
 
 ### 2023
 
@@ -144,4 +146,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 28.03.2024 mdjoerg
+last modified: 17.04.2024 mdjoerg
