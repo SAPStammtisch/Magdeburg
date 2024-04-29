@@ -10,10 +10,22 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![Teaser Regiocom](archiv/20240527/teaser_regiocom.jpg)
+
 ### Nächstes Treffen: 
 
 - Mo, 27.05.2024 (Hybrid bei Regiocom) - Schwerpunkt "Energiewirtschaft"
-    - Agenda: noch in Arbeit
+    - Agenda (geplant):
+        - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
+        - SAP MACO Cloud, Regiocom
+        - Markstammdatenregister, Regiocom
+        - Vortrag 3 (noch nicht bestätigt)
+    - Vor-Ort-Gäste:
+        - Anmeldung erwünscht (Infos folgen)
+        - Adresse: [Regiocom SE, Marienstraße 1, 39112 Magdeburg](https://maps.app.goo.gl/miDntZRz8dn83kPa8) - Nähe Technikmuseum 
+        - Einlass ab 18:30 Uhr
+        - Optional ist ein "Regiocom Special" geplant - weitere Infos folgen hier
+
 
 ### Anmeldung und sonstige Informationen
 
@@ -146,4 +158,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 17.04.2024 mdjoerg
+last modified: 29.04.2024 mdjoerg
