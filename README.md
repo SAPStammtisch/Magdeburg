@@ -21,7 +21,10 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
         - Markstammdatenregister, Regiocom
         - Vortrag 3 (noch nicht bestätigt)
     - Vor-Ort-Gäste:
-        - Anmeldung erwünscht (Infos folgen)
+        - Anmeldung erwünscht (3 Optionen):
+            1. [LinkedIn Event](https://www.linkedin.com/feed/update/urn:li:activity:7191711908519944193)
+            2. [SAP Community Event](https://community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg-bei-der-regiocom-se/ev-p/13689122)
+            3. Email an <magdeburg@sapstammtisch.org> (wenn 1 oder 2 mangels Mitgliedschaft nicht möglich sind)
         - Adresse: [Regiocom SE, Marienstraße 1, 39112 Magdeburg](https://maps.app.goo.gl/miDntZRz8dn83kPa8) - Nähe Technikmuseum 
         - Einlass ab 18:30 Uhr
         - Optional ist ein "Regiocom Special" geplant - weitere Infos folgen hier
