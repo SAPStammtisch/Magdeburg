@@ -18,8 +18,8 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
     - Agenda (geplant):
         - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
         - SAP MACO Cloud - Testdatenerzeugung, Regiocom
+        - Das Mittelstand-Digital Zentrum Magdeburg stellt sich vor, MDZM 
         - Markstammdatenregister, Regiocom
-        - Vortrag 3 (noch nicht bestätigt)
     - Vor-Ort-Gäste:
         - Anmeldung erwünscht (3 Optionen):
             1. [LinkedIn Event](https://www.linkedin.com/feed/update/urn:li:activity:7191711908519944193)
@@ -161,4 +161,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 02.05.2024 mdjoerg
+last modified: 17.05.2024 mdjoerg
