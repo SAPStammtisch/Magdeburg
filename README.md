@@ -15,7 +15,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ### Nächstes Treffen: 
 
 - Mo, 27.05.2024 (Hybrid bei Regiocom) - Schwerpunkt "Energiewirtschaft"
-    - Agenda (geplant):
+    - Agenda:
         - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
         - SAP MACO Cloud - Testdatenerzeugung, Regiocom
         - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
