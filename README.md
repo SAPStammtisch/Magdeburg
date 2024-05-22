@@ -18,7 +18,11 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
     - Agenda (geplant):
         - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
         - SAP MACO Cloud - Testdatenerzeugung, Regiocom
-        - Das Mittelstand-Digital Zentrum Magdeburg stellt sich vor, MDZM 
+        - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
+            - Vorstellung Mittelstand-Digital Zentrum Magdeburg
+            - Vorstellung Projekt KEDi (Kompetenzzentrum Energieeffizienz)
+            - Vorstellung LENA (Landesenergieagentur Sachsen-Anhalt GmbH)
+            - Fallbeispiel
         - Markstammdatenregister, Regiocom
     - Vor-Ort-Gäste:
         - Anmeldung erwünscht (3 Optionen):
@@ -161,4 +165,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 17.05.2024 mdjoerg
+last modified: 22.05.2024 mdjoerg
