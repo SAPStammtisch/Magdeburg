@@ -17,13 +17,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - Mo, 27.05.2024 (Hybrid bei Regiocom) - Schwerpunkt "Energiewirtschaft"
     - Agenda:
         - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
+        - Markstammdatenregister, Regiocom
         - SAP MACO Cloud - Testdatenerzeugung, Regiocom
         - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
             - Vorstellung Mittelstand-Digital Zentrum Magdeburg
             - Vorstellung Projekt KEDi (Kompetenzzentrum Energieeffizienz)
             - Vorstellung LENA (Landesenergieagentur Sachsen-Anhalt GmbH)
             - Fallbeispiel
-        - Markstammdatenregister, Regiocom
     - Vor-Ort-Gäste:
         - Anmeldung erwünscht (3 Optionen):
             1. [LinkedIn Event](https://www.linkedin.com/feed/update/urn:li:activity:7191711908519944193)
@@ -31,7 +31,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
             3. Email an <magdeburg@sapstammtisch.org> (wenn 1 oder 2 mangels Mitgliedschaft nicht möglich sind)
         - Adresse: [Regiocom SE, Marienstraße 1, 39112 Magdeburg](https://maps.app.goo.gl/miDntZRz8dn83kPa8) - Nähe Technikmuseum 
         - Einlass ab 18:30 Uhr
-        - Optional ist ein "Regiocom Special" geplant - weitere Infos folgen hier
+        - Achtung: das geplante "Regiocom Special" (eigentlich geplant ab 17:30 Uhr) können wir leider nicht anbieten.
 
 
 ### Anmeldung und sonstige Informationen
@@ -165,4 +165,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.05.2024 mdjoerg
+last modified: 27.05.2024 mdjoerg
