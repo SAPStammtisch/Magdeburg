@@ -10,33 +10,15 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser Regiocom](archiv/20240527/teaser_regiocom.jpg)
 
 ### Nächstes Treffen: 
 
-- Mo, 27.05.2024 (Hybrid bei Regiocom) - Schwerpunkt "Energiewirtschaft"
-    - Agenda:
-        - Start der Vorträge ab 19:00 Uhr - Streaming über Zoom (Anmeldung - siehe unten)
-        - Markstammdatenregister, Regiocom
-        - SAP MACO Cloud - Testdatenerzeugung, Regiocom
-        - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
-            - Vorstellung Mittelstand-Digital Zentrum Magdeburg
-            - Vorstellung Projekt KEDi (Kompetenzzentrum Energieeffizienz)
-            - Vorstellung LENA (Landesenergieagentur Sachsen-Anhalt GmbH)
-            - Fallbeispiel
-    - Vor-Ort-Gäste:
-        - Anmeldung erwünscht (3 Optionen):
-            1. [LinkedIn Event](https://www.linkedin.com/feed/update/urn:li:activity:7191711908519944193)
-            2. [SAP Community Event](https://community.sap.com/t5/sap-stammtisch/sap-stammtisch-magdeburg-bei-der-regiocom-se/ev-p/13689122)
-            3. Email an <magdeburg@sapstammtisch.org> (wenn 1 oder 2 mangels Mitgliedschaft nicht möglich sind)
-        - Adresse: [Regiocom SE, Marienstraße 1, 39112 Magdeburg](https://maps.app.goo.gl/miDntZRz8dn83kPa8) - Nähe Technikmuseum 
-        - Einlass ab 18:30 Uhr
-        - Achtung: das geplante "Regiocom Special" (eigentlich geplant ab 17:30 Uhr) können wir leider nicht anbieten.
-
+Das nächste Treffen wäre laut unserer Regel am Mo, 29.07.2024. Da dies in der Ferienzeit liegt überlegen wir gerade, ob wir das Treffen durchführen, verlegen, anders gestalten oder sogar ausfallen lassen. 
+Sobald wir hier klarer sind, findet Ihr hier die entsprechenden Informationen. 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/85288283908?pwd=iEY8pu8pmw0PfePTvUr6eApckKq6DC.1)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -70,10 +52,21 @@ Wir freuen uns auf Euren Besuch!
 
 ### 2024
 
+- 27.05.2024 - #34 - Hybrid: zu Gast bei Regiocom - Schwerpunkt "Energiewirtschaft"
+        - [Teaser](archiv/20240527/teaser_regiocom.jpg) 
+        - Markstammdatenregister, Regiocom
+        - SAP MaCo Cloud - Testdatenerzeugung mit dem J-EDI Creator, Regiocom - [Produktpräsentation](archiv/20240527/J-EDI-Creator_Produktpräsentation_SAP_Stammtisch.pdf)
+        - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
+            - Vorstellung Mittelstand-Digital Zentrum Magdeburg - [Vortrag mit Praxisbeispiel](archiv/20240527/Vorstellung-MDZMD-Plus-Energiemgmt-2024-05-27.pdf)
+            - Vorstellung Projekt KEDi (Kompetenzzentrum Energieeffizienz) - [Vortrag](archiv/20240527/20240527_KEDi_Vorstellung_SAP-Stammtisch.pdf)
+            - Digital Product Passport (DPP), Verwaltungsschale (AAS) - [Messebericht](archiv/20240527/20240426_HMI-Messebericht%20P.Schreiber.pdf)
+
+
 - 25.03.2024 - #33 - Hybrid im SAP UCC: Schwerpunkt "Vertriebsunterstützung"
     - [Teaser](archiv/20240325/teaser.png)
     - [Vortrag CRM Theorie](archiv/20240325/20240325_vSAP_Stammtisch_Magdeburg_CRM.pdf)
     - [Vortrag Trumpf](archiv/20240325/20240325_SAP_Stammtisch_Magdeburg_Trumpf.pdf)
+
 - 29.01.2024 - #32 - Hybrid im SAP UCC: Schwerpunkt "SAP Fachkräfte"
     - [Teaser](archiv/20240129/teaser.gif)
     - [Vortrag IN4MD - BA Ausbildungsakademie](archiv/20240129/Ausbildungsakademie_BR.pdf)
@@ -165,4 +158,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 27.05.2024 mdjoerg
+last modified: 30.05.2024 mdjoerg
