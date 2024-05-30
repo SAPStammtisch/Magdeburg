@@ -54,7 +54,7 @@ Wir freuen uns auf Euren Besuch!
 
 - 27.05.2024 - #34 - Hybrid: zu Gast bei Regiocom: Schwerpunkt "Energiewirtschaft"
     - [Teaser](archiv/20240527/teaser_regiocom.jpg) 
-    - Markstammdatenregister, Regiocom
+    - [Markstammdatenregister (MaStR), Regiocom](archiv/20240527/20240527_SAP_Stammtisch_Magdeburg_MaStR.pdf)
     - [SAP MaCo Cloud Testdatenerzeugung mit dem J-EDI Creator, Regiocom](archiv/20240527/J-EDI-Creator_Produktpräsentation_SAP_Stammtisch.pdf)
     - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
         - [Vorstellung Mittelstand-Digital Zentrum Magdeburg mit Praxisbeispiel](archiv/20240527/Vorstellung-MDZMD-Plus-Energiemgmt-2024-05-27.pdf)
