@@ -55,11 +55,11 @@ Wir freuen uns auf Euren Besuch!
 - 27.05.2024 - #34 - Hybrid: zu Gast bei Regiocom - Schwerpunkt "Energiewirtschaft"
         - [Teaser](archiv/20240527/teaser_regiocom.jpg) 
         - Markstammdatenregister, Regiocom
-        - SAP MaCo Cloud - Testdatenerzeugung mit dem J-EDI Creator, Regiocom - [Produktpräsentation](archiv/20240527/J-EDI-Creator_Produktpräsentation_SAP_Stammtisch.pdf)
+        - [SAP MaCo Cloud Testdatenerzeugung mit dem J-EDI Creator, Regiocom](archiv/20240527/J-EDI-Creator_Produktpräsentation_SAP_Stammtisch.pdf)
         - Regionale Aktivitäten Energie und Digitalisierung, MDZM u.a.
-            - Vorstellung Mittelstand-Digital Zentrum Magdeburg - [Vortrag mit Praxisbeispiel](archiv/20240527/Vorstellung-MDZMD-Plus-Energiemgmt-2024-05-27.pdf)
-            - Vorstellung Projekt KEDi (Kompetenzzentrum Energieeffizienz) - [Vortrag](archiv/20240527/20240527_KEDi_Vorstellung_SAP-Stammtisch.pdf)
-            - Digital Product Passport (DPP), Verwaltungsschale (AAS) - [Messebericht](archiv/20240527/20240426_HMI-Messebericht%20P.Schreiber.pdf)
+            - [Vorstellung Mittelstand-Digital Zentrum Magdeburg mit Praxisbeispiel](archiv/20240527/Vorstellung-MDZMD-Plus-Energiemgmt-2024-05-27.pdf)
+            - [Vorstellung Projekt KEDi Kompetenzzentrum Energieeffizienz](archiv/20240527/20240527_KEDi_Vorstellung_SAP-Stammtisch.pdf)
+            - [Messebericht Hannover Messe 2024 Digital Product Passport (DPP), Verwaltungsschale (AAS)](archiv/20240527/20240426_HMI-Messebericht%20P.Schreiber.pdf)
 
 
 - 25.03.2024 - #33 - Hybrid im SAP UCC: Schwerpunkt "Vertriebsunterstützung"
