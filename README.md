@@ -13,8 +13,20 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Nächstes Treffen: 
 
-Das nächste Treffen wäre laut unserer Regel am Mo, 29.07.2024. Da dies in der Ferienzeit liegt überlegen wir gerade, ob wir das Treffen durchführen, verlegen, anders gestalten oder sogar ausfallen lassen. 
-Sobald wir hier klarer sind, findet Ihr hier die entsprechenden Informationen. 
+Das nächste Treffen ist am Mo, 29.07.2024. Wie im letzten Jahr wird der Juli-Stammtisch zum Sommertreffen. Dieses ist ausnahmsweise nicht Online. 
+Wir treffen uns auf der Terrasse vom S4Campus in der Erzbergerstraße 1, Magdeburg. Das ist auch am Uniplatz am Sitz des SAP UCC nur ein paar Schritte weiter.
+Start 19:00 Uhr.
+
+Wir kümmern uns um Verpflegung und Getränke und haben bestimmt - wie im letzten Jahr - einige interessante spontane Themen. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
+
+**Spoiler:** 
+
+Wir verfolgen gerade die Idee eines firmenübergreifenden Hackathons. Dieser wird vorrausichtlich im September stattfinden und wir wollen den September-Stammtisch (30.09.2024, wieder hybrid) dazu nutzen, um die Ergebnisse zu präsentieren.
+
+Das Juli-Treffen möchten wir nutzen, um diese Idee vorzustellen, Ideen zu sammeln und vielleicht schon Teams zusammenzustellen. Dafür suchen wir Eure Erwartungen, Ideen, Interessen, Wünsche, Angebote, usw. Wir suchen vorrangig Themen aus dem Unternehmensumfeld. Die müssen nicht unbedingt etwas mit SAP zu tun haben. Wünschenswert sind bunt gemischte Teams - firmenübergreifend, unterschiedliche Rollen -, die zusammen an 1-2 Tagen ein vorher definiertes Ziel bearbeiten. 
+
+bei Interesse könnt Ihr uns auch vorab über die Email kontaktieren.
+
 
 ### Anmeldung und sonstige Informationen
 
@@ -158,4 +170,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 30.05.2024 mdjoerg
+last modified: 16.07.2024 mdjoerg
