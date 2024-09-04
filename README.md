@@ -10,22 +10,22 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-
 ### Nächstes Treffen: 
 
-Das nächste Treffen ist am Mo, 29.07.2024. Wie im letzten Jahr wird der Juli-Stammtisch zum Sommertreffen. Dieses ist ausnahmsweise nicht Online. 
-Wir treffen uns auf der Terrasse vom S4Campus in der Erzbergerstraße 1, Magdeburg. Das ist auch am Uniplatz am Sitz des SAP UCC nur ein paar Schritte weiter.
-Start 19:00 Uhr.
+Das nächste Treffen ist nach unserer Regel am Mo, 30.09.2024 (hybrid). Das fällt leider erneut in die Schulferienzeit von Sachsen-Anhalt. Daher haben wir gerade ein paar Herausforderungen in der Planung und müssen vielleicht auf einige Personen unseres Stammpublikums verzichten.
 
-Wir kümmern uns um Verpflegung und Getränke und haben bestimmt - wie im letzten Jahr - einige interessante spontane Themen. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
+Wenn alles klappt, dann ist dieser September Stammtisch wieder beim Fraunhofer Institut im Wissenschaftshafen Magdeburg. Als Schwerpunktthema haben wir "Datenräume" vorausgewählt. Dabei geht es beispielsweise um solche Dinge wie die Verwaltungsschale oder den Digitalen Produktpass. Wahrscheinlich kommen wir in ein paar Jahren nicht mehr daran vorbei und wollten Euch damit schon rechtzeitig "abholen".  
 
-**Spoiler:** 
+Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
 
-Wir verfolgen gerade die Idee eines firmenübergreifenden Hackathons. Dieser wird vorrausichtlich im September stattfinden und wir wollen den September-Stammtisch (30.09.2024, wieder hybrid) dazu nutzen, um die Ergebnisse zu präsentieren.
+Schaut auf jeden Fall kurz vor dem Event auf dieer Seite vorbei, falls sich kurzfristige Änderungen ergeben.
 
-Das Juli-Treffen möchten wir nutzen, um diese Idee vorzustellen, Ideen zu sammeln und vielleicht schon Teams zusammenzustellen. Dafür suchen wir Eure Erwartungen, Ideen, Interessen, Wünsche, Angebote, usw. Wir suchen vorrangig Themen aus dem Unternehmensumfeld. Die müssen nicht unbedingt etwas mit SAP zu tun haben. Wünschenswert sind bunt gemischte Teams - firmenübergreifend, unterschiedliche Rollen -, die zusammen an 1-2 Tagen ein vorher definiertes Ziel bearbeiten. 
 
-bei Interesse könnt Ihr uns auch vorab über die Email kontaktieren.
+**Hinweis zum geplanten Hackathon:** 
+
+Wir haben uns entschlossen, einen solchen firmenübergreifenden Hackathon vorerst nicht durchzuführen. Es gab zu viele Punkte, die uns letztendlich davon abgehalten haben. Beim SAP Stammtisch werden wir Euch dazu mit ein paar mehr Details versorgen. 
+
+Alternativ wollen wir jetzt die Idee eines "BarCamps" verfolgen. Aktueller Plan ist, dass wir dafür einen Termin im Januar 2025 suchen. Sobald wir hier konkreter sind, findet Ihr die notwendigen Infos natürlich hier. 
 
 
 ### Anmeldung und sonstige Informationen
@@ -63,6 +63,7 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2024
+- 29.07.2023 - #35 - Vor-Ort S4Campus - Sommertreffen mit Brainstorming zum Hackathon
 
 - 27.05.2024 - #34 - Hybrid: zu Gast bei Regiocom: Schwerpunkt "Energiewirtschaft"
     - [Teaser](archiv/20240527/teaser_regiocom.jpg) 
@@ -170,4 +171,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 16.07.2024 mdjoerg
+last modified: 04.09.2024 mdjoerg
