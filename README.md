@@ -10,13 +10,12 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![teaser](archiv/20240930_teaser.jpg)
+
 ### Nächstes Treffen: 
 
-Das nächste Treffen ist nach unserer Regel am Mo, 30.09.2024 (hybrid). Das fällt leider erneut in die Schulferienzeit von Sachsen-Anhalt. Daher haben wir gerade ein paar Herausforderungen in der Planung und müssen vielleicht auf einige Personen unseres Stammpublikums verzichten.
-
-Wenn alles klappt, dann ist dieser September Stammtisch wieder beim Fraunhofer Institut im Wissenschaftshafen Magdeburg. Als Schwerpunktthema haben wir "Datenräume" vorausgewählt. Dabei geht es beispielsweise um solche Dinge wie die Verwaltungsschale oder den Digitalen Produktpass. Wahrscheinlich kommen wir in ein paar Jahren nicht mehr daran vorbei und wollten Euch damit schon rechtzeitig "abholen".  
-
-Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
+Das nächste Treffen findet wieder im Fraunhofer Institut Magdeburg in der Elbfabrik statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
+Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. [LinkedIn](https://www.linkedin.com/events/sapstammtischmagdeburgimfraunho7239951128438714370/) an. Danke.
 
 Schaut auf jeden Fall kurz vor dem Event auf dieer Seite vorbei, falls sich kurzfristige Änderungen ergeben.
 
@@ -25,12 +24,12 @@ Schaut auf jeden Fall kurz vor dem Event auf dieer Seite vorbei, falls sich kurz
 
 Wir haben uns entschlossen, einen solchen firmenübergreifenden Hackathon vorerst nicht durchzuführen. Es gab zu viele Punkte, die uns letztendlich davon abgehalten haben. Beim SAP Stammtisch werden wir Euch dazu mit ein paar mehr Details versorgen. 
 
-Alternativ wollen wir jetzt die Idee eines "BarCamps" verfolgen. Aktueller Plan ist, dass wir dafür einen Termin im Januar 2025 suchen. Sobald wir hier konkreter sind, findet Ihr die notwendigen Infos natürlich hier. 
+Alternativ wollen wir jetzt die Idee eines "Barcamps" verfolgen. Aktueller Plan ist, dass wir dafür einen Termin im Januar 2025 suchen. Sobald wir hier konkreter sind, findet Ihr die notwendigen Infos natürlich hier. 
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88621594013?pwd=KJAtMxrBKyl0DGLhgMqNuS4MJbReRP.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -171,4 +170,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 04.09.2024 mdjoerg
+last modified: 23.09.2024 mdjoerg
