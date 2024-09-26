@@ -17,6 +17,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 Das nächste Treffen findet wieder im Fraunhofer Institut Magdeburg in der Elbfabrik statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
 Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. [LinkedIn](https://www.linkedin.com/events/sapstammtischmagdeburgimfraunho7239951128438714370/) an. Danke.
 
+Agenda:
+-------
+1. Vortrag "Datenräume" - Tobias (IFF)
+2. Vortrag "Vom monolithischem System zur hybriden Cloud Landschaft und dem Daten-Management" - Jens (BA)
+3. Vorstellung "Konzept Barcamp 2025" - Stefan (MDZMD)
+4. Vorstellung passender Projekte und Aktivitäten des Mittelstand-Digitalzentrum Magdeburg zum Schwerpunktthema - Stefan (MDZMD) 
+
 Schaut auf jeden Fall kurz vor dem Event auf dieer Seite vorbei, falls sich kurzfristige Änderungen ergeben.
 
 
@@ -29,7 +36,7 @@ Alternativ wollen wir jetzt die Idee eines "Barcamps" verfolgen. Aktueller Plan 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/88621594013?pwd=KJAtMxrBKyl0DGLhgMqNuS4MJbReRP.1)
+- [Link zum virtuellen Meeting](https://eu02web.zoom-x.de/j/6626907264?pwd=UXA2ajUzODh0cTd2QkhoLzJGYmEwdz09&omn=63171387219)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -170,4 +177,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 23.09.2024 mdjoerg
+last modified: 26.09.2024 mdjoerg
