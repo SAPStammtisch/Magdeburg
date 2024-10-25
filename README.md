@@ -10,15 +10,20 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![Teaser](archiv/20241125_teaser.jpg)
+
+
 ### Nächstes Treffen: 
 
 Das nächste Treffen findet wieder im SAP UCC Uniplatz statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
 Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
 
+
 Agenda:
 -------
 
 Noch nicht fix. Beiträge können noch eingereicht werden.
+
 
 
 
