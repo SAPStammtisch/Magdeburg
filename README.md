@@ -10,33 +10,21 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![teaser](archiv/20240930_teaser.jpg)
-
 ### Nächstes Treffen: 
 
-Das nächste Treffen findet wieder im Fraunhofer Institut Magdeburg in der Elbfabrik statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
-Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. [LinkedIn](https://www.linkedin.com/events/sapstammtischmagdeburgimfraunho7239951128438714370/) an. Danke.
+Das nächste Treffen findet wieder im SAP UCC Uniplatz statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
+Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
 
 Agenda:
 -------
-1. Vortrag "Datenräume" - Tobias (IFF)
-2. Vortrag "Vom monolithischem System zur hybriden Cloud Landschaft und dem Daten-Management" - Jens (BA)
-3. Vorstellung "Konzept Barcamp 2025" - Stefan (MDZMD)
-4. Vorstellung passender Projekte und Aktivitäten des Mittelstand-Digitalzentrum Magdeburg zum Schwerpunktthema - Stefan (MDZMD) 
 
-Schaut auf jeden Fall kurz vor dem Event auf dieer Seite vorbei, falls sich kurzfristige Änderungen ergeben.
+Noch nicht fix. Beiträge können noch eingereicht werden.
 
-
-**Hinweis zum geplanten Hackathon:** 
-
-Wir haben uns entschlossen, einen solchen firmenübergreifenden Hackathon vorerst nicht durchzuführen. Es gab zu viele Punkte, die uns letztendlich davon abgehalten haben. Beim SAP Stammtisch werden wir Euch dazu mit ein paar mehr Details versorgen. 
-
-Alternativ wollen wir jetzt die Idee eines "Barcamps" verfolgen. Aktueller Plan ist, dass wir dafür einen Termin im Januar 2025 suchen. Sobald wir hier konkreter sind, findet Ihr die notwendigen Infos natürlich hier. 
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://eu02web.zoom-x.de/j/6626907264?pwd=UXA2ajUzODh0cTd2QkhoLzJGYmEwdz09&omn=63171387219)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -69,7 +57,14 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2024
-- 29.07.2023 - #35 - Vor-Ort S4Campus - Sommertreffen mit Brainstorming zum Hackathon
+
+- 30.09.2024 - #36 - Vor-Ort Fraunhofer Elbfabrik Hybrid: Schwerpunkt "Datenräume"
+    - Datenräume - Tobias (IFF)
+    - Vom monolithischem System zur hybriden Cloud Landschaft und dem Daten-Management - Jens (BA)
+    - Konzept Barcamp 2025 - Stefan (MDZMD)
+    - [Teaser](archiv/20240930_teaser.jpg)
+      
+- 29.07.2024 - #35 - Vor-Ort S4Campus - Sommertreffen mit Brainstorming zum Hackathon
 
 - 27.05.2024 - #34 - Hybrid: zu Gast bei Regiocom: Schwerpunkt "Energiewirtschaft"
     - [Teaser](archiv/20240527/teaser_regiocom.jpg) 
@@ -177,4 +172,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 26.09.2024 mdjoerg
+last modified: 25.10.2024 mdjoerg
