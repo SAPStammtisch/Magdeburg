@@ -79,10 +79,10 @@ Wir freuen uns auf Euren Besuch!
 
 ### 2024
 - 25.11.2024 - #37 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "KI für Alle"
-    - Einleitung 
-    - KI Theorie
-    - Sicherer KI Betrieb aus der souveränen deutschen Cloud
-    - KI in der Forschung und Lehre
+    - KI Einleitung und Praxisszenarien, BA 
+    - KI Theorie, Regiocom
+    - Sicherer KI Betrieb aus der souveränen deutschen Cloud - IONOS - [Whitepaper AI Model Hub](archiv/20241125/Whitepaper_IONOS_AI_Model_Hub.pdf)
+    - KI in der Forschung und Lehre, OvGU
 
 - 30.09.2024 - #36 - Vor-Ort Fraunhofer Elbfabrik Hybrid: Schwerpunkt "Datenräume"
     - Datenräume - Tobias (IFF)
