@@ -10,26 +10,42 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser](archiv/20241125_teaser.jpg)
+![Teaser](archiv/20241125/20241125_teaser.jpg)
 
 
 ### Nächstes Treffen: 
 
 Das nächste Treffen findet wieder im SAP UCC Uniplatz statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
-Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. LinkedIn an. Danke.
+Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. [LinkedIn](https://www.linkedin.com/events/sapstammtischmagdeburg-kif-rall7257037590787166208/) an. Danke.
 
 
 Agenda:
 -------
 
-Noch nicht fix. Beiträge können noch eingereicht werden.
+Wir haben Vorträge vorbereitet, um die folgenden Fragen rund um KI zu behandeln:
 
+1. Wie nähert man sich dem Thema KI?
+2. Was kann KI?
+3. Wie funktioniert KI?
+4. Welche Rolle spielt Opensource?
+5. Wie kann man mit KI starten?
+6. Wie kann man KI aus sicheren souveränen deutschen Rechenzentren betreiben?
+7. Womit beschäftigt sich die Forschung?
+8. Was wird die Zukunft bringen?
+
+Wir freuen uns auf Vorträge von:
+- Regiocom
+- IONOS
+- Otto-von-Guericke-Universität (ovGU)
+- BA
+
+Weitere Vorträge und Impulse sind möglich und natürlich erwarten wir wieder eine angeregte Diskussion.
 
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82055633148?pwd=cm3ruHvkLyG59rmhMICAEkKoNo3foW.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -62,12 +78,17 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2024
+- 25.11.2024 - #37 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "KI für Alle"
+    - Einleitung 
+    - KI Theorie
+    - Sicherer KI Betrieb aus der souveränen deutschen Cloud
+    - KI in der Forschung und Lehre
 
 - 30.09.2024 - #36 - Vor-Ort Fraunhofer Elbfabrik Hybrid: Schwerpunkt "Datenräume"
     - Datenräume - Tobias (IFF)
     - Vom monolithischem System zur hybriden Cloud Landschaft und dem Daten-Management - Jens (BA)
     - Konzept Barcamp 2025 - Stefan (MDZMD)
-    - [Teaser](archiv/20240930_teaser.jpg)
+    - [Teaser](archiv/20240930/20240930_teaser.jpg)
       
 - 29.07.2024 - #35 - Vor-Ort S4Campus - Sommertreffen mit Brainstorming zum Hackathon
 
@@ -177,4 +198,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 25.10.2024 mdjoerg
+last modified: 13.11.2024 mdjoerg
