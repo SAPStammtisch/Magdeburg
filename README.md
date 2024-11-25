@@ -79,10 +79,10 @@ Wir freuen uns auf Euren Besuch!
 
 ### 2024
 - 25.11.2024 - #37 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "KI für Alle"
-    - KI Einleitung und Praxisszenarien, BA 
-    - KI Theorie, Regiocom
-    - Sicherer KI Betrieb aus der souveränen deutschen Cloud - IONOS - [Whitepaper AI Model Hub](archiv/20241125/Whitepaper_IONOS_AI_Model_Hub.pdf)
-    - KI in der Forschung und Lehre, OvGU
+    - KI [Einleitung](archiv/20241125/20241125_SAP_Stammtisch_Magdeburg_Einleitung.pdf) - Jörg, BA 
+    - KI Theorie - Mario, Regiocom
+    - Sicherer KI Betrieb aus der souveränen deutschen Cloud - IONOS - [Whitepaper AI Model Hub](archiv/20241125/Whitepaper_IONOS_AI_Model_Hub.pdf) - Ben, IONOS
+    - KI in der Forschung und Lehre - Stefan, OvGU
 
 - 30.09.2024 - #36 - Vor-Ort Fraunhofer Elbfabrik Hybrid: Schwerpunkt "Datenräume"
     - Datenräume - Tobias (IFF)
@@ -198,4 +198,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.11.2024 mdjoerg
+last modified: 25.11.2024 mdjoerg
