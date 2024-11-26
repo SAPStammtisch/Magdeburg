@@ -10,42 +10,20 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser](archiv/20241125/20241125_teaser.jpg)
+Wir hatten am 25.11.2024 den letzten SAP Stammtisch. Der nächste Termin wäre laut unserer Regel am 27.02.2025. Das fällt allerdings in die Ferienzeit in Sachsen-Anhalt. 
+Daher gibt es derzeit Überlegungen, den nächsten SAP Stammtisch in den Februar zu verschieben. Sobald wir uns entschieden haben und ein Termin feststeht, werden wir das hier zuerst veröffenltichen. 
 
+Eine Agenda gibt es derzeit noch nicht und wir sind für Wünsche und Vorschläge offen. 
 
-### Nächstes Treffen: 
+### Barcamp
 
-Das nächste Treffen findet wieder im SAP UCC Uniplatz statt. Einlass ab ca. 18:00 Uhr. Start der Veranstaltung für die virtuellen Gäste ab 19:00 Uhr. 
-Wir kümmern uns um Verpflegung und Getränke. Bitte meldet Euch (für die Planung) per E-Mail an magdeburg@sapstammtisch.org oder über die Events in der SAP Community bzw. [LinkedIn](https://www.linkedin.com/events/sapstammtischmagdeburg-kif-rall7257037590787166208/) an. Danke.
-
-
-Agenda:
--------
-
-Wir haben Vorträge vorbereitet, um die folgenden Fragen rund um KI zu behandeln:
-
-1. Wie nähert man sich dem Thema KI?
-2. Was kann KI?
-3. Wie funktioniert KI?
-4. Welche Rolle spielt Opensource?
-5. Wie kann man mit KI starten?
-6. Wie kann man KI aus sicheren souveränen deutschen Rechenzentren betreiben?
-7. Womit beschäftigt sich die Forschung?
-8. Was wird die Zukunft bringen?
-
-Wir freuen uns auf Vorträge von:
-- Regiocom
-- IONOS
-- Otto-von-Guericke-Universität (ovGU)
-- BA
-
-Weitere Vorträge und Impulse sind möglich und natürlich erwarten wir wieder eine angeregte Diskussion.
-
+Ein zusätzlicher Hinweis: 
+Gemeinsam mit anderen regionalen Gruppen veranstalten wir am 06.02.2025 ein Barcamp in der Magdeburger [Elbfabrik](https://www.elbfabrik-magdeburg.de/). Mit diesem Format möchten wir Experten und Kunden zusammenbringen. Fokusthemen sind moderne Tehnologien in der Produktion und Logistik. Bei Interesse bitte über uns oder die Kontaktkanäle der anderen Barcamp-Partner anmelden. Wir teilen hier ebenfalls Neuigkeiten zu dieser Veranstaltung. 
 
 
 ### Anmeldung und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/82055633148?pwd=cm3ruHvkLyG59rmhMICAEkKoNo3foW.1)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -78,11 +56,12 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2024
+
 - 25.11.2024 - #37 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "KI für Alle"
-    - KI [Einleitung](archiv/20241125/20241125_SAP_Stammtisch_Magdeburg_Einleitung.pdf) - Jörg, BA 
-    - KI Theorie - Mario, Regiocom
-    - Sicherer KI Betrieb aus der souveränen deutschen Cloud - IONOS - [Whitepaper AI Model Hub](archiv/20241125/Whitepaper_IONOS_AI_Model_Hub.pdf) - Ben, IONOS
-    - KI in der Forschung und Lehre - Stefan, OvGU
+    - [KI Einleitung](archiv/20241125/20241125_SAP_Stammtisch_Magdeburg_Einleitung.pdf) - Jörg, BA 
+    - [KI - Zwischen Mythos und Realität](archiv/20241125/20241125_SAP_Stammtisch_Magdeburg_Part_Mario.pdf) - Mario, Regiocom
+    - [KI für KMU by IONOS](archiv/20241125/20241125_IONOS_KI_für_KMU.pdf) - Ben, IONOS - [Whitepaper AI Model Hub](archiv/20241125/Whitepaper_IONOS_AI_Model_Hub.pdf)
+    - [Aktuelle Forschungsthemen und Zukunftsperspektiven im Bereich der KI](archiv/20241125/20241125_SAP-Stammtisch_SLang.pdf) - Sebastian, OvGU
 
 - 30.09.2024 - #36 - Vor-Ort Fraunhofer Elbfabrik Hybrid: Schwerpunkt "Datenräume"
     - Datenräume - Tobias (IFF)
@@ -198,4 +177,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 25.11.2024 mdjoerg
+last modified: 26.11.2024 mdjoerg
