@@ -11,7 +11,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ## Aktuelles - Nächstes Treffen
 
 Aufgrund der Ferien in Sachsen-Anhalt weichen wir für das erste Treffen in 2025 von unserer Regel ab. Der nächste SAP Stammtisch Magdeburg findet am 17.02.2025 im SAP UCC Uniplatz 2 statt.
-Eine feste Agenda gibt es derzeit noch nicht. Wir planen aber Beiträge zum Thema "Zukunftstrends". Auf jeden Fall wollen wir von den Ergebnissen und Eindrücke vom Elbfabrik-Barcamp (siehe unten) berichten.
+Eine feste Agenda gibt es derzeit noch nicht. Wir planen aber Beiträge zum Thema "Zukunftstrends". Auf jeden Fall wollen wir von den Ergebnissen und Eindrücken vom Elbfabrik-Barcamp (siehe unten) berichten.
 
 Derzeit überlegen wir uns auch noch Beiträge rund um Nachhaltigkeit, Fachkräfte, Daten, u.ä. Sobald wir hier konkreter sind, veröffentlichen wir es hier zuerst. 
 
@@ -51,14 +51,14 @@ Weitere Themen können von den Teilnehmern eingebracht werden. Weiterhin gibt es
 - Fertige Lösungen zum Mitnehmen
 - Langweilige Frontalpräsentationen
 
-#### Anmeldung
+#### Anmeldung Barcamp
 
 Sobald die Anmeldung offen ist, werden wir hier den Link veröffentlichen.
 
 
 
 
-### Anmeldung und sonstige Informationen
+### Anmeldung SAP Stammrisch und sonstige Informationen
 
 - [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
@@ -74,7 +74,8 @@ Wir freuen uns auf Euren Besuch!
 ## Der SAP Stammtisch Magdeburg im Internet
 
 - [Mastodon: #SAPStammtischMD](https://machteburch.social/@SAPStammtisch)
-- [Twitter: #SAPStammtischMD](https://www.twitter.com/hashtag/sapstammtischmd)
+- [X: #SAPStammtischMD](https://www.x.com/hashtag/sapstammtischmd)
+- [BlueSky: #SAPStammtischMD](https://bsky.app/hashtag/sapstammtischmd)
 - [SAP Community Gruppe Magdeburg](https://groups.community.sap.com/t5/magdeburg/gh-p/magdeburg)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
 - [SAP Community Event Kalender](https://groups.community.sap.com/t5/events/ct-p/events)
