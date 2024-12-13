@@ -10,15 +10,52 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-Wir hatten am 25.11.2024 den letzten SAP Stammtisch. Der nächste Termin wäre laut unserer Regel am 27.02.2025. Das fällt allerdings in die Ferienzeit in Sachsen-Anhalt. 
-Daher gibt es derzeit Überlegungen, den nächsten SAP Stammtisch in den Februar zu verschieben. Sobald wir uns entschieden haben und ein Termin feststeht, werden wir das hier zuerst veröffenltichen. 
+Aufgrund der Ferien in Sachsen-Anhalt weichen wir für das erste Treffen in 2025 von unserer Regel ab. Der nächste SAP Stammtisch Magdeburg findet am 17.02.2025 im SAP UCC Uniplatz 2 statt.
+Eine feste Agenda gibt es derzeit noch nicht. Wir planen aber Beiträge zum Thema "Zukunftstrends". Auf jeden Fall wollen wir von den Ergebnissen und Eindrücke vom Elbfabrik-Barcamp (siehe unten) berichten.
 
-Eine Agenda gibt es derzeit noch nicht und wir sind für Wünsche und Vorschläge offen. 
+Derzeit überlegen wir uns auch noch Beiträge rund um Nachhaltigkeit, Fachkräfte, Daten, u.ä. Sobald wir hier konkreter sind, veröffentlichen wir es hier zuerst. 
 
-### Barcamp
 
-Ein zusätzlicher Hinweis: 
-Gemeinsam mit anderen regionalen Gruppen veranstalten wir am 06.02.2025 ein Barcamp in der Magdeburger [Elbfabrik](https://www.elbfabrik-magdeburg.de/). Mit diesem Format möchten wir Experten und Kunden zusammenbringen. Fokusthemen sind moderne Tehnologien in der Produktion und Logistik. Bei Interesse bitte über uns oder die Kontaktkanäle der anderen Barcamp-Partner anmelden. Wir teilen hier ebenfalls Neuigkeiten zu dieser Veranstaltung. 
+### Hinweis: Elbfabrik-Barcamp zur vernetzten Produktion - 06.02.2025
+
+Als SAP Stammtisch unterstützen wir mit anderen regionalen Gruppen am 06.02.2025 ein Barcamp in der Magdeburger [Elbfabrik](https://www.elbfabrik-magdeburg.de/). Mit diesem Format möchten wir Experten und Kunden zusammenbringen. 
+
+#### Ziele/Nutzen
+
+Praxisrelevanter Erfahrungsaustausch und Technologie-Einblicke
+
+Themenbeispiele:
+- Industrie 4.0 Plattform
+- Datenräume, Verwaltungsschale, Digitaler Produkt-Pass
+- KI in der Produktion
+- Augmented Reality
+- ERP Trends 
+- Strategien gegen den Fachkräftemangel
+- Digitalisierungserfahrungen
+
+Weitere Themen können von den Teilnehmern eingebracht werden. Weiterhin gibt es viel Technologie zum Anfassen.
+
+#### Wer sollte teilnehmen? 
+
+- Produktionsverantwortliche aus Industrie und Logistik
+- Umsetzungsverantwortliche für Digitalisierungsthemen in Produktion und Logistik
+
+#### Was können Sie erwarten?
+
+- Einblicke in Technologien und Digitalisierung zum Anfassen
+- Fachlich tiefen Austausch zur konkreten Umsetzung
+- Fachwissen aus der anwendungsorientierten Forschung und Entwicklung
+
+
+#### Was können Sie nicht erwarten? 
+- Fertige Lösungen zum Mitnehmen
+- Langweilige Frontalpräsentationen
+
+#### Anmeldung
+
+Sobald die Anmeldung offen ist, werden wir hier den Link veröffentlichen.
+
+
 
 
 ### Anmeldung und sonstige Informationen
@@ -177,4 +214,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 26.11.2024 mdjoerg
+last modified: 13.12.2024 mdjoerg
