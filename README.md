@@ -18,43 +18,29 @@ Derzeit überlegen wir uns auch noch Beiträge rund um Nachhaltigkeit, Fachkräf
 
 ### Hinweis: Elbfabrik-Barcamp zur vernetzten Produktion - 06.02.2025
 
-Als SAP Stammtisch unterstützen wir mit anderen regionalen Gruppen am 06.02.2025 ein Barcamp in der Magdeburger [Elbfabrik](https://www.elbfabrik-magdeburg.de/). Mit diesem Format möchten wir Experten und Kunden zusammenbringen. 
+Wir haben mit mehreren regionalen Gruppen ein Barcamp in der Magdeburger Elbfabrik vom Fraunhofer IFF organisiert.
 
-#### Ziele/Nutzen
+Die Idee dahinter ist: Unternehmen treffen auf Experten. 
 
-Praxisrelevanter Erfahrungsaustausch und Technologie-Einblicke
+Man kann dort viel selbst anfassen, Fragen stellen, sich inspirieren lassen oder vielleicht sogar eigene Probleme mit den Experten und Teilnehmern vor Ort besprechen. 
 
-Themenbeispiele:
-- Industrie 4.0 Plattform
-- Datenräume, Verwaltungsschale, Digitaler Produkt-Pass
-- KI in der Produktion
-- Augmented Reality
-- ERP Trends 
-- Strategien gegen den Fachkräftemangel
-- Digitalisierungserfahrungen
+Wir haben spannende Themen wie "Connected Factory" - also Integration IoT und ERP (mit und ohne SAP), Automatisierung, Datenräume, Verwaltungsschale, Mixed Reality, Fachkräftemangel und natürlich KI vorbereitet und freuen uns auf den Austausch. 
 
-Weitere Themen können von den Teilnehmern eingebracht werden. Weiterhin gibt es viel Technologie zum Anfassen.
+Auf jeden Fall eine Veranstaltung zum Netzwerken mit Gleichgesinnten. 
+
+Termin: 06.02.2025 ganztägig. Die Veranstaltung ist kostenfrei 
+
 
 #### Wer sollte teilnehmen? 
 
 - Produktionsverantwortliche aus Industrie und Logistik
 - Umsetzungsverantwortliche für Digitalisierungsthemen in Produktion und Logistik
 
-#### Was können Sie erwarten?
-
-- Einblicke in Technologien und Digitalisierung zum Anfassen
-- Fachlich tiefen Austausch zur konkreten Umsetzung
-- Fachwissen aus der anwendungsorientierten Forschung und Entwicklung
-
-
-#### Was können Sie nicht erwarten? 
-- Fertige Lösungen zum Mitnehmen
-- Langweilige Frontalpräsentationen
-
-#### Anmeldung Barcamp
-
-Sobald die Anmeldung offen ist, werden wir hier den Link veröffentlichen.
-
+#### Weitere Informationen:
+- [Anmeldung](https://www.digitalzentrum-magdeburg.de/termine/elbfabrik-barcamp-zur-vernetzten-produktion/)
+- [Veranstaltungshinweis vom Fraunhofer IFF](https://www.digitalzentrum-magdeburg.de/termine/elbfabrik-barcamp-zur-vernetzten-produktion/)
+- [LinkeIn Event Fraunhofer](https://www.linkedin.com/posts/fraunhoferiff_barcamp-produktion-logistik-activity-7270748246044459009-gFVN)
+- [Homepage Elbfabrik](https://www.elbfabrik-magdeburg.de/)
 
 
 
@@ -215,4 +201,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 13.12.2024 mdjoerg
+last modified: 17.12.2024 mdjoerg
