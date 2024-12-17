@@ -38,7 +38,7 @@ Termin: 06.02.2025 ganztägig. Die Veranstaltung ist kostenfrei
 
 #### Weitere Informationen:
 - [Anmeldung](https://www.digitalzentrum-magdeburg.de/termine/elbfabrik-barcamp-zur-vernetzten-produktion/)
-- [Veranstaltungshinweis vom Fraunhofer IFF](https://www.digitalzentrum-magdeburg.de/termine/elbfabrik-barcamp-zur-vernetzten-produktion/)
+- [Veranstaltungshinweis vom Fraunhofer IFF](https://www.iff.fraunhofer.de/de/aktuell-am-fraunhoferiff/veranstaltungen/2025/barcamp-elbfabrik.html)
 - [LinkeIn Event Fraunhofer](https://www.linkedin.com/posts/fraunhoferiff_barcamp-produktion-logistik-activity-7270748246044459009-gFVN)
 - [Homepage Elbfabrik](https://www.elbfabrik-magdeburg.de/)
 
