@@ -10,43 +10,17 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-Aufgrund der Ferien in Sachsen-Anhalt weichen wir für das erste Treffen in 2025 von unserer Regel ab. Der nächste SAP Stammtisch Magdeburg findet am 17.02.2025 im SAP UCC Uniplatz 2 statt.
-Eine feste Agenda gibt es derzeit noch nicht. Wir planen aber Beiträge zum Thema "Zukunftstrends". Auf jeden Fall wollen wir von den Ergebnissen und Eindrücken vom Elbfabrik-Barcamp (siehe unten) berichten.
-
-Derzeit überlegen wir uns auch noch Beiträge rund um Nachhaltigkeit, Fachkräfte, Daten, u.ä. Sobald wir hier konkreter sind, veröffentlichen wir es hier zuerst. 
-
-
-### Hinweis: Elbfabrik-Barcamp zur vernetzten Produktion - 06.02.2025
-
-Wir haben mit mehreren regionalen Gruppen ein Barcamp in der Magdeburger Elbfabrik vom Fraunhofer IFF organisiert.
-
-Die Idee dahinter ist: Unternehmen treffen auf Experten. 
-
-Man kann dort viel selbst anfassen, Fragen stellen, sich inspirieren lassen oder vielleicht sogar eigene Probleme mit den Experten und Teilnehmern vor Ort besprechen. 
-
-Wir haben spannende Themen wie "Connected Factory" - also Integration IoT und ERP (mit und ohne SAP), Automatisierung, Datenräume, Verwaltungsschale, Mixed Reality, Fachkräftemangel und natürlich KI vorbereitet und freuen uns auf den Austausch. 
-
-Auf jeden Fall eine Veranstaltung zum Netzwerken mit Gleichgesinnten. 
-
-Termin: 06.02.2025 ganztägig. Die Veranstaltung ist kostenfrei 
+Aufgrund der Ferien in Sachsen-Anhalt weichen wir für das erste Treffen in 2025 von unserer Regel ab. 
+Der nächste SAP Stammtisch Magdeburg findet am 17.02.2025 im SAP UCC Uniplatz 2 statt.
+Unser Schwerpunkt ist "Zukunftstrends".
 
 
-#### Wer sollte teilnehmen? 
-
-- Produktionsverantwortliche aus Industrie und Logistik
-- Umsetzungsverantwortliche für Digitalisierungsthemen in Produktion und Logistik
-
-#### Weitere Informationen:
-- [Anmeldung](https://www.digitalzentrum-magdeburg.de/termine/elbfabrik-barcamp-zur-vernetzten-produktion/)
-- [Veranstaltungshinweis vom Fraunhofer IFF](https://www.iff.fraunhofer.de/de/aktuell-am-fraunhoferiff/veranstaltungen/2025/barcamp-elbfabrik.html)
-- [LinkeIn Event Fraunhofer](https://www.linkedin.com/posts/fraunhoferiff_barcamp-produktion-logistik-activity-7270748246044459009-gFVN)
-- [Homepage Elbfabrik](https://www.elbfabrik-magdeburg.de/)
+![Teaser](archiv/20250217/20250217_teaser.png)
 
 
+### Anmeldung SAP Stammtisch und sonstige Informationen
 
-### Anmeldung SAP Stammrisch und sonstige Informationen
-
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/83264363642?pwd=rEcKdNvv8fFDsk0mOyvKaXTA28prkV.1)
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -201,4 +175,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 17.12.2024 mdjoerg
+last modified: 14.12.2024 mdjoerg
