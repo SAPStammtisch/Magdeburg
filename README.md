@@ -2,6 +2,11 @@
 
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
+## Aktuelle Hinwweise
+
+Am 21.02.2025 findet ein Webinar von Fraunhofer IFF "Die Brücke zwischen Fabrik und IT: Effiziente Integrationslösungen für Ihre Produktionsanlagen" statt.
+Hier geht es zu den [Infos](https://www.iff.fraunhofer.de/de/aktuell-am-fraunhoferiff/veranstaltungen/2025/webinar-integrationsplattform.html) und zur [Anmeldung](https://app.guestoo.de/public/event/86dbde8f-c248-47d6-91ca-79daf610140a?lang=de). Dieses Event wurde auch auf [LinkedIn](https://www.linkedin.com/posts/fraunhoferiff_webinar-die-br%C3%BCcke-zwischen-ihrer-fabrik-activity-7292493365189758976-1fXi) beworben.
+
 
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
@@ -10,17 +15,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-Aufgrund der Ferien in Sachsen-Anhalt weichen wir für das erste Treffen in 2025 von unserer Regel ab. 
-Der nächste SAP Stammtisch Magdeburg findet am 17.02.2025 im SAP UCC Uniplatz 12 statt.
-Unser Schwerpunkt ist "Zukunftstrends".
+Der nächste SAP Stammtisch Magdeburg findet am 31.03.2025 voraussichtlich im SAP UCC statt. Für Themen sind noch offen. 
 
-
-![Teaser](archiv/20250217/20250217_teaser.png)
 
 
 ### Anmeldung SAP Stammtisch und sonstige Informationen
 
-- [Link zum virtuellen Meeting](https://us06web.zoom.us/j/83264363642?pwd=rEcKdNvv8fFDsk0mOyvKaXTA28prkV.1)
+- [Link zum virtuellen Meeting]()
 - [Zoom Client Download](https://zoom.us/download#client_4meeting)
 
 
@@ -39,7 +40,6 @@ Wir freuen uns auf Euren Besuch!
 - [SAP Community Gruppe Magdeburg](https://groups.community.sap.com/t5/magdeburg/gh-p/magdeburg)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
 - [SAP Community Event Kalender](https://groups.community.sap.com/t5/events/ct-p/events)
-- [Tech Events Magdeburg](https://tech-events-magdeburg.de/)
 
 
 ## Sonstige Informationen im Internet
@@ -52,6 +52,14 @@ Wir freuen uns auf Euren Besuch!
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
 ## Archiv - bisherige Treffen und Dokumente
+
+### 2025
+
+- 17.02.2025 - #38 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Zukunftstrends"
+    - [Rückblick Zukunftstag Produktion](archiv/20250217/20250217_Rückblick_Zukunftstag_Produktion_Elbfabrik.pdf) - Jörg, BA
+    - Databricks Backstage mit Live Demo - Robert, UT
+    - [Nachhaltigkeit - Notwendigkeit und Chancen](archiv/20250217/20250217_SAP_Sustainability.pdf) - Stefan, UCC 
+    - [Teaser](archiv/20250217/20250217_teaser.png)
 
 ### 2024
 
@@ -175,4 +183,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 17.12.2024 mdjoerg
+last modified: 18.12.2024 mdjoerg
