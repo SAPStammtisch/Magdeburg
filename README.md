@@ -4,9 +4,7 @@
 
 ## Aktuelle Hinwweise
 
-Am 21.02.2025 findet ein Webinar von Fraunhofer IFF "Die Brücke zwischen Fabrik und IT: Effiziente Integrationslösungen für Ihre Produktionsanlagen" statt.
-Hier geht es zu den [Infos](https://www.iff.fraunhofer.de/de/aktuell-am-fraunhoferiff/veranstaltungen/2025/webinar-integrationsplattform.html) und zur [Anmeldung](https://app.guestoo.de/public/event/86dbde8f-c248-47d6-91ca-79daf610140a?lang=de). Dieses Event wurde auch auf [LinkedIn](https://www.linkedin.com/posts/fraunhoferiff_webinar-die-br%C3%BCcke-zwischen-ihrer-fabrik-activity-7292493365189758976-1fXi) beworben.
-
+**Achtung: Das geplante Treffen am 31.03.2025 im SAP UCC fällt aus organisatorischen Gründen aus. Das nächste Treffen wäre dann voraussichtlich am Montag, 26.05.2025.**
 
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
@@ -15,7 +13,6 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-Der nächste SAP Stammtisch Magdeburg findet am 31.03.2025 voraussichtlich im SAP UCC statt. Für Themen sind noch offen. 
 
 
 
@@ -183,4 +180,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 18.12.2024 mdjoerg
+last modified: 28.03.2025 mdjoerg
