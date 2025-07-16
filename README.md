@@ -4,7 +4,7 @@
 
 ## Aktuelle Hinwweise
 
-**Achtung: Am Montag, 26.05.2025 findet kein SAP Stanmmtisch statt. Wir befinden uns in einer Reorganisation. Schaut bitte regelmäßig hier vorbei.**
+Unser Stammtisch pausiert seit dem März-Treffen aus organisatorischen Gründen. Wir haben uns entschieden, auch den Juli-Termin ausfallen zu lassen. Der nächste SAP Stammtisch ist geplant für den Mo, 29.09.2025 im SAP UCC ab 19:00 (voraussichtlich hybrid). Updates und weitere Infos findet Ihr dann wieder wie gewohnt hier.
 
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
@@ -180,4 +180,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 23.05.2025 mdjoerg
+last modified: 16.07.2025 mdjoerg
