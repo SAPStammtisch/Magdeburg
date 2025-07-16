@@ -2,7 +2,7 @@
 
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
-## Aktuelle Hinwweise
+## Aktuelle Hinweise
 
 Unser Stammtisch pausiert seit dem März-Treffen aus organisatorischen Gründen. Wir haben uns entschieden, auch den Juli-Termin ausfallen zu lassen. Der nächste SAP Stammtisch ist geplant für den Mo, 29.09.2025 im SAP UCC ab 19:00 (voraussichtlich hybrid). Updates und weitere Infos findet Ihr dann wieder wie gewohnt hier.
 
