@@ -2,10 +2,6 @@
 
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
-## Aktuelle Hinweise
-
-Unser Stammtisch pausiert seit dem März-Treffen aus organisatorischen Gründen. Wir haben uns entschieden, auch den Juli-Termin ausfallen zu lassen. Der nächste SAP Stammtisch ist geplant für den Mo, 29.09.2025 im SAP UCC ab 19:00 (voraussichtlich hybrid). Updates und weitere Infos findet Ihr dann wieder wie gewohnt hier.
-
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
@@ -13,14 +9,19 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+- Schwerpunktthema: "Was macht die Basis von morgen?"
+- Termin: 29.09.2025 - Hybrid:
+    - 18:30 Uhr Einlass im SAP UCC
+    - 19:00 Start der Vorträge und des virtuellen Meetings
+- Vorträge:
+    - "Von der Tradition zur Innovation", Babett, IN4MD Service
+    - "Die Odoo Story", Frederik, initOS
+    - "AIOps für traditionelle SAP-ERP-Systeme", Lars, T-Systems
+- [Anmeldung](https://www.eventbrite.de/e/sap-stammtisch-magdeburg-0925-was-macht-die-basis-von-morgen-tickets-1559426971049?aff=oddtdtcreator) für Vor-Ort-Gäste erwünscht
+- [Link zum virtuellen Meeting - kommt noch]()
 
 
-
-### Anmeldung SAP Stammtisch und sonstige Informationen
-
-- [Link zum virtuellen Meeting]()
-- [Zoom Client Download](https://zoom.us/download#client_4meeting)
-
+### Sonstige Informationen
 
 Mit unseren hybriden Events versuchen wir unsere gern gesehenen überregionalen Gäste virtuell zu integrieren. Bitte beachten, dass wir virtuell erst ab ca. 19:00 Uhr mit der Übertragung starten. Die Vor-Ort-Veranstaltung beginnen etwas eher (Einlass ab 18:30 Uhr).
 
@@ -180,4 +181,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 16.07.2025 mdjoerg
+last modified: 01.09.2025 mdjoerg
