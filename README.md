@@ -18,7 +18,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
     - "Die Odoo Story", Frederik, initOS
     - "AIOps für traditionelle SAP-ERP-Systeme", Lars, T-Systems
 - [Anmeldung](https://www.eventbrite.de/e/sap-stammtisch-magdeburg-0925-was-macht-die-basis-von-morgen-tickets-1559426971049?aff=oddtdtcreator) für Vor-Ort-Gäste erwünscht
-- [Link zum virtuellen Meeting - kommt noch]()
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_OGZkZmRkMDUtZjcwYS00ZmI3LTk5NzctZGY1ZWQ3MzRmYWMx%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=23f3c9f9-03a4-47bf-afc3-a70827da4ba0&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
 
 ### Sonstige Informationen
@@ -181,4 +181,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 01.09.2025 mdjoerg
+last modified: 22.09.2025 mdjoerg
