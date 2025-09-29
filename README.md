@@ -181,4 +181,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.09.2025 mdjoerg
+last modified: 29.09.2025 mdjoerg
