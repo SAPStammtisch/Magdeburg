@@ -59,10 +59,9 @@ Wir freuen uns auf Euren Besuch!
 ### 2025
 
 - 29.09.2025 - #39 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Basis von morgen?"
-- Vorträge:
     - [Von der Tradition zur Innovation](archiv/20250929/20250929_sap_stammtisch_md_in4md_dsag_tradition_innovation.pdf), Babett, IN4MD Service
     - [Die Odoo Story](archiv/20250929/20250929_sap_stammtisch_md_initos_Odoo_Story.pdf), Frederik, initOS
-    - AIOps für traditionelle SAP-ERP-Systeme, Lars, T-Systems
+    - [AIOps für traditionelle SAP-ERP-Systeme](archiv/20250929/20250929_sap_stammtisch_md_tsystems_AIOpsV1.pdf), Lars, T-Systems
 
 - 17.02.2025 - #38 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Zukunftstrends"
     - [Rückblick Zukunftstag Produktion](archiv/20250217/20250217_Rückblick_Zukunftstag_Produktion_Elbfabrik.pdf) - Jörg, BA
