@@ -9,16 +9,21 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-- Schwerpunktthema: "Was macht die Basis von morgen?"
-- Termin: 29.09.2025 - Hybrid:
+- Schwerpunktthema: "Was macht die SAP Entwicklung von morgen?"
+- Wir sind an interessanten Gästen dran und möchten mit Euch über die Zukunft der SAP Entwicklung diskutieren
+- Dabei sollen beispielsweise die folgenden Fragen beantwortet werden (kann sich noch ändern):
+    - Wie sieht die Zukunft für SAP Entwickler aus?
+    - Welche Rolle spielt ABAP in der Zukunft?
+    - Welche Programmiersprachen oder Technologien werden zukünftig (noch) gebraucht?
+    - Welche Skills brauchen SAP Entwickler?
+    - Wie wird die KI die Arbeit von SAP Entwicklern unterstützen?
+- Sobald wir konkretere Informationen haben, werden diese hier veröffentlicht
+- Termin: 24.11.2025 - Hybrid:
     - 18:30 Uhr Einlass im SAP UCC
     - 19:00 Start der Vorträge und des virtuellen Meetings
-- Vorträge:
-    - "Von der Tradition zur Innovation", Babett, IN4MD Service
-    - "Die Odoo Story", Frederik, initOS
-    - "AIOps für traditionelle SAP-ERP-Systeme", Lars, T-Systems
-- [Anmeldung](https://www.eventbrite.de/e/sap-stammtisch-magdeburg-0925-was-macht-die-basis-von-morgen-tickets-1559426971049?aff=oddtdtcreator) für Vor-Ort-Gäste erwünscht
-- [Link zum virtuellen Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGZkZmRkMDUtZjcwYS00ZmI3LTk5NzctZGY1ZWQ3MzRmYWMx%40thread.v2/0?context=%7b%22Tid%22%3a%225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%22%2c%22Oid%22%3a%2219034815-6841-408f-be29-a58fae8c9273%22%7d)
+
+- [Anmeldung - kommt noch]() für Vor-Ort-Gäste erwünscht
+- [Link zum virtuellen Meeting - kommt noch]() 
 
 
 ### Sonstige Informationen
@@ -52,6 +57,12 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2025
+
+- 29.09.2025 - #39 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Basis von morgen?"
+- Vorträge:
+    - [Von der Tradition zur Innovation](archiv/20250929/20250929_sap_stammtisch_md_in4md_dsag_tradition_innovation.pdf), Babett, IN4MD Service
+    - [Die Odoo Story](archiv/20250929/20250929_sap_stammtisch_md_initos_Odoo_Story.pdf), Frederik, initOS
+    - AIOps für traditionelle SAP-ERP-Systeme, Lars, T-Systems
 
 - 17.02.2025 - #38 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Zukunftstrends"
     - [Rückblick Zukunftstag Produktion](archiv/20250217/20250217_Rückblick_Zukunftstag_Produktion_Elbfabrik.pdf) - Jörg, BA
@@ -181,4 +192,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 29.09.2025 mdjoerg
+last modified: 06.10.2025 mdjoerg
