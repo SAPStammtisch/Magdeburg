@@ -58,6 +58,9 @@ Wir freuen uns auf Euren Besuch!
 
 ### 2025
 
+- 24.11.2025 - #40 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die SAP Entwicklung von morgen?"
+    - [Briefing](20251124_briefing.md)
+
 - 29.09.2025 - #39 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Basis von morgen?"
     - [Von der Tradition zur Innovation](archiv/20250929/20250929_sap_stammtisch_md_in4md_dsag_tradition_innovation.pdf), Babett, IN4MD Service
     - [Die Odoo Story](archiv/20250929/20250929_sap_stammtisch_md_initos_Odoo_Story.pdf), Frederik, initOS
@@ -191,4 +194,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 06.10.2025 mdjoerg
+last modified: 25.10.2025 mdjoerg
