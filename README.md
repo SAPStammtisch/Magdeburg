@@ -9,6 +9,8 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
+![Teaser Stammtisch #40](archiv/20251124/teaser_01_40_small.png)
+
 - Schwerpunktthema: "Was macht die SAP Entwicklung von morgen?"
 - Wir sind an interessanten Gästen dran und möchten mit Euch über die Zukunft der SAP Entwicklung diskutieren
 - Dabei sollen beispielsweise die folgenden Fragen beantwortet werden (kann sich noch ändern):
@@ -194,4 +196,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 25.10.2025 mdjoerg
+last modified: 27.10.2025 mdjoerg
