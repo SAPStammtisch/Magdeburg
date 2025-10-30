@@ -11,21 +11,48 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ![Teaser Stammtisch #40](archiv/20251124/teaser_01_40_small.png)
 
-- Schwerpunktthema: "Was macht die SAP Entwicklung von morgen?"
-- Wir sind an interessanten Gästen dran und möchten mit Euch über die Zukunft der SAP Entwicklung diskutieren
-- Dabei sollen beispielsweise die folgenden Fragen beantwortet werden (kann sich noch ändern):
-    - Wie sieht die Zukunft für SAP Entwickler aus?
-    - Welche Rolle spielt ABAP in der Zukunft?
-    - Welche Programmiersprachen oder Technologien werden zukünftig (noch) gebraucht?
-    - Welche Skills brauchen SAP Entwickler?
-    - Wie wird die KI die Arbeit von SAP Entwicklern unterstützen?
-- Sobald wir konkretere Informationen haben, werden diese hier veröffentlicht
-- Termin: 24.11.2025 - Hybrid:
-    - 18:30 Uhr Einlass im SAP UCC
-    - 19:00 Start der Vorträge und des virtuellen Meetings
+**Schwerpunktthema: "Was macht die SAP Entwicklung von morgen?"**
 
-- [Anmeldung - kommt noch]() für Vor-Ort-Gäste erwünscht
-- [Link zum virtuellen Meeting - kommt noch]() 
+### Organisatorisches
+
+- Termin: 24.11.2025 - Hybrid:
+- 18:30 Uhr Einlass im SAP UCC
+- 19:00 Start der Vorträge und des virtuellen Meetings
+- 21:30 voraussichtliches Ende des offiziellen Teils
+- [Anmeldung - Vor Ort Gäste - kommt noch]()
+- [Anmeldung - virtuelle Gäste - kommt noch]()
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/l/meetup-join/19%253ameeting_YjkxODcyZjAtNzEzMi00ZTMxLWI1ZDItNjUyZmEzNTM2M2Nk%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d&sa=D&source=calendar&ust=1762238238837110&usg=AOvVaw1uihtmrEUVu4LrjPu7VJTX) 
+
+### Informationen zum Ablauf
+
+Der nächste SAP Stammtisch ist unser **40. Treffen**. Zum **Jubiläum** wollten wir wieder etwas Besonderes machen. 
+
+Wir haben uns interessante **Gäste** zu unserem Schwerpunktthema *"Was macht die SAP Entwicklung von morgen?"* eingeladen (teilweise virtuell).  
+
+Jeder Gast bringt einen kurzen **Impulsvortrag** mit, der sich irgendwie um die Entwicklung im SAP Umfeld dreht. Natürlich sind wir gespannt darauf, welche **Perspektiven und Erwartungen** unsere Gäste zur **zukünftigen SAP Entwicklung** mitbringen werden.
+
+Im Anschluss an die Impulsvorträge wechseln wir in den Modus der **virtuellen Podiumsdiskussion**. Zusammen mit Euch wollen über die Zukunft der SAP Entwicklung diskutieren. Die Magdeburger Stammtischorganisatoren Babett und Jörg moderieren den Abend.
+
+**Fragen**, die wir uns im Vorfeld überlegt haben:
+
+1. Wohin wird sich SAP und das Kernprodukt ERP entwickeln?
+2. Wie werden die Kunden das SAP Kernprodukt ERP zukünftig nutzen (und anpassen)?
+3. Welche anderen Produkte und Technologien werden relevant für SAP Entwickler?
+4. Wie sieht die Zukunft für SAP Entwickler aus?
+5. Welche Rolle spielt ABAP in der Zukunft?
+6. Welche Programmiersprachen oder Technologien werden zukünftig (noch) gebraucht?
+7. Welche Skills brauchen SAP Entwickler?
+8. Wie wird die KI die Arbeit von SAP Entwicklern unterstützen und ggf. verändern?
+
+Unsere (vorläufige) **Gästeliste**:
+- Jörg Brandeis, Buchautor und Trainer, SAP Stammtisch Karlsruhe
+- Martin Fischer, DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart
+- Fabian Lupa, Buchautor und Trainer, SAP Stammtisch Dortmund
+- Kevin Pocher, Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig)
+- Björn Schulz, SAP Mentor und Content Creator, SAP Stammtisch Düsseldorf-Köln  
+- Gregor Wolf, SAP Mentor und Developer, SAP Stammtisch München
+
+Wir freuen uns, dass unsere Gäste ausnahmslos bei anderen regionalen SAP Stammtischen engagiert sind.
 
 
 ### Sonstige Informationen
@@ -35,7 +62,6 @@ Mit unseren hybriden Events versuchen wir unsere gern gesehenen überregionalen 
 Es besteht keine Anmeldepflicht. Allerdings könntet Ihr Euch freiwillig auf der [SAP Community Event Kalender Seite](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch) anmelden und damit zeigen, dass unser SAP Stammtisch "Community lebt". Vielen Dank!
 
 Wir freuen uns auf Euren Besuch! 
-
 
 ## Der SAP Stammtisch Magdeburg im Internet
 
@@ -196,4 +222,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 27.10.2025 mdjoerg
+last modified: 30.10.2025 mdjoerg
