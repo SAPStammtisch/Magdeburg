@@ -19,8 +19,8 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
-- [Anmeldung - Vor Ort Gäste - kommt noch]()
-- [Anmeldung - virtuelle Gäste - kommt noch]()
+- [Anmeldung - Vor Ort Gäste (EventBrite)](https://www.eventbrite.de/e/sap-stammtisch-magdeburg-1125-was-macht-die-entwicklung-von-morgen-tickets-1951679569129?aff=oddtdtcreator)
+- [Anmeldung - virtuelle Gäste (LinkedIn)](https://www.linkedin.com/events/sapstammtischmagdeburg11-25-was7391108876315828224/)
 - [Link zum virtuellen Meeting](https://teams.microsoft.com/l/meetup-join/19%253ameeting_YjkxODcyZjAtNzEzMi00ZTMxLWI1ZDItNjUyZmEzNTM2M2Nk%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d&sa=D&source=calendar&ust=1762238238837110&usg=AOvVaw1uihtmrEUVu4LrjPu7VJTX) 
 
 ### Informationen zum Ablauf
@@ -222,4 +222,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 30.10.2025 mdjoerg
+last modified: 11.11.2025 mdjoerg
