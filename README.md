@@ -9,50 +9,16 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser Stammtisch #40](archiv/20251124/teaser_01_40_small.png)
+**Schwerpunktthema: "Was macht die Bildung von morgen?"**
 
-**Schwerpunktthema: "Was macht die SAP Entwicklung von morgen?"**
-
-### Organisatorisches
-
-- Termin: 24.11.2025 - Hybrid:
+- Termin: 26.01.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
-- [Anmeldung - Vor Ort Gäste (EventBrite)](https://www.eventbrite.de/e/sap-stammtisch-magdeburg-1125-was-macht-die-entwicklung-von-morgen-tickets-1951679569129?aff=oddtdtcreator)
-- [Anmeldung - virtuelle Gäste (LinkedIn)](https://www.linkedin.com/events/sapstammtischmagdeburg11-25-was7391108876315828224/)
-- [Link zum virtuellen Meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_YjkxODcyZjAtNzEzMi00ZTMxLWI1ZDItNjUyZmEzNTM2M2Nk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=08a130e3-a582-4957-9bfc-3e342711e2b7&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true) 
 
-### Informationen zum Ablauf
-
-Der nächste SAP Stammtisch ist unser **40. Treffen**. Zum **Jubiläum** wollten wir wieder etwas Besonderes machen. 
-
-Wir haben uns interessante **Gäste** zu unserem Schwerpunktthema *"Was macht die SAP Entwicklung von morgen?"* eingeladen (teilweise virtuell).  
-
-Jeder Gast bringt einen kurzen **Impulsvortrag** mit, der sich irgendwie um die Entwicklung im SAP Umfeld dreht. Natürlich sind wir gespannt darauf, welche **Perspektiven und Erwartungen** unsere Gäste zur **zukünftigen SAP Entwicklung** mitbringen werden.
-
-Im Anschluss an die Impulsvorträge wechseln wir in den Modus der **virtuellen Podiumsdiskussion**. Zusammen mit Euch wollen über die Zukunft der SAP Entwicklung diskutieren. Die Magdeburger Stammtischorganisatoren Babett und Jörg moderieren den Abend.
-
-**Fragen**, die wir uns im Vorfeld überlegt haben:
-
-1. Wohin wird sich SAP und das Kernprodukt ERP entwickeln?
-2. Wie werden die Kunden das SAP Kernprodukt ERP zukünftig nutzen (und anpassen)?
-3. Welche anderen Produkte und Technologien werden relevant für SAP Entwickler?
-4. Wie sieht die Zukunft für SAP Entwickler aus?
-5. Welche Rolle spielt ABAP in der Zukunft?
-6. Welche Programmiersprachen oder Technologien werden zukünftig (noch) gebraucht?
-7. Welche Skills brauchen SAP Entwickler?
-8. Wie wird die KI die Arbeit von SAP Entwicklern unterstützen und ggf. verändern?
-
-Unsere (vorläufige) **Gästeliste**:
-- Jörg Brandeis, Buchautor und Trainer, SAP Stammtisch Karlsruhe
-- Martin Fischer, DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart
-- Fabian Lupa, Buchautor und Trainer, SAP Stammtisch Dortmund
-- Kevin Pocher, Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig)
-- Björn Schulz, SAP Mentor und Content Creator, SAP Stammtisch Düsseldorf-Köln  
-- Gregor Wolf, SAP Mentor und Developer, SAP Stammtisch München
-
-Wir freuen uns, dass unsere Gäste ausnahmslos bei anderen regionalen SAP Stammtischen engagiert sind.
+- [Anmeldung - Vor Ort Gäste - kommt noch]()
+- [Anmeldung - virtuelle Gäste - kommt noch]()
+- [Link zum virtuellen Meeting - kommt noch]()
 
 
 ### Sonstige Informationen
@@ -87,7 +53,20 @@ Wir freuen uns auf Euren Besuch!
 ### 2025
 
 - 24.11.2025 - #40 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die SAP Entwicklung von morgen?"
-    - [Briefing](20251124_briefing.md)
+    - Eigene Vorträge:
+        - [Agenda und Infos](archiv/20251124/20251124_SAP_Stammtisch_Magdeburg_#40_Agenda_und_Infos.pdf)
+        - [Babett Ruß](https://www.linkedin.com/in/babett-ru%C3%9F-734299211/) - [SAP BTP Curricula im SAP UCC](archiv/20251124/20251124_UCC_SAP_Stammtisch_BTP_Curricula.pdf)
+        - [Jörg Müller](https://www.linkedin.com/in/j%C3%B6rg-m%C3%BCller-5331272b4/) - [Datenorientierung - SAP Build Apps in der datengetriebenen Fertigung](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Datenorientierung.pdf)
+    - Vorträge unserer Gäste:
+        - [Jörg Brandeis](https://www.linkedin.com/in/joerg-brandeis/), Buchautor und Trainer, SAP Stammtisch Karlsruhe - [SAP-Enticklung für die Zukunft](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Entwicklung_Zukunft.pdf)
+        - [Martin Fischer](https://www.linkedin.com/in/cyclingfisch/), DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart
+        - [Fabian Lupa](https://www.linkedin.com/in/fabianlupa/), Buchautor und Trainer, SAP Stammtisch Dortmund - [ABAP Kochbuch](archiv/20251124/20251124_Adesso_SAP_Stammtisch_ABAP_Kochbuch.pdf)
+        - [Kevin Pocher](https://www.linkedin.com/in/kevin-pocher-0a5468259/), Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig) - [S/4 HANA Public Cloud - Steda Projekt](archiv/20251124/20251124_BA_SAP_Stammtisch_PublicCloud.pdf)
+        - [Björn Schulz](https://www.linkedin.com/in/bjoern-schulz-swh/), SAP Mentor und Content Creator, SAP Stammtisch Düsseldorf-Köln - [Blog Software Heroes](https://software-heroes.com/blog/category-ABAP) 
+        - [Gregor Wolf](https://www.linkedin.com/in/gregorwolf/), SAP Mentor und Developer, SAP Stammtisch München - [CAP - heute und morgen](https://gregorwolf.github.io/CAP-heute-und-morgen/#/)
+    - Sonstiges:
+        - [Briefing](archiv/20251124/20251124_briefing.md)
+        - [Teaser](archiv/20251124/teaser_01_40.png)
 
 - 29.09.2025 - #39 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Basis von morgen?"
     - [Von der Tradition zur Innovation](archiv/20250929/20250929_sap_stammtisch_md_in4md_dsag_tradition_innovation.pdf), Babett, IN4MD Service
@@ -222,4 +201,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 20.11.2025 mdjoerg
+last modified: 27.11.2025 mdjoerg
