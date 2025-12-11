@@ -9,13 +9,24 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-**Schwerpunktthema: "Was macht die Bildung von morgen?"**
+![Schwerpunktthema: "Was macht die Bildung von morgen?](archiv/20260126/bildung_morgen.png)
+
+### Schwerpunktthema: "Was macht die Bildung von morgen?
 
 - Termin: 26.01.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
+### Unsere vorläufige Gästeliste:
+- Frank Engert, Softway: "Podcasts für die Wissensvermittlung"
+- Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
+- Jörg Siebert, Espresso Tutorials: N.N.
+- Angelina Mahl, DSAG Academy: N.N.
+- Jörg Brandeis, Brandeis: N.N.
+
+
+### Anmeldung und Link zum virtuellen Meeting
 - [Anmeldung - Vor Ort Gäste - kommt noch]()
 - [Anmeldung - virtuelle Gäste - kommt noch]()
 - [Link zum virtuellen Meeting - kommt noch]()
@@ -58,7 +69,7 @@ Wir freuen uns auf Euren Besuch!
         - [Babett Ruß](https://www.linkedin.com/in/babett-ru%C3%9F-734299211/) - [SAP BTP Curricula im SAP UCC](archiv/20251124/20251124_UCC_SAP_Stammtisch_BTP_Curricula.pdf)
         - [Jörg Müller](https://www.linkedin.com/in/j%C3%B6rg-m%C3%BCller-5331272b4/) - [Datenorientierung - SAP Build Apps in der datengetriebenen Fertigung](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Datenorientierung.pdf)
     - Vorträge unserer Gäste:
-        - [Jörg Brandeis](https://www.linkedin.com/in/joerg-brandeis/), Buchautor und Trainer, SAP Stammtisch Karlsruhe - [SAP-Enticklung für die Zukunft](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Entwicklung_Zukunft.pdf)
+        - [Jörg Brandeis](https://www.linkedin.com/in/joerg-brandeis/), Buchautor und Trainer, SAP Stammtisch Karlsruhe - [SAP-Entwicklung für die Zukunft](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Entwicklung_Zukunft.pdf)
         - [Martin Fischer](https://www.linkedin.com/in/cyclingfisch/), DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart
         - [Fabian Lupa](https://www.linkedin.com/in/fabianlupa/), Buchautor und Trainer, SAP Stammtisch Dortmund - [ABAP Kochbuch](archiv/20251124/20251124_Adesso_SAP_Stammtisch_ABAP_Kochbuch.pdf)
         - [Kevin Pocher](https://www.linkedin.com/in/kevin-pocher-0a5468259/), Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig) - [S/4 HANA Public Cloud - Steda Projekt](archiv/20251124/20251124_BA_SAP_Stammtisch_PublicCloud.pdf)
@@ -201,4 +212,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 27.11.2025 mdjoerg
+last modified: 11.12.2025 mdjoerg
