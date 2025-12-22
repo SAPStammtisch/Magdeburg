@@ -9,7 +9,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Schwerpunktthema: "Was macht die Bildung von morgen?](archiv/20260126/bildung_morgen.png)
+![Schwerpunktthema: "Was macht die Bildung von morgen?"](archiv/20260126/bildung_morgen.png)
 
 ### Schwerpunktthema: "Was macht die Bildung von morgen?
 
@@ -27,9 +27,9 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste - kommt noch]()
-- [Anmeldung - virtuelle Gäste - kommt noch]()
-- [Link zum virtuellen Meeting - kommt noch]()
+- [Anmeldung - Vor Ort Gäste](https://www.eventbrite.com/e/sap-stammtisch-magdeburg-0126-weiterbildung-von-morgen-tickets-1977711179376?aff=oddtdtcreator&keep_tld=1)
+- [Anmeldung - virtuelle Gäste](https://www.linkedin.com/events/7407012246750461952/)
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTE4NTliMTYtNmZlZC00MGM2LWE0YjMtNmJiNDZiM2E0NTE4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=48c22c2e-513a-4571-b56e-52ac1e16ed6f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
 
 ### Sonstige Informationen
@@ -65,16 +65,16 @@ Wir freuen uns auf Euren Besuch!
 
 - 24.11.2025 - #40 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die SAP Entwicklung von morgen?"
     - Eigene Vorträge:
-        - [Agenda und Infos](archiv/20251124/20251124_SAP_Stammtisch_Magdeburg_#40_Agenda_und_Infos.pdf)
-        - [Babett Ruß](https://www.linkedin.com/in/babett-ru%C3%9F-734299211/) - [SAP BTP Curricula im SAP UCC](archiv/20251124/20251124_UCC_SAP_Stammtisch_BTP_Curricula.pdf)
-        - [Jörg Müller](https://www.linkedin.com/in/j%C3%B6rg-m%C3%BCller-5331272b4/) - [Datenorientierung - SAP Build Apps in der datengetriebenen Fertigung](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Datenorientierung.pdf)
+        - [Agenda und Infos](archiv/20251124/20251124_SAP_Stammtisch_Magdeburg_#40_Agenda_und_Infos.pdf) - [Video](https://youtu.be/tcRbX4bqJSM)
+        - [Babett Ruß](https://www.linkedin.com/in/babett-ru%C3%9F-734299211/) - [SAP BTP Curricula im SAP UCC](archiv/20251124/20251124_UCC_SAP_Stammtisch_BTP_Curricula.pdf) - [Video](https://youtu.be/u2f2jXUvP1c)
+        - [Jörg Müller](https://www.linkedin.com/in/j%C3%B6rg-m%C3%BCller-5331272b4/) - [Datenorientierung - SAP Build Apps in der datengetriebenen Fertigung](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Datenorientierung.pdf) - [Video](https://youtu.be/5p_0CDgER7s)
     - Vorträge unserer Gäste:
-        - [Jörg Brandeis](https://www.linkedin.com/in/joerg-brandeis/), Buchautor und Trainer, SAP Stammtisch Karlsruhe - [SAP-Entwicklung für die Zukunft](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Entwicklung_Zukunft.pdf)
-        - [Martin Fischer](https://www.linkedin.com/in/cyclingfisch/), DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart
-        - [Fabian Lupa](https://www.linkedin.com/in/fabianlupa/), Buchautor und Trainer, SAP Stammtisch Dortmund - [ABAP Kochbuch](archiv/20251124/20251124_Adesso_SAP_Stammtisch_ABAP_Kochbuch.pdf)
-        - [Kevin Pocher](https://www.linkedin.com/in/kevin-pocher-0a5468259/), Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig) - [S/4 HANA Public Cloud - Steda Projekt](archiv/20251124/20251124_BA_SAP_Stammtisch_PublicCloud.pdf)
-        - [Björn Schulz](https://www.linkedin.com/in/bjoern-schulz-swh/), SAP Mentor und Content Creator, SAP Stammtisch Düsseldorf-Köln - [Blog Software Heroes](https://software-heroes.com/blog/category-ABAP) 
-        - [Gregor Wolf](https://www.linkedin.com/in/gregorwolf/), SAP Mentor und Developer, SAP Stammtisch München - [CAP - heute und morgen](https://gregorwolf.github.io/CAP-heute-und-morgen/#/)
+        - [Jörg Brandeis](https://www.linkedin.com/in/joerg-brandeis/), Buchautor und Trainer, SAP Stammtisch Karlsruhe - [SAP-Entwicklung für die Zukunft](archiv/20251124/20251124_Brandeis_SAP_Stammtisch_Entwicklung_Zukunft.pdf) - [Video](https://youtu.be/6BHnq54T0K8)
+        - [Martin Fischer](https://www.linkedin.com/in/cyclingfisch/), DSAG Partnerbeirat und Podcaster, SAP Stammtisch Stuttgart - [Video](https://youtu.be/JVgPEF_Z1bU)
+        - [Fabian Lupa](https://www.linkedin.com/in/fabianlupa/), Buchautor und Trainer, SAP Stammtisch Dortmund - [ABAP Kochbuch](archiv/20251124/20251124_Adesso_SAP_Stammtisch_ABAP_Kochbuch.pdf) - [Video](https://youtu.be/6wowUS_dZ9s)
+        - [Kevin Pocher](https://www.linkedin.com/in/kevin-pocher-0a5468259/), Lead Developer, SAP Stammtisch Magdeburg (Halle/Leipzig) - [S/4 HANA Public Cloud - Steda Projekt](archiv/20251124/20251124_BA_SAP_Stammtisch_PublicCloud.pdf) - [Video](https://youtu.be/32mP01DAwxo)
+        - [Björn Schulz](https://www.linkedin.com/in/bjoern-schulz-swh/), SAP Mentor und Content Creator, SAP Stammtisch Düsseldorf-Köln - [Blog Software Heroes](https://software-heroes.com/blog/category-ABAP) - [Video](https://youtu.be/AkLuIuuhPkA) 
+        - [Gregor Wolf](https://www.linkedin.com/in/gregorwolf/), SAP Mentor und Developer, SAP Stammtisch München - [CAP - heute und morgen](https://gregorwolf.github.io/CAP-heute-und-morgen/#/) - [Video](https://youtu.be/gDHK3qtyNrc)
     - Sonstiges:
         - [Briefing](archiv/20251124/20251124_briefing.md)
         - [Teaser](archiv/20251124/teaser_01_40.png)
@@ -212,4 +212,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 11.12.2025 mdjoerg
+last modified: 22.12.2025 mdjoerg
