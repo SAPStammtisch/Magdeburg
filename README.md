@@ -21,7 +21,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ### Unsere vorläufige Gästeliste:
 - Frank Engert, Softway: "Podcasts für die Wissensvermittlung"
 - Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
-- Jörg Siebert, Espresso Tutorials: N.N.
+- Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem"
 - Angelina Mahl, DSAG Academy: N.N.
 - Jörg Brandeis, Brandeis: N.N.
 
@@ -212,4 +212,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.12.2025 mdjoerg
+last modified: 09.01.2026 mdjoerg
