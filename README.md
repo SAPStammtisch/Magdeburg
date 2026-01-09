@@ -19,11 +19,11 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
 ### Unsere vorläufige Gästeliste:
+- Jörg Brandeis, Brandeis: "Der Inhalt war gut, gelernt hat trotzdem keiner - welches Schulungsformat funktioniert wirklich für SAP-Teams?"
 - Frank Engert, Softway: "Podcasts für die Wissensvermittlung"
-- Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
-- Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem"
 - Angelina Mahl, DSAG Academy: N.N.
-- Jörg Brandeis, Brandeis: N.N.
+- Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem"
+- Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
 
 
 ### Anmeldung und Link zum virtuellen Meeting
