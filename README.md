@@ -21,7 +21,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 ### Unsere vorläufige Gästeliste:
 - Jörg Brandeis, Brandeis: "Der Inhalt war gut, gelernt hat trotzdem keiner - welches Schulungsformat funktioniert wirklich für SAP-Teams?"
 - Frank Engert, Softway: "Podcasts für die Wissensvermittlung"
-- Angelina Mahl, DSAG Academy: N.N.
+- Angelina Mahl, DSAG Academy: "SAP lernen im Wandel - welche Kompetenzen die Zukunft braucht"
 - Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem"
 - Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
 
@@ -212,4 +212,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 09.01.2026 mdjoerg
+last modified: 19.01.2026 mdjoerg
