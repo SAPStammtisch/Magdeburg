@@ -72,7 +72,7 @@ Wir freuen uns auf Euren Besuch!
     - Vorträge:
         - Frank Engert, Softway: "Podcasts für die Wissensvermittlung" - [Video](https://youtu.be/m08vt6UP1N8), [Vortrag](archiv/20260126/We%20love%20Output@SAP%20Stammtisch%20Magdeburg%20-%2026.01.26.pdf)
         - Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?" - [Video](https://youtu.be/bXpJC7hlOoU)
-        - Angelina Mahl, DSAG Academy: "SAP lernen im Wandel - welche Kompetenzen die Zukunft braucht" - [Video](ttps://youtu.be/uNPafxN3CZ0)
+        - Angelina Mahl, DSAG Academy: "SAP lernen im Wandel - welche Kompetenzen die Zukunft braucht" - [Video](https://youtu.be/uNPafxN3CZ0)
         - Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem" - [Video](https://youtu.be/oNT-OagsRh8)
         - Jörg Brandeis, Brandeis: "Der Inhalt war gut, gelernt hat trotzdem keiner - welches Schulungsformat funktioniert wirklich für SAP-Teams?" - [Video](https://youtu.be/Y1Ahsr2FAcU)
     - Sonstiges:
