@@ -9,27 +9,32 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Schwerpunktthema: "Was macht die Bildung von morgen?"](archiv/20260126/bildung_morgen.png)
+![Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"](archiv/20260330/wissen_morgen.png)
 
-### Schwerpunktthema: "Was macht die Bildung von morgen?
+### Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"
 
-- Termin: 26.01.2026 - **Hybrid**
+- Termin: 30.03.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
-### Unsere vorläufige Gästeliste:
-- Jörg Brandeis, Brandeis: "Der Inhalt war gut, gelernt hat trotzdem keiner - welches Schulungsformat funktioniert wirklich für SAP-Teams?"
-- Frank Engert, Softway: "Podcasts für die Wissensvermittlung"
-- Angelina Mahl, DSAG Academy: "SAP lernen im Wandel - welche Kompetenzen die Zukunft braucht"
-- Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem"
-- Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?"
+### Unsere vorläufige Agenda*:
+
+1. "Vom BI Self Service zum Advisor: wenn Analytics Antworten hat und man nicht mehr suchen muss"
+2. "Die Business Data Cloud: wie wir unsere Daten und unser Wissen morgen `einlagern`"
+3. "Der Digitale Produktpass: wenn Produkte mehr über sich wissen als wir Menschen"
+4. "Datenräume und Verwaltungsschale: Daten und Wissen mit anderen souverän teilen"
+5. "Wenn Erfahrung in Rente geht: Wie Unternehmen Wissen sichern"
+6. n.n.
+
+* Diese Themen sind derzeit auf unserer Wunschliste und noch nicht endgültig. Wir gehen jeweils von 10-20 min Impulsvortrag aus, die wir als Grundlage für Diskussionen nutzen können. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden auch wieder aufzeichnen.
+
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste](https://www.eventbrite.com/e/sap-stammtisch-magdeburg-0126-weiterbildung-von-morgen-tickets-1977711179376?aff=oddtdtcreator&keep_tld=1)
-- [Anmeldung - virtuelle Gäste](https://www.linkedin.com/events/7407012246750461952/)
-- [Link zum virtuellen Meeting](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTE4NTliMTYtNmZlZC00MGM2LWE0YjMtNmJiNDZiM2E0NTE4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25225b0fd754-bbbe-45ed-8c4a-d39f92a252a5%2522%252c%2522Oid%2522%253a%252219034815-6841-408f-be29-a58fae8c9273%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=48c22c2e-513a-4571-b56e-52ac1e16ed6f&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+- [Anmeldung - Vor Ort Gäste - kommt noch]()
+- [Anmeldung - virtuelle Gäste - kommt noch]()
+- [Link zum virtuellen Meeting - kommt noch]()
 
 
 ### Sonstige Informationen
@@ -60,6 +65,19 @@ Wir freuen uns auf Euren Besuch!
 ![SAP Stammtisch Magdeburg IT Trendkonkress](res\sap_stammtisch_ITK_400x400.jpg)
 
 ## Archiv - bisherige Treffen und Dokumente
+
+### 2026
+
+- 26.01.2026 - #41 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Bildung von morgen?"
+    - Vorträge:
+        - Frank Engert, Softway: "Podcasts für die Wissensvermittlung" - [Video](https://youtu.be/m08vt6UP1N8), [Vortrag](archiv/20260126/We%20love%20Output@SAP%20Stammtisch%20Magdeburg%20-%2026.01.26.pdf)
+        - Stefan Weidner, SAP UCC: "Wohin (und vor allem wie schnell) bewegt sich die schulische und akademische SAP-Ausbildung?" - [Video](https://youtu.be/bXpJC7hlOoU)
+        - Angelina Mahl, DSAG Academy: "SAP lernen im Wandel - welche Kompetenzen die Zukunft braucht" - [Video](ttps://youtu.be/uNPafxN3CZ0)
+        - Jörg Siebert, Espresso Tutorials: "SAP 2026: Warum KI allein nicht reicht - Der Faktor Mensch im intelligenten SAP-Ökosystem" - [Video](https://youtu.be/oNT-OagsRh8)
+        - Jörg Brandeis, Brandeis: "Der Inhalt war gut, gelernt hat trotzdem keiner - welches Schulungsformat funktioniert wirklich für SAP-Teams?" - [Video](https://youtu.be/Y1Ahsr2FAcU)
+    - Sonstiges:
+        - [Teaser](archiv/20260126/bildung_morgen.png)
+
 
 ### 2025
 
@@ -212,4 +230,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 19.01.2026 mdjoerg
+last modified: 30.01.2026 mdjoerg
