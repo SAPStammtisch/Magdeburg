@@ -13,7 +13,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"
 
-- Termin: 30.03.2026 - **Hybrid**
+- Termin: **ACHTIUNG** noch nicht fix wegen Ferien in Deutschland: 23.03.2026 oder 30.03.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
@@ -230,4 +230,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 30.01.2026 mdjoerg
+last modified: 02.02.2026 mdjoerg
