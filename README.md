@@ -13,22 +13,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"
 
-- Termin: **ACHTIUNG** noch nicht fix wegen Ferien in Deutschland: 23.03.2026 oder 30.03.2026 - **Hybrid**
+- Termin: 23.03.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
-### Unsere vorläufige Agenda*:
 
-1. "Vom BI Self Service zum Advisor: wenn Analytics Antworten hat und man nicht mehr suchen muss"
-2. "Die Business Data Cloud: wie wir unsere Daten und unser Wissen morgen `einlagern`"
-3. "Der Digitale Produktpass: wenn Produkte mehr über sich wissen als wir Menschen"
-4. "Datenräume und Verwaltungsschale: Daten und Wissen mit anderen souverän teilen"
-5. "Wenn Erfahrung in Rente geht: Wie Unternehmen Wissen sichern"
-6. n.n.
-
-* Diese Themen sind derzeit auf unserer Wunschliste und noch nicht endgültig. Wir gehen jeweils von 10-20 min Impulsvortrag aus, die wir als Grundlage für Diskussionen nutzen können. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden auch wieder aufzeichnen.
-
+Wir haben bereits verschiedene Zusagen für Vorträge rund um Wissen und Daten. Die Vorträge sind kurze Impulsvorträge (ca. 10-20 min), die wir als Grundlage für die Diskussion nutzen möchten. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden die Vorträge wieder aufzeichnen und im Nachgang zur Verfügung stellen.
 
 
 ### Anmeldung und Link zum virtuellen Meeting
@@ -230,4 +221,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 02.02.2026 mdjoerg
+last modified: 24.02.2026 mdjoerg
