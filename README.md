@@ -9,7 +9,7 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"](archiv/20260330/wissen_morgen.png)
+![Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"](archiv/20260323/wissen_morgen.png)
 
 ### Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"
 
