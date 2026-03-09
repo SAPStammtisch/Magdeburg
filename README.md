@@ -19,7 +19,17 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
 
-Wir haben bereits verschiedene Zusagen für Vorträge rund um Wissen und Daten. Die Vorträge sind kurze Impulsvorträge (ca. 10-20 min), die wir als Grundlage für die Diskussion nutzen möchten. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden die Vorträge wieder aufzeichnen und im Nachgang zur Verfügung stellen.
+Wir haben bereits verschiedene Zusagen für Vorträge rund um Wissen und Daten. 
+
+Geplante Vorträge:
+1. Stefan Voigt: "Wissensmanagement im Unternehmen"
+2. Pia Stürzebecher: "Von alten Ha(a)sen lernen: Methoden und Technologien für den Erfahrungstransfer"
+3. Sebastian Junghans: "Wenn Erfahrung in Rente geht: Wie Unternehmen Wissen sichern“
+4. Johannes Mäule: ["Asset Administration Shell: Klare und verlässliche Shopfloor-Daten durch Standards und Semantik"](/archiv/20260323/aas_preview.md) 
+5. Tobias Kutzler: ["Vom Datensilo zum Wissensraum – Datenräume verstehen und diskutieren"](/archiv/20260323/datenraeume_preview.md)
+
+
+Die Vorträge sind kurze Impulsvorträge (ca. 10-20 min), die wir als Grundlage für die Diskussion nutzen möchten. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden die Vorträge wieder aufzeichnen und im Nachgang zur Verfügung stellen.
 
 
 ### Anmeldung und Link zum virtuellen Meeting
@@ -221,4 +231,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 24.02.2026 mdjoerg
+last modified: 09.03.2026 mdjoerg
