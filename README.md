@@ -33,9 +33,9 @@ Die Vorträge sind kurze Impulsvorträge (ca. 10-20 min), die wir als Grundlage 
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste - kommt noch]()
-- [Anmeldung - virtuelle Gäste - kommt noch]()
-- [Link zum virtuellen Meeting - kommt noch]()
+- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/2026/02/27/sap-stammtisch-magdeburg-03-26/)
+- [Anmeldung - virtuelle Gäste](https://www.linkedin.com/events/sapstammtischmagdeburg03-26-was7434230829343674368/)
+- [Link zum virtuellen Meeting](https://ovgu.zoom-x.de/j/64513313790)
 
 
 ### Sonstige Informationen
@@ -231,4 +231,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 09.03.2026 mdjoerg
+last modified: 12.03.2026 mdjoerg
