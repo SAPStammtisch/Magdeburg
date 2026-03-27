@@ -18,9 +18,9 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/2026/02/27/sap-stammtisch-magdeburg-03-26/)
-- [Anmeldung - virtuelle Gäste](https://www.linkedin.com/events/sapstammtischmagdeburg03-26-was7434230829343674368/)
-- [Link zum virtuellen Meeting](https://ovgu.zoom-x.de/j/64513313790)
+- [Anmeldung - Vor Ort Gäste]()
+- [Anmeldung - virtuelle Gäste]()
+- [Link zum virtuellen Meeting]()
 
 
 ### Sonstige Informationen
