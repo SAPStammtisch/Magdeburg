@@ -9,27 +9,12 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"](archiv/20260323/wissen_morgen.png)
+### Schwerpunktthema: (noch offen)
 
-### Schwerpunktthema: "Was machen wir morgen mit unserem Wissen?"
-
-- Termin: 23.03.2026 - **Hybrid**
+- Termin: geplant 18.05.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
-
-
-Wir haben bereits verschiedene Zusagen für Vorträge rund um Wissen und Daten. 
-
-Geplante Vorträge:
-1. Stefan Voigt: "Wissensmanagement im Unternehmen"
-2. Pia Stürzebecher: "Von alten Ha(a)sen lernen: Methoden und Technologien für den Erfahrungstransfer"
-3. Sebastian Junghans: "Wenn Erfahrung in Rente geht: Wie Unternehmen Wissen sichern“
-4. Johannes Mäule: ["Asset Administration Shell: Klare und verlässliche Shopfloor-Daten durch Standards und Semantik"](/archiv/20260323/aas_preview.md) 
-5. Tobias Kutzler: ["Vom Datensilo zum Wissensraum – Datenräume verstehen und diskutieren"](/archiv/20260323/datenraeume_preview.md)
-
-
-Die Vorträge sind kurze Impulsvorträge (ca. 10-20 min), die wir als Grundlage für die Diskussion nutzen möchten. Weitere Vorschläge könnt Ihr gern bei uns einreichen. Wir werden die Vorträge wieder aufzeichnen und im Nachgang zur Verfügung stellen.
 
 
 ### Anmeldung und Link zum virtuellen Meeting
@@ -68,6 +53,16 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2026
+
+- 23.03.2026 - #42 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was machen wir morgen mit unserem Wissen?"
+    - Vorträge
+        - Stefan Voigt: "Wissensmanagement im Unternehmen" - [Vortrag](archiv/20260323/wissensmanagement-in-unternehmen-voigt-2026-03-23.pdf), [Video](https://youtu.be/sQz3zCnxEK4)
+        - Pia Stürzebecher: "Von alten Ha(a)sen lernen: Methoden und Technologien für den Erfahrungstransfer" - [Vortrag](archiv/20260323/SAP%20Stammtisch_Erfahrungstransfer_Pia_Stürzebecher.pdf), [Video](https://youtu.be/8XozFAFDNcw)
+        - Sebastian Junghans: "Wenn Erfahrung in Rente geht: Wie Unternehmen Wissen sichern“ - [Vortrag](archiv/20260323/2026-03-23-SAPstammtisch_Junghans.pdf), [Video](https://youtu.be/SByunGSzTH8)
+        - Johannes Mäule: "Asset Administration Shell: Klare und verlässliche Shopfloor-Daten durch Standards und Semantik" - [Preview](/archiv/20260323/aas_preview.md),  [Vortrag](archiv/20260323/AAS_Vortrag_Externe_OhneBilder.pdf) 
+        - Tobias Kutzler: "Vom Datensilo zum Wissensraum – Datenräume verstehen und diskutieren" - [Preview](/archiv/20260323/datenraeume_preview.md)
+    - Sonstiges
+        - [Teaser](archiv/20260323/wissen_morgen.png)
 
 - 26.01.2026 - #41 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was macht die Bildung von morgen?"
     - Vorträge:
@@ -231,4 +226,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 12.03.2026 mdjoerg
+last modified: 27.03.2026 mdjoerg
