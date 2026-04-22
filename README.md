@@ -9,13 +9,26 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-### Schwerpunktthema: (noch offen)
+![Teaser](archiv/20260518/sst_teaser_communities.png)
 
-- Termin: geplant 18.05.2026 - **Hybrid**
+### Schwerpunktthema: "Zukunft der Communities"
+
+- Termin: 18.05.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
+Der Anlass für das Schwerpunktthema war, dass zeitgleich die größte Community Konferenz für Softwareentwickler in Deutschland - die Magdeburger Developer Days - stattfindet. Zum 11. Mal und wahrscheinlich ausgebucht.
+
+Wir haben uns verschiedene Vetreter von Communities aus der SAP- und Non-SAP-Welt eingeladen und wollen gemeinsam über die Wichtigkeit von Communities reden.
+
+Vorläufige Agenda/Gästeliste:
+- Magdeburger Developer Days (MDD)
+- SAP Community 
+- Woman@DSAG
+- ABAPConf
+- MeetUp Digital Magdeburg
+- ...
 
 ### Anmeldung und Link zum virtuellen Meeting
 - [Anmeldung - Vor Ort Gäste]()
@@ -226,4 +239,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 27.03.2026 mdjoerg
+last modified: 22.04.2026 mdjoerg
