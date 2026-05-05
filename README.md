@@ -23,15 +23,19 @@ Der Anlass für das Schwerpunktthema war, dass zeitgleich die größte Community
 Wir haben uns verschiedene Vetreter von Communities aus der SAP- und Non-SAP-Welt eingeladen und wollen gemeinsam über die Wichtigkeit von Communities reden.
 
 Vorläufige Agenda/Gästeliste:
-- Magdeburger Developer Days (MDD)
-- SAP Community 
-- Woman@DSAG
-- ABAPConf
-- MeetUp Digital Magdeburg
+- Magdeburger Developer Days (MDD), Michael Blume
+- ABAPConf, Tobias Hofmann
+- Woman@DSAG, Babett Ruß
+- MeetUp Digital Magdeburg, Ingo Heyroth
+- SAP Community, N.N. 
 - ...
 
+**Achtung**:
+Im Rahmen der parallel stattfindenen [Magdeburger Developer Days](http://md-devdays.de/) gibt es ebenfalls am Montag von 9:00 Uhr bis 17:00 Uhr einen **kostenlosen KI Workshop**. Weitere Infos dazu findet ihr [hier](https://www.brandeis.de/blog/ki-workshop-mdd26/).  
+
+
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste]()
+- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/2026/05/04/sap-stammtisch-magdeburg-05-26/)
 - [Anmeldung - virtuelle Gäste]()
 - [Link zum virtuellen Meeting]()
 
@@ -239,4 +243,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 22.04.2026 mdjoerg
+last modified: 05.05.2026 mdjoerg
