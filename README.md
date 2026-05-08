@@ -27,7 +27,7 @@ Vorläufige Agenda/Gästeliste:
 - ABAPConf, Tobias Hofmann
 - Woman@DSAG, Babett Ruß
 - MeetUp Digital Magdeburg, Ingo Heyroth
-- SAP Community, N.N. 
+- SAP Community, Hendrik Neumann  
 - ...
 
 **Achtung**:
@@ -243,4 +243,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 05.05.2026 mdjoerg
+last modified: 08.05.2026 mdjoerg
