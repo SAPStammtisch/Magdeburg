@@ -28,6 +28,7 @@ Vorläufige Agenda/Gästeliste:
 - Woman@DSAG, Babett Ruß
 - MeetUp Digital Magdeburg, Ingo Heyroth
 - SAP Community, Hendrik Neumann  
+- Zukunft der Communities, Daniel Chrobot
 - ...
 
 **Achtung**:
@@ -243,4 +244,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 08.05.2026 mdjoerg
+last modified: 09.05.2026 mdjoerg
