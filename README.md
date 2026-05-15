@@ -38,7 +38,7 @@ Im Rahmen der parallel stattfindenen [Magdeburger Developer Days](http://md-devd
 ### Anmeldung und Link zum virtuellen Meeting
 - [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/2026/05/04/sap-stammtisch-magdeburg-05-26/)
 - [Anmeldung - virtuelle Gäste]()
-- [Link zum virtuellen Meeting]()
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/meet/39997495372625?p=qEJbvocf3kEzme8NAr)
 
 
 ### Sonstige Informationen
@@ -244,4 +244,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 09.05.2026 mdjoerg
+last modified: 15.05.2026 mdjoerg
