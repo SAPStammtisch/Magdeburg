@@ -9,36 +9,22 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-![Teaser](archiv/20260518/sst_teaser_communities.png)
+Da unsere Regel "letzter Montag im ungeraden Monat" mitten in die Ferienzeit fällt, pausieren wir im Sommer. Regionale Teilnehmer sollten trotzdem hier ab und zu vorbei schauen, da wir in den letzten Jahren immer mal wieder spontane Aktionen im Sommer gemacht haben: z.B. Spontaner Biergartenbesuch. Ansonsten treffen wir uns im September wieder im SAP UCC Magdeburg.
 
-### Schwerpunktthema: "Zukunft der Communities"
+![Teaser](archiv/20260928/sst_teaser_analytics.png)
 
-- Termin: 18.05.2026 - **Hybrid**
+### Schwerpunktthema: „Was macht Analytics von morgen?“
+
+- Termin: 28.09.2026 - **Hybrid**
 - 18:30 Uhr Einlass im SAP UCC
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
-Der Anlass für das Schwerpunktthema war, dass zeitgleich die größte Community Konferenz für Softwareentwickler in Deutschland - die Magdeburger Developer Days - stattfindet. Zum 11. Mal und wahrscheinlich ausgebucht.
-
-Wir haben uns verschiedene Vetreter von Communities aus der SAP- und Non-SAP-Welt eingeladen und wollen gemeinsam über die Wichtigkeit von Communities reden.
-
-Vorläufige Agenda/Gästeliste:
-- Magdeburger Developer Days (MDD), Michael Blume
-- ABAPConf, Tobias Hofmann
-- Woman@DSAG, Babett Ruß
-- MeetUp Digital Magdeburg, Ingo Heyroth
-- SAP Community, Hendrik Neumann  
-- Zukunft der Communities, Daniel Chrobot
-- ...
-
-**Achtung**:
-Im Rahmen der parallel stattfindenen [Magdeburger Developer Days](http://md-devdays.de/) gibt es ebenfalls am Montag von 9:00 Uhr bis 17:00 Uhr einen **kostenlosen KI Workshop**. Weitere Infos dazu findet ihr [hier](https://www.brandeis.de/blog/ki-workshop-mdd26/).  
-
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/2026/05/04/sap-stammtisch-magdeburg-05-26/)
-- [Anmeldung - virtuelle Gäste]()
-- [Link zum virtuellen Meeting](https://teams.microsoft.com/meet/39997495372625?p=qEJbvocf3kEzme8NAr)
+- [Anmeldung - Vor Ort Gäste - kommt noch]()
+- [Anmeldung - virtuelle Gäste - kommt noch]()
+- [Link zum virtuellen Meeting - kommt noch]()
 
 
 ### Sonstige Informationen
@@ -52,7 +38,6 @@ Wir freuen uns auf Euren Besuch!
 ## Der SAP Stammtisch Magdeburg im Internet
 
 - [Mastodon: #SAPStammtischMD](https://machteburch.social/@SAPStammtisch)
-- [X: #SAPStammtischMD](https://www.x.com/hashtag/sapstammtischmd)
 - [BlueSky: #SAPStammtischMD](https://bsky.app/hashtag/sapstammtischmd)
 - [SAP Community Gruppe Magdeburg](https://groups.community.sap.com/t5/magdeburg/gh-p/magdeburg)
 - [SAP Community Events - SAP Stammtische](https://groups.community.sap.com/t5/sap-stammtisch/eb-p/stammtisch)
@@ -71,6 +56,16 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2026
+
+- 18.05.2026 - #43 - Vor-Ort SAP UCC Hybrid: Schwerpunktthema: "Zukunft der Communities"
+    - Vorträge (Vorträge/Video kommen später)
+        - Michael Blume: "Magdeburger Developer Days (MDD)"
+        - Tobias Hofmann: "ABAPConf" 
+        - Babett Ruß: "Woman@DSAG" 
+        - Ingo Heyroth & Lars Bendler: "MeetUp Digital Magdeburg" - [Vortrag](archiv/20260518/Vorstellung_MD_Digital.pdf)
+        - Daniel Chrobot: "Zukunft der Communities"
+    - Sonstige
+        - [Teaser](archiv/20260518/sst_teaser_communities.png)    
 
 - 23.03.2026 - #42 - Vor-Ort SAP UCC Hybrid: Schwerpunkt "Was machen wir morgen mit unserem Wissen?"
     - Vorträge
@@ -244,4 +239,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 15.05.2026 mdjoerg
+last modified: 23.05.2026 mdjoerg
