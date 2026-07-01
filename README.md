@@ -58,7 +58,7 @@ Wir freuen uns auf Euren Besuch!
 ### 2026
 
 - 18.05.2026 - #43 - Vor-Ort SAP UCC Hybrid: Schwerpunktthema: "Zukunft der Communities"
-    - Vorträge (Vorträge/Video kommen später)
+    - Vorträge/Videos
         - Michael Blume: "Magdeburger Developer Days (MDD)" - [Video](https://youtu.be/7L4VFAJNLKs)
         - Tobias Hofmann: "ABAPConf" - [Video](https://youtu.be/jZvQkdDgl5o)
         - Ingo Heyroth & Lars Bendler: "MeetUp Digital Magdeburg" - [Vortrag](archiv/20260518/Vorstellung_MD_Digital.pdf), [Video](https://youtu.be/asLxhA-GIGg)
