@@ -59,11 +59,11 @@ Wir freuen uns auf Euren Besuch!
 
 - 18.05.2026 - #43 - Vor-Ort SAP UCC Hybrid: Schwerpunktthema: "Zukunft der Communities"
     - Vorträge (Vorträge/Video kommen später)
-        - Michael Blume: "Magdeburger Developer Days (MDD)"
-        - Tobias Hofmann: "ABAPConf" 
-        - Babett Ruß: "Woman@DSAG" 
-        - Ingo Heyroth & Lars Bendler: "MeetUp Digital Magdeburg" - [Vortrag](archiv/20260518/Vorstellung_MD_Digital.pdf)
-        - Daniel Chrobot: "Zukunft der Communities"
+        - Michael Blume: "Magdeburger Developer Days (MDD)" - [Video](https://youtu.be/7L4VFAJNLKs)
+        - Tobias Hofmann: "ABAPConf" - [Video](https://youtu.be/jZvQkdDgl5o)
+        - Ingo Heyroth & Lars Bendler: "MeetUp Digital Magdeburg" - [Vortrag](archiv/20260518/Vorstellung_MD_Digital.pdf), [Video](https://youtu.be/asLxhA-GIGg)
+        - Babett Ruß: "Woman@DSAG" - [Video](https://youtu.be/azWkDUjnYxw)
+        - Daniel Chrobot: "Zukunft der Communities" - [Video](https://youtu.be/LLIUz7quKwA)
     - Sonstige
         - [Teaser](archiv/20260518/sst_teaser_communities.png)    
 
@@ -239,4 +239,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 23.05.2026 mdjoerg
+last modified: 01.07.2026 mdjoerg
