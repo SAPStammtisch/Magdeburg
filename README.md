@@ -3,11 +3,13 @@
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
 
-## Achtung: SAP Sommer-Stammtisch am Mi, 02.09.2026 ab 18:00 Uhr 
+## Achtung: SAP Sommer-Stammtisch 
 
-Es war nicht einfach, aber wir haben jetzt einen Termin für unseren außerplanmäßigen Sommer-Stammtisch. Ausnahmsweise mal nur für regionale Vor-Ort-Besucher ohne Streaming. Also so richtig Stammtisch-Athmosphäre.
+**Termin:** Mi, 02.09.2026 ab 18:00 Uhr 
 
-Wir treffen uns voraussichtlich in der https://milchkuranstalt.de (Nähe Magdeburger Dom Richtung Elbe). Start irgendwas ab 18:00 Uhr.
+Es war nicht einfach, aber wir haben jetzt einen Termin für unseren **außerplanmäßigen Sommer-Stammtisch**. Ausnahmsweise mal nur für regionale Vor-Ort-Besucher ohne Streaming. Also so richtig Stammtisch-Atmosphäre.
+
+Wir treffen uns voraussichtlich in der [Milchkuranstalt](https://milchkuranstalt.de) - das ist in der Nähe Magdeburger Dom Richtung Elbe. Start irgendwas ab 18:00 Uhr.
 
 Falls das Wetter nicht mitspielt, bekommt ihr HIER ein Update, wo wir uns alternativ treffen. Wahrscheinlich wird das dann irgendeine Bar am Hassel sein. 
 
