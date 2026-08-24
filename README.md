@@ -2,6 +2,18 @@
 
 ![SAP Stammtisch Magdeburg Banner](res\sapstammtischmd_xing_banner.png)
 
+
+## Achtung: SAP Sommer-Stammtisch am Mi, 02.09.2026 ab 18:00 Uhr 
+
+Es war nicht einfach, aber wir haben jetzt einen Termin für unseren außerplanmäßigen Sommer-Stammtisch. Ausnahmsweise mal nur für regionale Vor-Ort-Besucher ohne Streaming. Also so richtig Stammtisch-Athmosphäre.
+
+Wir treffen uns voraussichtlich in der https://milchkuranstalt.de (Nähe Magdeburger Dom Richtung Elbe). Start irgendwas ab 18:00 Uhr.
+
+Falls das Wetter nicht mitspielt, bekommt ihr HIER ein Update, wo wir uns alternativ treffen. Wahrscheinlich wird das dann irgendeine Bar am Hassel sein. 
+
+Kommen kann jeder, der Lust auf SAP Themen oder Sonstiges hat. Wer uns noch nicht kennt: wir werden uns irgendwie kenntlich machen durch spezielle T-Shirts o.ä.
+
+
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
@@ -239,4 +251,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 01.07.2026 mdjoerg
+last modified: 24.08.2026 mdjoerg
