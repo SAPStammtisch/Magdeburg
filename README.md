@@ -5,17 +5,6 @@
 
 ## Achtung: SAP Sommer-Stammtisch 
 
-**Termin:** Mi, 02.09.2026 ab 18:00 Uhr 
-
-Es war nicht einfach, aber wir haben jetzt einen Termin für unseren **außerplanmäßigen Sommer-Stammtisch**. Ausnahmsweise mal nur für regionale Vor-Ort-Besucher ohne Streaming. Also so richtig Stammtisch-Atmosphäre.
-
-Wir treffen uns voraussichtlich in der [Milchkuranstalt](https://milchkuranstalt.de) - das ist in der Nähe Magdeburger Dom Richtung Elbe. Start irgendwas ab 18:00 Uhr.
-
-Falls das Wetter nicht mitspielt, bekommt ihr HIER ein Update, wo wir uns alternativ treffen. Wahrscheinlich wird das dann irgendeine Bar am Hassel sein. 
-
-Kommen kann jeder, der Lust auf SAP Themen oder Sonstiges hat. Wer uns noch nicht kennt: wir werden uns irgendwie kenntlich machen durch spezielle T-Shirts o.ä.
-
-
 ## SAP Stammtisch Magdeburg
 Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Community. Egal, welches Modul Ihr betreut, egal ob Entwickler, Administrator, Anwender oder Berater, alle sind herzlich eingeladen. Der Erfahrungsaustausch rund um SAP wie auch alle Nicht-SAP-Themen steht im Mittelpunkt.
 
@@ -23,7 +12,6 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ## Aktuelles - Nächstes Treffen
 
-Da unsere Regel "letzter Montag im ungeraden Monat" mitten in die Ferienzeit fällt, pausieren wir im Sommer. Regionale Teilnehmer sollten trotzdem hier ab und zu vorbei schauen, da wir in den letzten Jahren immer mal wieder spontane Aktionen im Sommer gemacht haben: z.B. Spontaner Biergartenbesuch. Ansonsten treffen wir uns im September wieder im SAP UCC Magdeburg.
 
 ![Teaser](archiv/20260928/sst_teaser_analytics.png)
 
@@ -34,9 +22,26 @@ Da unsere Regel "letzter Montag im ungeraden Monat" mitten in die Ferienzeit fä
 - 19:00 Start der Vorträge und des virtuellen Meetings
 - 21:30 voraussichtliches Ende des offiziellen Teils
 
+#### Agenda:
+
+1. **„Wechsel zu BW/4HANA – wegen End of Life oder um die Performance zu erhöhen?“**  
+Marten Ringlepp, in4MD Service GmbH:  
+_Die Wartung von SAP BW 7.5 läuft aus – Zeit zu handeln? Marten Ringlepp beleuchtet die verschiedenen Migrationspfade zu SAP BW/4HANA und zeigt anhand von Praxisbeispielen, welche Ansätze für eine zukunftssichere SAP-BW-Landschaft sinnvoll sind. Greenfield, Brownfield oder Bluefield – was bedeutet das für Performance, Aufwand und Investitionen? Der Vortrag bietet Entscheidungshilfen rund um die Modernisierung der SAP-Analytics-Landschaft._
+
+
+2. **„Einsichten auf Knopfdruck: Analysen mit Calculation Views“**  
+Jan Zwickel, SAP SE  
+_Calculation Views sind das Herzstück moderner Datenanalysen in SAP HANA. Jan Zwickel zeigt, wie mit Calculation Views Daten flexibel modelliert und direkt für Berichte oder KI-Anwendungen genutzt werden können – ohne aufwändige ETL-Prozesse. Der Vortrag gibt Einblicke in die Integration mit der SAP Business Data Cloud und verdeutlicht, wie Calculation Views das Datenökosystem von morgen prägen._
+
+
+3. **„Daten(analyse) in der nächsten Dimension“**  
+Jörg Müller, Brandeis Consulting  
+_Unsere technische Welt hat sich spätestens mit KI rasant weiterentwickelt. Sollten wir unser Verständnis zu Daten und deren Analyse anpassen? Der Vortrag setzt ein paar Impulse, die Euch zum Nachdenken über Daten anregen sollen._
+
+
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste - kommt noch]()
+- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/44-sap-stammtisch-magdeburg/)
 - [Anmeldung - virtuelle Gäste - kommt noch]()
 - [Link zum virtuellen Meeting - kommt noch]()
 
@@ -253,4 +258,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 24.08.2026 mdjoerg
+last modified: 21.09.2026 mdjoerg
