@@ -43,7 +43,7 @@ _Unsere technische Welt hat sich spätestens mit KI rasant weiterentwickelt. Sol
 ### Anmeldung und Link zum virtuellen Meeting
 - [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/44-sap-stammtisch-magdeburg/)
 - [Anmeldung - virtuelle Gäste - kommt noch]()
-- [Link zum virtuellen Meeting - kommt noch]()
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/meet/31919169116262?p=cMsM2MO9B2hzww8YYo)
 
 
 ### Sonstige Informationen
@@ -258,4 +258,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 21.09.2026 mdjoerg
+last modified: 25.09.2026 mdjoerg
