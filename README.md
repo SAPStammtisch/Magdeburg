@@ -10,40 +10,26 @@ Der SAP Stammtisch Magdeburg ist ein regelmäßiges Treffen der lokalen SAP Comm
 
 Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise treffen wir uns im [SAP University Competence Center (SAP UCC) am Universitätsplatz 12, Magdeburg](https://maps.app.goo.gl/BaQuaCSnDzYChWbK6). Manchmal sind wir auch zu Gast bei regionalen Unternehmen und Organisationen. Seit 2022 sind wir dazu übergegangen, hybride Meetings durchzuführen. 
 
-## Aktuelles - Nächstes Treffen
+## Aktuelles - Nächstes Treffen - #45
 
 
-![Teaser](archiv/20260928/sst_teaser_analytics.png)
+![Teaser](archiv/20261130/sst_apps_von_morgen.jpg)
 
-### Schwerpunktthema: „Was macht Analytics von morgen?“
+### Schwerpunktthema: "Was sind die Apps von morgen?"
 
-- Termin: 28.09.2026 - **Hybrid**
-- 18:30 Uhr Einlass im SAP UCC
-- 19:00 Start der Vorträge und des virtuellen Meetings
-- 21:30 voraussichtliches Ende des offiziellen Teils
+Wir wollen das Jahr 2026 ausklingen lassen und wie gewohnt in die Zukunft schauen: Was sind die Apps von morgen? 
 
-#### Agenda:
+Wenn wir Apps sagen, meinen wir vor allem gelungene SAP FIORI Anwendungen oder auch SAP Freestyle Apps für ganz spezielle Themen. Apps, die die Anwender überzeugt haben, Probleme lösen und sich vom Rest abheben. Wir wollen einen kleinen Pitch veranstalten "Show me your Apps" und suchen Eure coolen Lösungen, vorgestellt in max. 10 min.
 
-1. **„Wechsel zu BW/4HANA – wegen End of Life oder um die Performance zu erhöhen?“**  
-Marten Ringlepp, in4MD Service GmbH:  
-_Die Wartung von SAP BW 7.5 läuft aus – Zeit zu handeln? Marten Ringlepp beleuchtet die verschiedenen Migrationspfade zu SAP BW/4HANA und zeigt anhand von Praxisbeispielen, welche Ansätze für eine zukunftssichere SAP-BW-Landschaft sinnvoll sind. Greenfield, Brownfield oder Bluefield – was bedeutet das für Performance, Aufwand und Investitionen? Der Vortrag bietet Entscheidungshilfen rund um die Modernisierung der SAP-Analytics-Landschaft._
+Die Apps der Zukunft könnten KI Chats mit generierten Oberflächen sein - auch bekannt als Headless Apps oder appless. Vielleicht brauchen wir für die Anwender gar keine Apps mehr, weil SAP die Vision des "Autonomous Enterprise" umsetzen konnte? Oder wir haben sprachgesteuerte Apps? Implantate im Kopf? Oder Virtual und Augmented Reality setzt sich doch noch durch? 
 
-
-2. **„Einsichten auf Knopfdruck: Analysen mit Calculation Views“**  
-Jan Zwickel, SAP SE  
-_Calculation Views sind das Herzstück moderner Datenanalysen in SAP HANA. Jan Zwickel zeigt, wie mit Calculation Views Daten flexibel modelliert und direkt für Berichte oder KI-Anwendungen genutzt werden können – ohne aufwändige ETL-Prozesse. Der Vortrag gibt Einblicke in die Integration mit der SAP Business Data Cloud und verdeutlicht, wie Calculation Views das Datenökosystem von morgen prägen._
-
-
-3. **„Daten(analyse) in der nächsten Dimension“**  
-Jörg Müller, Brandeis Consulting  
-_Unsere technische Welt hat sich spätestens mit KI rasant weiterentwickelt. Sollten wir unser Verständnis zu Daten und deren Analyse anpassen? Der Vortrag setzt ein paar Impulse, die Euch zum Nachdenken über Daten anregen sollen._
-
+Wir wissen es nicht und genau darüber wollen wir mit Euch diskutieren. Ihr könnt gern eigene Ideen einbringen und müsst dafür nicht vor Ort sein - der SAP Stammtisch Magdeburg ist wie gewohnt hybrid.
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/44-sap-stammtisch-magdeburg/)
+- [Anmeldung - Vor Ort Gäste - kommt noch]()
 - [Anmeldung - virtuelle Gäste - kommt noch]()
-- [Link zum virtuellen Meeting](https://teams.microsoft.com/meet/31919169116262?p=cMsM2MO9B2hzww8YYo)
+- [Link zum virtuellen Meeting]()
 
 
 ### Sonstige Informationen
@@ -75,6 +61,14 @@ Wir freuen uns auf Euren Besuch!
 ## Archiv - bisherige Treffen und Dokumente
 
 ### 2026
+
+- 28.09.2026 - #44 - Vor-Ort SAP UCC Hybrid: Schwerpunktthema: „Was macht Analytics von morgen?“
+    - Vorträge
+        - „Wechsel zu BW/4HANA – wegen End of Life oder um die Performance zu erhöhen?“, Marten Ringlepp, in4MD Service GmbH:  
+        - „Einsichten auf Knopfdruck: Analysen mit Calculation Views“, Jan Zwickel, SAP SE  
+        - „Daten(analyse) in der nächsten Dimension“, Jörg Müller, Brandeis Consulting  
+    - Sonstige:
+        - [Teaser](archiv/20260928/sst_teaser_analytics.png)    
 
 - 18.05.2026 - #43 - Vor-Ort SAP UCC Hybrid: Schwerpunktthema: "Zukunft der Communities"
     - Vorträge/Videos
@@ -258,4 +252,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 25.09.2026 mdjoerg
+last modified: 14.10.2026 mdjoerg
