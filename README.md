@@ -17,6 +17,13 @@ Unsere Treffen sind immer am letzten Montag im ungeraden Monat. Normalerweise tr
 
 ### Schwerpunktthema: "Was sind die Apps von morgen?"
 
+- Termin: 30.11.2026 - **Hybrid**
+- 18:30 Uhr Einlass im SAP UCC
+- 19:00 Start der Vorträge und des virtuellen Meetings
+- 21:30 voraussichtliches Ende des offiziellen Teils
+
+#### Agenda
+
 Wir wollen das Jahr 2026 ausklingen lassen und wie gewohnt in die Zukunft schauen: Was sind die Apps von morgen? 
 
 Wenn wir Apps sagen, meinen wir vor allem gelungene SAP FIORI Anwendungen oder auch SAP Freestyle Apps für ganz spezielle Themen. Apps, die die Anwender überzeugt haben, Probleme lösen und sich vom Rest abheben. Wir wollen einen kleinen Pitch veranstalten "Show me your Apps" und suchen Eure coolen Lösungen, vorgestellt in max. 10 min.
@@ -27,9 +34,10 @@ Wir wissen es nicht und genau darüber wollen wir mit Euch diskutieren. Ihr kön
 
 
 ### Anmeldung und Link zum virtuellen Meeting
-- [Anmeldung - Vor Ort Gäste - kommt noch]()
-- [Anmeldung - virtuelle Gäste - kommt noch]()
-- [Link zum virtuellen Meeting]()
+
+- [Anmeldung - Vor Ort Gäste](https://www.in4md-service.de/45-sap-stammtisch-magdeburg/)
+- [Anmeldung - virtuelle Gäste](https://www.linkedin.com/events/45-sapstammtischmagdeburg11-2027516768090915889152/)
+- [Link zum virtuellen Meeting](https://teams.microsoft.com/meet/344031049369935?p=n1mqOwPGlVU0ThbRWK)
 
 
 ### Sonstige Informationen
@@ -252,4 +260,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 14.10.2026 mdjoerg
+last modified: 10.11.2026 mdjoerg
