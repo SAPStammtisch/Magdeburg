@@ -32,6 +32,24 @@ Die Apps der Zukunft könnten KI Chats mit generierten Oberflächen sein - auch 
 
 Wir wissen es nicht und genau darüber wollen wir mit Euch diskutieren. Ihr könnt gern eigene Ideen einbringen und müsst dafür nicht vor Ort sein - der SAP Stammtisch Magdeburg ist wie gewohnt hybrid.
 
+Unsere vorläufige Teilnehmerliste*:
+
+| Titel                                                                          | Name                  |
+| ------------------------------------------------------------------------------ | --------------------- |
+| SAP FIORI Responsible Management                                               | Carsten (IN4MD)       |
+| Zeiterfassung                                                                  | Jens (FAM)            |
+| PDF Designer für den SAP Druck                                                 | Agon                  |
+| Power Exit Parameters                                                          | Enno (Inwerken)       |
+| ABAP Processing Center - SAP Hintergrundprozesse einheitlich unter Kontrolle   | Marcel (Brandeis)     |
+| Transparenz im Lager in Sekundenschnelle: Gefahrstoff-Monitoring mit SAP Fiori | Daniel (Flowprime)    |
+| plico - Vertrauensvolle KI                                                     | Frank/Sarah (operayo) |
+| Nexo - DSAG Community Bot                                                      | Klaus (DSAG/TTS)      |
+| Weder Dashboard noch Chatbot: Reporting, bei dem Chat und UI dieselbe App sind | Mike                  |
+| Microsoft Copilot für Business Anwender                                        | Holger (Microsoft)    |
+| BDT - Bessere Anforderungen                                                    | Jörg                  |
+
+*: Die Reihenfolge legen wir spontan fest. Die Teilnehmerliste und die Titel können sich noch ändern. 
+
 
 ### Anmeldung und Link zum virtuellen Meeting
 
@@ -260,4 +278,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 10.11.2026 mdjoerg
+last modified: 24.11.2026 mdjoerg
