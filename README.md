@@ -45,7 +45,6 @@ Unsere vorläufige Teilnehmerliste*:
 | plico - Vertrauensvolle KI                                                     | Frank/Sarah (operayo) |
 | Nexo - DSAG Community Bot                                                      | Klaus (DSAG/TTS)      |
 | Weder Dashboard noch Chatbot: Reporting, bei dem Chat und UI dieselbe App sind | Mike                  |
-| Microsoft Copilot für Business Anwender                                        | Holger (Microsoft)    |
 | BDT - Bessere Anforderungen                                                    | Jörg                  |
 
 *: Die Reihenfolge legen wir spontan fest. Die Teilnehmerliste und die Titel können sich noch ändern. 
