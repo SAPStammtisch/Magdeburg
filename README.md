@@ -39,7 +39,7 @@ Unsere vorläufige Teilnehmerliste*:
 | SAP FIORI Responsible Management                                               | Carsten (IN4MD)       |
 | Zeiterfassung                                                                  | Jens (FAM)            |
 | PDF Designer für den SAP Druck                                                 | Agon                  |
-| Power Exit Parameters                                                          | Enno (Inwerken)       |
+| Power Exit Parameters - Strukturierte Steuerung von Prozessparametern          | Enno (Inwerken)       |
 | ABAP Processing Center - SAP Hintergrundprozesse einheitlich unter Kontrolle   | Marcel (Brandeis)     |
 | Transparenz im Lager in Sekundenschnelle: Gefahrstoff-Monitoring mit SAP Fiori | Daniel (Flowprime)    |
 | plico - Vertrauensvolle KI                                                     | Frank/Sarah (operayo) |
@@ -277,4 +277,4 @@ Wir freuen uns auf Euren Besuch!
 [BA Business Advice GmbH](https://www.ba-gmbh.com)
 
 
-last modified: 24.11.2026 mdjoerg
+last modified: 27.11.2026 mdjoerg
